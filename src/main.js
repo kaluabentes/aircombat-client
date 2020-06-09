@@ -1,11 +1,18 @@
-import Game from "./core/Game";
+import Phaser from "phaser";
+
+import BattleScene from "./scenes/BattleScene";
+
+const MAX_WIDTH = 1280;
 
 function main() {
-  try {
-    new Game();
-  } catch (error) {
-    console.log(`[error] ${error.message}`);
-  }
+  const width = window.innerWidth > MAX_WIDTH ? MAX_WIDTH : window.innerWidth;
+
+  const game = new Phaser.Game({
+    type: Phaser.CANVAS,
+    width: width * window.devicePixelRatio,
+    height: window.innerHeight * window.devicePixelRatio,
+    scene: [BattleScene],
+  });
 }
 
-document.addEventListener("DOMContentLoaded", main);
+main();
