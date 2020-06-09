@@ -1,6 +1,6 @@
 import Phaser from "phaser";
 
-import BattleScene from "../scene/BattleScene";
+import BattleScene from "../scenes/BattleScene";
 
 const MAX_WIDTH = 1280;
 
