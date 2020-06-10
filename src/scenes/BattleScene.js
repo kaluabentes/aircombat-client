@@ -1,6 +1,7 @@
 import Phaser from "phaser";
 
 import Fighter from "../objects/Fighter";
+import BattleField from "../objects/BattleField";
 
 export default class BattleScene extends Phaser.Scene {
   constructor() {
@@ -10,8 +11,10 @@ export default class BattleScene extends Phaser.Scene {
   }
 
   create() {
-    this.add.image(0, 0, "map").setOrigin(0, 0);
+    this.battleField = new BattleField({ scene: this, x: 0, y: 0 });
+    this.fighter = new Fighter({ scene: this, x: 0, y: 0 });
 
-    this.add.existing(new Fighter(this, 0, 0));
+    this.add.existing(this.battleField);
+    this.add.existing(this.fighter);
   }
 }

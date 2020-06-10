@@ -1,7 +1,7 @@
 import Phaser from "phaser";
 
 import makeAnimations from "../helpers/makeAnimations";
-import mapImage from "../assets/images/map.png";
+import battleFieldImage from "../assets/images/battle-field.png";
 import fighterImage from "../assets/images/fighter.png";
 
 export default class BootScene extends Phaser.Scene {
@@ -31,7 +31,7 @@ export default class BootScene extends Phaser.Scene {
       this.scene.start("BattleScene");
     });
 
-    this.load.image("map", mapImage);
+    this.load.image("battleField", battleFieldImage);
 
     this.load.spritesheet("fighter", fighterImage, {
       frameWidth: 245,
