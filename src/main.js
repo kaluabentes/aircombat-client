@@ -1,5 +1,6 @@
 import Phaser from "phaser";
 
+import BootScene from "./scenes/BootScene";
 import BattleScene from "./scenes/BattleScene";
 
 const MAX_WIDTH = 1280;
@@ -11,7 +12,7 @@ function main() {
     type: Phaser.CANVAS,
     width: width * window.devicePixelRatio,
     height: window.innerHeight * window.devicePixelRatio,
-    scene: [BattleScene],
+    scene: [BootScene, BattleScene],
   });
 }
 
