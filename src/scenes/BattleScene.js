@@ -17,4 +17,9 @@ export default class BattleScene extends Phaser.Scene {
     this.add.existing(this.battleField);
     this.add.existing(this.fighter);
   }
+
+  update() {
+    const input = this.input.keyboard.createCursorKeys();
+    this.fighter.update(input);
+  }
 }
