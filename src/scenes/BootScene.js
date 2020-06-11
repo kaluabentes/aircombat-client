@@ -1,8 +1,7 @@
 import Phaser from "phaser";
 
 import makeAnimations from "../helpers/makeAnimations";
-import battleFieldImage from "../assets/images/battle-field.png";
-import fighterImage from "../assets/images/fighter.png";
+import jetSprite from "../assets/images/jet.png";
 
 export default class BootScene extends Phaser.Scene {
   constructor() {
@@ -31,9 +30,7 @@ export default class BootScene extends Phaser.Scene {
       this.scene.start("BattleScene");
     });
 
-    this.load.image("battleField", battleFieldImage);
-
-    this.load.spritesheet("fighter", fighterImage, {
+    this.load.spritesheet("jet", jetSprite, {
       frameWidth: 245,
       frameHeight: 350,
     });
