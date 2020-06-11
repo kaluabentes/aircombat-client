@@ -2,7 +2,7 @@ import Phaser from "phaser";
 
 import Jet from "../objects/Jet";
 import BattleField from "../objects/BattleField";
-import { WORLD_WIDTH, WORLD_HEIGHT } from "../config/settings";
+import { WORLD_WIDTH, WORLD_HEIGHT } from "../config/game";
 
 export default class BattleScene extends Phaser.Scene {
   constructor() {

@@ -2,11 +2,12 @@ import Phaser from "phaser";
 
 import BootScene from "./scenes/BootScene";
 import BattleScene from "./scenes/BattleScene";
-import { OUTSIDE_COLOR, MAX_GAME_WIDTH } from "./config/settings";
+import { OUTSIDE_COLOR, MAX_VIEWPORT_WIDTH } from "./config/game";
 
 function main() {
   const { innerHeight, innerWidth, devicePixelRatio } = window;
-  const width = innerWidth > MAX_GAME_WIDTH ? MAX_GAME_WIDTH : innerWidth;
+  const width =
+    innerWidth > MAX_VIEWPORT_WIDTH ? MAX_VIEWPORT_WIDTH : innerWidth;
 
   const game = new Phaser.Game({
     type: Phaser.CANVAS,

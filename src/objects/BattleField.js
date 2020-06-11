@@ -1,6 +1,6 @@
 import Phaser from "phaser";
 
-import { OUTSIDE_COLOR } from "../config/settings";
+import { OUTSIDE_COLOR } from "../config/game";
 
 const GROUND_COLOR = 0x4cbddd;
 
