@@ -27,10 +27,6 @@ export default class Fighter extends Phaser.Physics.Arcade.Sprite {
 
   preUpdate(time, delta) {
     super.preUpdate(time, delta);
-
-    if (this.y < 1000) {
-      this.y = this.battleField.height - this.height - 30;
-    }
   }
 
   update(input) {
@@ -49,15 +45,25 @@ export default class Fighter extends Phaser.Physics.Arcade.Sprite {
     } else {
       this.moveMinSpeed();
     }
-
-    console.log(Phaser.Math.RadToDeg(this.rotation));
   }
 
   moveMinSpeed() {
-    this.setVelocityY(-this.minSpeed);
+    const moved = this.scene.physics.velocityFromRotation(
+      this.rotation,
+      this.minSpeed,
+      new Phaser.Math.Vector2(this.body.velocity.x, this.body.velocity.y)
+    );
+    this.setVelocityX(moved.y);
+    this.setVelocityY(-moved.x);
   }
 
   moveMaxSpeed() {
-    this.setVelocityY(-this.maxSpeed);
+    const moved = this.scene.physics.velocityFromRotation(
+      this.rotation,
+      this.maxSpeed,
+      new Phaser.Math.Vector2(this.body.velocity.x, this.body.velocity.y)
+    );
+    this.setVelocityX(moved.y);
+    this.setVelocityY(-moved.x);
   }
 }
