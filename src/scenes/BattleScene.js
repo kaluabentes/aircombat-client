@@ -37,6 +37,7 @@ export default class BattleScene extends Phaser.Scene {
       });
       cloud.setX(Phaser.Math.Between(0, WORLD_WIDTH - cloud.width));
       cloud.setY(Phaser.Math.Between(0, WORLD_HEIGHT - cloud.height));
+      cloud.setAngle(Phaser.Math.Between(0, 360));
     }
 
     this.jet = new Jet({
