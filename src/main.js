@@ -13,6 +13,9 @@ function main() {
     width: width * window.devicePixelRatio,
     height: window.innerHeight * window.devicePixelRatio,
     scene: [BootScene, BattleScene],
+    physics: {
+      default: "arcade",
+    },
   });
 }
 
