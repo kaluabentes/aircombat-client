@@ -5,16 +5,14 @@ import { JET_SPRITE } from "../config/textures";
 
 export default class Jet extends Phaser.Physics.Arcade.Sprite {
   constructor({ scene, x, y }) {
-    super(scene, x, y);
+    super(scene, x, y, JET_SPRITE);
     scene.add.existing(this);
     scene.physics.add.existing(this);
 
-    this.setTexture(JET_SPRITE);
     this.play(JET_MIN_SPEED_ANIM);
 
     // Dependencies
     this.camera = scene.cameras.main;
-    this.battleField = scene.battleField;
 
     this.rotationVelocity = 0.03;
     this.minSpeed = 1000;
