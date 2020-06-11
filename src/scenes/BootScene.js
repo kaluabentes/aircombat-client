@@ -2,7 +2,8 @@ import Phaser from "phaser";
 
 import makeAnimations from "../helpers/makeAnimations";
 import jetSprite from "../assets/images/jet.png";
-import { JET_SPRITE } from "../config/textures";
+import cloudImage from "../assets/images/cloud.png";
+import { JET_SPRITE, CLOUD_IMAGE } from "../config/textures";
 
 export default class BootScene extends Phaser.Scene {
   constructor() {
@@ -35,5 +36,7 @@ export default class BootScene extends Phaser.Scene {
       frameWidth: 245,
       frameHeight: 350,
     });
+
+    this.load.image(CLOUD_IMAGE, cloudImage);
   }
 }

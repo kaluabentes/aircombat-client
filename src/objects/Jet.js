@@ -4,7 +4,7 @@ import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
 import { JET_SPRITE } from "../config/textures";
 
 export default class Jet extends Phaser.Physics.Arcade.Sprite {
-  constructor({ scene, x, y, spawnRandomly }) {
+  constructor({ scene, x, y }) {
     super(scene, x, y);
     scene.add.existing(this);
     scene.physics.add.existing(this);
@@ -15,17 +15,6 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     // Dependencies
     this.camera = scene.cameras.main;
     this.battleField = scene.battleField;
-
-    if (spawnRandomly) {
-      this.x = Phaser.Math.Between(
-        this.width * 0.5,
-        this.battleField.width - this.width * 0.5
-      );
-      this.y = Phaser.Math.Between(
-        this.height * 0.5,
-        this.battleField.height - this.height * 0.5
-      );
-    }
 
     this.rotationVelocity = 0.03;
     this.minSpeed = 1000;

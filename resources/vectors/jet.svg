@@ -234,7 +234,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="208.42152"
-     inkscape:cx="430.50916"
+     inkscape:cx="331.9151"
      inkscape:zoom="0.70998188"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -269,6 +269,9 @@
      inkscape:label="Layer 1"
      transform="translate(-6.028004,-96.515734)">
     <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="g246">
       <path
          inkscape:export-ydpi="150"
@@ -687,7 +690,7 @@
          inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
     </g>
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccscccc"
        d="m 190.98978,153.28578 c 0,0 0.24746,-0.90615 0.53561,-2.04999 0.24682,0.50328 0.42592,0.85203 0.42592,0.85203 -0.15966,-1.76166 0.4423,-3.70896 0.46304,-5.26331 0,-1.25258 -0.28572,-2.73457 -1.52296,-2.73457 -1.23724,0 -1.66221,1.48199 -1.66221,2.73457 0.36724,1.79194 0.50396,3.35247 0.72046,5.31698 0,0 0.18145,-0.31102 0.42442,-0.75771 0.33584,1.07258 0.61572,1.902 0.61572,1.902 z"
        style="opacity:0.995004;fill:#ff0000;fill-opacity:0.956863;stroke:none;stroke-width:0.0344269;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
@@ -695,7 +698,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path2901"
        style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0242582;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 190.94437,151.81618 c 0,0 0.18059,-0.61653 0.39086,-1.39478 0.18012,0.34244 0.31082,0.5797 0.31082,0.5797 -0.11651,-1.19859 0.32276,-3.17686 0.3379,-4.23439 0,-0.85223 -0.2085,-1.86052 -1.11137,-1.86052 -0.90288,0 -1.213,1.00829 -1.213,1.86052 0.26799,1.2192 0.36777,2.93432 0.52575,4.2709 0,0 0.13241,-0.2116 0.30972,-0.51551 0.24508,0.72976 0.44932,1.29408 0.44932,1.29408 z"
@@ -703,7 +706,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccscccc"
        d="m 190.91602,150.36299 c 0,0 0.13883,-0.47939 0.30049,-1.08453 0.13846,0.26626 0.23894,0.45076 0.23894,0.45076 -0.0896,-0.93198 0.24813,-1.96216 0.25977,-2.78445 0,-0.66267 -0.16029,-1.44667 -0.85439,-1.44667 -0.69411,0 -0.93251,0.784 -0.93251,1.44667 0.20602,0.94799 0.28272,1.77356 0.40418,2.81284 0,0 0.10179,-0.16454 0.2381,-0.40085 0.18841,0.56742 0.34542,1.00623 0.34542,1.00623 z"
        style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0187553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
@@ -711,7 +714,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path2907"
        style="opacity:0.995004;fill:#ff0000;fill-opacity:0.956863;stroke:none;stroke-width:0.0344269;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 194.80496,153.44095 c 0,0 0.24746,-0.90615 0.53561,-2.04999 0.24682,0.50328 0.42592,0.85201 0.42592,0.85201 -0.15966,-1.76165 0.4423,-3.70896 0.46304,-5.26329 0,-1.2526 -0.28572,-2.73457 -1.52296,-2.73457 -1.23724,0 -1.66221,1.48197 -1.66221,2.73457 0.36724,1.79193 0.50396,3.35247 0.72046,5.31697 0,0 0.18145,-0.31101 0.42442,-0.7577 0.33584,1.07257 0.61572,1.902 0.61572,1.902 z"
@@ -719,7 +722,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccscccc"
        d="m 194.75955,151.97133 c 0,0 0.18059,-0.61652 0.39086,-1.39476 0.18012,0.34242 0.31082,0.57969 0.31082,0.57969 -0.11651,-1.19858 0.32276,-3.17685 0.3379,-4.23438 0,-0.85223 -0.2085,-1.86054 -1.11137,-1.86054 -0.90288,0 -1.213,1.00831 -1.213,1.86054 0.26799,1.21918 0.36777,2.93431 0.52575,4.2709 0,0 0.13241,-0.2116 0.30972,-0.51551 0.24508,0.72974 0.44932,1.29406 0.44932,1.29406 z"
        style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0242582;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
@@ -727,7 +730,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path2911"
        style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0187553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 194.7312,150.51814 c 0,0 0.13883,-0.47937 0.30049,-1.08451 0.13846,0.26626 0.23894,0.45076 0.23894,0.45076 -0.0896,-0.93198 0.24813,-1.96217 0.25977,-2.78446 0,-0.66266 -0.16029,-1.44668 -0.85439,-1.44668 -0.69411,0 -0.93251,0.78402 -0.93251,1.44668 0.20602,0.948 0.28272,1.77357 0.40418,2.81285 0,0 0.10179,-0.16454 0.2381,-0.40085 0.18841,0.56741 0.34542,1.00621 0.34542,1.00621 z"
@@ -739,7 +742,7 @@
        style="opacity:0.993506;fill:#a7bcc1;fill-opacity:1;stroke:#000000;stroke-width:0.439441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 190.21371,111.07517 -3.21314,2.81157 -0.66941,8.4343 -14.12419,12.68256 v 3.09294 l 2.83368,2.43234 9.91434,3.0262 -0.78895,0.6312 -4.60712,4.10211 0.0947,3.53422 4.714,1.51395 4.79749,-4.37339 0.0444,-3.67492 3.07942,-0.0446 v 3.7642 l 0.41358,0.29554 0.41444,-0.29554 v -3.7642 l 3.08393,0.0446 0.0446,3.67492 4.80478,4.37339 4.7213,-1.51395 0.0949,-3.53422 -4.6142,-4.10211 -0.79024,-0.6312 9.92957,-3.0262 2.83819,-2.43234 v -3.09294 l -14.14608,-12.68256 -0.67049,-8.4343 -3.21807,-2.81157 c 0.17512,-5.05426 -0.38921,-10.50244 -2.49178,-14.339741 -2.4063,5.070341 -2.36681,10.181801 -2.48964,14.339741 z"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -747,7 +750,7 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 210.46771,138.66371 -0.018,1.81014 -3.8902,1.25045 -0.0457,-0.0618 -0.0375,-1.764 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -755,14 +758,14 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 206.43607,138.004 0.0777,3.65849 0.0457,0.0618 -6.02414,1.77575 0.78896,0.6312 0.091,0.0811 -1.60238,-0.37881 -0.54944,-4.06583 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        d="m 188.13629,135.76092 -7.78956,6.38742 4.60819,1.40665 -0.78896,0.63121 -4.60711,4.10211 0.0946,3.53421 1.5365,0.49342 7.98508,-4.19439 0.0148,-1.21628 -1.29955,-1.29955 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.11006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2921"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -770,7 +773,7 @@
        d="m 190.04661,130.24159 c 0.13116,0.18362 0.17159,0.42188 0.30275,0.6055 0.0622,0.0871 0.1792,0.13133 0.22707,0.22706 0.12062,0.24124 -0.14287,0.56383 -0.0757,0.83257 0.10526,0.42103 1.90442,0.73853 2.19494,0.30275 0.46167,-0.69251 0.6055,-1.9861 0.6055,-2.80044 0,-1.12308 0.24366,-2.29403 0.37844,-3.40595 0.0335,-0.27664 0.008,-0.56221 0.0757,-0.83256 0.0624,-0.24961 0.33565,-0.46397 0.45413,-0.68119 0.0762,-0.13973 0.34377,-0.79327 0.37844,-0.98394 0.10273,-0.56499 0.0439,-1.17061 0,-1.74081 -0.0293,-0.38098 -0.1211,-0.54496 -0.0757,-0.90825 0.0697,-0.55777 0.62801,-0.86633 0.90825,-1.28669 0.19265,-0.28897 0.34411,-1.03153 0.30275,-1.36238 -0.83902,-1.34753 0.35486,-0.79127 -0.52981,-2.95181 -0.59756,-1.32792 -1.65721,-2.2567 -3.10319,-2.4977 -0.0557,-0.009 -0.0252,0.12615 -0.0757,0.15138 -0.0714,0.0357 -0.15779,0.0361 -0.22706,0.0757 -0.79958,0.4569 -0.32019,1.60965 -0.45413,2.34631 -0.1198,0.65895 -1.29203,1.35082 -1.36237,2.19494 -0.0449,0.53876 0.17172,0.98623 0.45412,1.43807 0.21283,0.34051 0.25968,0.21785 0.30275,0.6055 0.11414,1.02726 -0.26627,1.99338 -0.15137,3.0275 0.0622,0.55995 0.53043,1.09126 0.75687,1.58944 0.16507,0.36315 0.26113,0.75405 0.37844,1.13532 0.19787,0.64306 0.16566,1.9393 -0.15137,2.57337 -0.11283,0.22566 -0.23779,0.4757 -0.45413,0.6055 -0.53892,0.32336 -1.25994,0.16443 -1.36238,0.98394 -0.0574,0.45903 -0.0454,0.49573 0.30275,0.75688 z"
        id="path2923"
        sodipodi:nodetypes="cssssssssssssccsscssssssssssc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -778,53 +781,53 @@
        style="opacity:0.999;fill:#c6dbe2;fill-opacity:1;stroke:#000000;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 191.58215,105.21722 c -0.7133,2.79873 -0.46235,5.35722 -0.12341,7.85653 l 1.18945,1.10918 1.18966,-1.10961 c 0.33894,-2.50029 0.58989,-5.05992 -0.12341,-7.85974 l -1.06453,-1.35042 z"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 187.90599,114.96562 v 0.52067 l 0.86778,0.78889 0.284,-0.22089 z"
        id="path2927"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 189.70466,113.32472 -0.0316,0.89934 0.568,0.48911 0.0158,-0.94667 z"
        id="path2929"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path2931"
        d="m 195.49864,113.32491 0.0316,0.89923 -0.56795,0.48905 -0.0158,-0.94655 z"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path2933"
        d="m 197.31317,114.91661 v 0.52129 l -0.87256,0.78983 -0.28557,-0.22115 z"
        style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.110255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 190.58488,116.89903 0.0446,1.69581 0.87022,-0.0446 -0.0223,-1.62887 z"
        id="path2935"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path2937"
        d="m 194.67741,116.89898 -0.0446,1.69585 -0.87055,-0.0446 0.0223,-1.6289 z"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path2939"
        style="opacity:0.990526;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 192.05047,125.6681 0.0335,1.47275 0.62821,0.639 0.64064,-0.639 0.0335,-1.47275 -0.67413,-0.568 z"
@@ -832,7 +835,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 189.42139,125.48964 0.0335,1.95241 0.31238,0.32354 0.36817,-0.34585 0.3347,0.33469 0.37932,-0.34585 0.30123,0.34585 0.27892,-0.29007 0.0112,-1.95241 -0.2566,0.20082 -0.34585,-0.27892 -0.34586,0.29008 -0.37933,-0.32355 -0.32354,0.3347 z"
        id="path2941"
@@ -840,7 +843,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccccccccccccc"
        id="path2943"
        d="m 196.01536,125.49833 -0.0335,1.9452 -0.31245,0.32234 -0.36825,-0.34457 -0.33476,0.33346 -0.37941,-0.34458 -0.30129,0.34458 -0.27899,-0.289 -0.0112,-1.9452 0.25666,0.20007 0.34593,-0.27788 0.34593,0.289 0.37941,-0.32235 0.32361,0.33347 z"
@@ -851,14 +854,14 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 175.04703,137.37018 v 0.3629 l 1.59356,0.50489 -0.0158,-0.37867 z"
        id="path2947"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path2949"
        d="m 210.12728,137.37189 v 0.36223 l -1.59355,0.50396 0.0158,-0.37798 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -866,7 +869,7 @@
        d="m 181.06178,138.44871 c -0.10677,-0.008 -0.21727,0.026 -0.32112,0 -0.26833,-0.0671 -0.0724,-0.0275 -0.32111,-0.21408 -0.5267,-0.39502 -1.12369,-0.78142 -1.81965,-0.64223 -0.68605,0.13721 -0.90783,0.8193 -1.44502,1.17743 -0.46854,0.31236 -1.71055,0.13483 -2.19429,-0.10704 -0.61248,-0.30624 -0.66029,-0.60743 -0.80279,-1.17742 -0.0333,-0.1333 0.0269,-0.29363 0,-0.42816 -0.0397,-0.19841 -0.15407,-0.61466 -0.10704,-0.80279 0.66,-2.15315 3.35017,-2.1898 4.38858,-3.15763 0.22659,-0.22659 0.34321,-0.57938 0.48167,-0.85631 1.33573,-2.1171 3.20182,-4.11439 5.35192,-4.22802 0.12472,-0.008 0.49575,-0.10891 0.58872,-0.16055 0.0487,-0.027 0.66624,-0.60093 0.69574,-0.64223 0.86935,-1.21709 0.99009,-2.16742 1.23095,-3.63931 0.0815,-0.49796 0.17302,-0.99563 0.21407,-1.49854 1.69906,-1.90551 -0.0817,-3.41576 0.21408,-4.65617 0.20864,-0.37556 0.75496,-0.596 1.1239,-0.37463 0.19413,0.11647 0.2511,1.72395 0.2676,1.81965 0.0383,0.22237 0.14923,0.42609 0.21407,0.64223 0.18348,0.61157 0.30136,1.23185 0.2676,1.87317 -0.01,0.18357 -0.10704,0.95859 -0.10704,1.12391 0,0.66195 0.15132,1.31605 0.10704,1.98021 -0.0223,0.33507 -0.19636,0.46858 -0.32111,0.74926 -0.2398,0.53955 -0.4313,1.02002 -0.85631,1.44502 -0.45416,0.45417 -0.99336,0.83281 -1.44502,1.28447 -0.20226,0.20225 -0.26911,0.52205 -0.42816,0.74926 -0.18099,0.25857 -0.44236,0.45148 -0.64222,0.69575 -0.37858,0.4627 -0.93849,1.09707 -1.07039,1.71262 -0.15523,0.72443 0.21606,2.19825 0.5352,2.83652 0.15581,0.31163 0.53722,0.41041 0.69574,0.69575 0.3477,0.62586 0.13837,1.59644 -0.16055,2.19429 -0.48715,0.97429 -1.26856,0.28472 -1.71262,0.80278 -0.22042,0.25716 -0.24258,0.93833 -0.37463,1.07039 -0.54832,0.63016 -0.96951,-0.17318 -2.24781,-0.2676 z"
        id="path2951"
        sodipodi:nodetypes="cssssscsccccscsccssscsssssssssssscc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -874,7 +877,7 @@
        d="m 175.02255,138.71865 0.018,1.81014 3.8902,1.25045 0.0457,-0.0618 0.0375,-1.764 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2953"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -882,7 +885,7 @@
        d="m 179.05419,138.05895 -0.0777,3.65848 -0.0457,0.0618 6.02414,1.77575 -0.78896,0.63121 -0.091,0.0811 1.60238,-0.37881 0.54944,-4.06584 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2955"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -890,7 +893,7 @@
        d="m 195.8866,123.46333 c -0.38441,-0.99478 -0.16858,-2.11117 -0.21407,-3.15763 -0.0201,-0.46125 -0.28075,-1.41901 -0.16056,-1.81966 0.0176,-0.0587 0.34281,-0.30954 0.37463,-0.32111 0.11855,-0.0431 0.25226,-0.0229 0.37464,-0.0535 0.36475,-0.0912 0.83816,-0.25875 1.23094,-0.16056 0.24818,0.062 0.10704,1.35146 0.10704,1.60558 0,0.46341 0.3459,1.1639 0.53519,1.60558 0.16012,0.37361 0.45481,0.69403 0.48167,1.1239 0.0802,1.2833 -0.15719,2.64264 0.0535,3.9069 0.0664,0.39862 0.95079,1.55271 1.28446,1.81965 0.42097,0.33678 0.68314,0.19194 0.80279,0.90983 -8.3e-4,0.79393 -0.59692,1.44757 -0.69575,2.14077 -0.077,0.61623 0.21805,0.49359 0.37463,0.96335 0.0591,0.17733 -0.18776,1.1245 -0.26759,1.23094 -0.0239,0.0319 -0.0759,0.0286 -0.10704,0.0535 -0.44621,0.35696 -0.64223,0.41053 -0.64223,1.01686 0,0.4555 0.10704,0.87898 0.10704,1.33798 0,0.0888 0.0173,0.31247 0,0.32112 -0.0926,0.0463 -0.2743,-0.0251 -0.37464,0 -0.65822,0.16455 -1.3256,-0.48162 -1.55205,-1.07039 -0.21028,-0.54672 -0.17474,-1.5198 -0.48167,-1.98021 -0.54726,-0.82089 -1.6586,-1.11892 -1.76614,-2.19429 -0.0616,-0.61616 0.14723,-0.77629 0.2676,-1.33798 0.47847,-1.23971 1.13918,-2.28244 0.69575,-4.1745 -0.0555,-0.61068 -0.42816,-1.16016 -0.42816,-1.76613 z"
        id="path2957"
        sodipodi:nodetypes="cssssssssssccssssscssssccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -898,7 +901,7 @@
        d="m 202.68354,129.93916 c -0.005,-0.0875 0.0111,-1.03907 0.0535,-1.12391 0.24176,-0.48351 1.42437,-0.55052 1.60558,0.0535 0.11333,0.3778 0.18124,0.89047 0.21408,1.28446 0.009,0.10667 -0.0192,0.21581 0,0.32112 0.10099,0.55545 0.48803,1.13775 0.8563,1.55206 0.86954,0.97822 2.52057,1.27286 3.58579,2.03373 0.0218,0.0156 1.20015,1.20541 1.28446,1.28446 0.3419,0.32053 0.79276,0.52516 1.1239,0.85631 0.14096,0.14095 0.15631,0.90217 0.10704,1.1239 -0.0572,0.25741 -0.20399,0.55019 -0.37463,0.74927 -0.61024,0.71194 -1.29705,0.38289 -2.08725,0.48167 -0.33334,0.0417 -1.02664,0.46315 -1.33798,0.21408 -0.27913,-0.22331 -0.36005,-0.91117 -0.5352,-1.07039 -0.30522,-0.27748 -0.93528,-0.40816 -1.28446,-0.48167 -0.54761,-0.11529 -0.34897,0.48211 -0.74926,0.64223 -0.39821,0.15928 -1.19894,0.147 -1.60558,0.16056 -0.3031,0.0101 -0.60655,0 -0.90982,0 -0.0714,0 -0.14547,-0.0196 -0.21408,0 -0.31167,0.089 -0.33764,0.52836 -0.58871,0.69575 -0.40609,0.27072 -1.30548,-0.68427 -1.44502,-0.96335 -0.039,-0.0781 -0.17715,-1.0078 -0.16056,-1.1239 0.0126,-0.0883 0.11827,-0.13554 0.16056,-0.21408 0.48807,-0.94443 1.12134,-1.39367 1.01686,-2.40837 -0.0485,-0.43603 -0.54112,-1.07804 -0.21407,-1.49853 0.94644,-0.85514 1.54441,-1.73254 1.49853,-2.56892 z"
        id="path2959"
        sodipodi:nodetypes="ccsssssssssssssssssssscccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -906,7 +909,7 @@
        d="m 200.98347,146.13599 c 0.18609,-0.093 0.39955,-0.12196 0.6055,-0.15138 0.97767,-0.13966 1.0301,0.43486 1.05963,1.17316 0.006,0.13865 -0.0216,0.27922 0,0.41628 0.0515,0.32612 0.19558,0.39866 0.45412,0.6055 0.30567,0.24453 0.53071,0.40397 0.90825,0.52981 0.2701,0.09 1.14987,0.0815 1.09748,0.6055 -0.0499,0.49872 -0.75688,0.93574 -0.75688,1.32454 0,0.36861 0.87158,0.54727 0.49197,1.02178 -0.35106,0.43883 -2.0093,0.43128 -2.49769,0.30275 -1.27983,-1.61088 -3.33248,0.30838 -2.91397,-2.11925 0.91997,-0.43482 0.91299,-3.02842 1.55159,-3.70869 z"
        id="path2961"
        sodipodi:nodetypes="cscssssssccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -914,7 +917,7 @@
        d="m 180.32076,150.6394 c 0.1198,-0.1198 0.39437,-0.37297 0.45412,-0.52982 0.11405,-0.29938 0.0757,-0.99805 0.0757,-1.24884 0,-0.12615 -0.0469,-0.26132 0,-0.37844 0.03,-0.075 0.0873,-0.13997 0.15137,-0.18922 0.22231,-0.171 0.68377,-0.44065 0.98394,-0.34059 0.13957,0.0465 0.26675,0.13132 0.37844,0.22706 0.0798,0.0684 0.24341,0.47734 0.41628,0.18922 0.16663,-0.27771 -0.0567,-0.62433 -0.0757,-0.90825 -0.008,-0.11328 0,-0.22706 0,-0.3406 0,-0.0505 -0.0159,-0.1035 0,-0.15137 0.21959,-0.65878 1.44087,-0.54201 1.89219,-0.52981 0.16441,0.004 0.33186,2.2e-4 0.49197,0.0378 0.0614,0.0145 0.11427,0.0625 0.15137,0.11353 0.0664,0.0913 0.12038,0.19427 0.15138,0.30275 0.0478,0.16738 -0.0372,0.33814 -0.0757,0.49197 -0.10872,0.43488 -0.21824,0.86481 -0.52981,1.211 -0.054,0.06 -0.15055,0.0805 -0.18922,0.15138 -0.0427,0.0783 -0.0477,0.17625 -0.0378,0.26491 0.0487,0.43804 0.2692,0.84436 0.41628,1.24884 0.13789,0.37918 0.12926,0.77503 0.15138,1.17316 0.0149,0.26824 -0.0378,0.68117 -0.26491,0.87041 -0.0908,0.0757 -0.30475,0.13898 -0.41628,0.15137 -0.76835,0.0854 -0.84771,-1.09143 -1.13531,-1.5516 -0.70061,-0.53918 -2.07018,1.74627 -2.83829,0.22707 -0.0935,-0.21048 -0.15138,-0.27157 -0.15138,-0.49197 z"
        id="path2963"
        sodipodi:nodetypes="cssssssssscscsscsscsssccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -922,7 +925,7 @@
        d="m 191.85024,106.04693 c -0.53395,2.401 -0.3461,4.59591 -0.0924,6.74003 l 0.89034,0.95156 0.89056,-0.95192 c 0.25371,-2.14498 0.44156,-4.34085 -0.0924,-6.74279 l -0.79687,-1.15851 z"
        style="opacity:0.999;fill:#2c394c;fill-opacity:1;stroke:#000000;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2965"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -930,7 +933,7 @@
        id="path2967"
        d="m 195.51228,141.8556 c 0.99361,-2.15931 1.4951,-4.12177 1.75819,-5.98887 l 0.32967,8.51628 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -938,7 +941,7 @@
        style="opacity:0.999;fill:#000001;fill-opacity:1;stroke:#000000;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 191.73674,141.06222 -0.84895,0.77287 c -0.14839,0.15853 -0.15596,0.14253 -0.31793,0.0194 l -0.87624,-0.66608 -1.07031,0.85206 c 0.0626,0.8593 0.0759,2.34204 0.0973,3.72351 h 0.71339 l 1.29752,1.3253 1.23245,-1.1991 h 0.4864 v -3.03715 c 0.0312,-0.0807 0.10261,-0.2322 0.2678,-0.25025 0.16535,0.018 0.23708,0.16956 0.26824,0.25025 v 3.03693 h 0.4864 l 1.23245,1.19911 1.2973,-1.32531 h 0.71361 c 0.0214,-1.38134 0.0346,-2.86407 0.0973,-3.72329 l -1.07031,-0.85184 -0.8412,0.63927 c -0.1914,0.17221 -0.19941,0.14698 -0.37749,-0.0151 l -0.82465,-0.75041 -0.76297,0.65047 c -0.26369,0.25991 -0.28239,0.20449 -0.54871,-0.0141 z"
        sodipodi:nodetypes="cccccccccccccccccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -946,7 +949,7 @@
        d="m 192.31029,133.6186 0.84293,-0.0134 v -1.35136 l -0.42343,0.34787 -0.44626,-0.32111 z"
        id="path2971"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -954,7 +957,7 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 193.62508,123.44429 c -0.20823,6.41019 -0.69808,14.2628 -0.6694,18.25249 l 0.7441,-0.63443 0.0217,0.0198 c -0.59073,-4.75807 -0.1956,-13.87148 -0.0964,-17.63781 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -962,7 +965,7 @@
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.198381;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 193.81145,141.16395 c 0.20781,1.95912 0.47542,3.7974 0.83231,5.61092 l 0.0964,0.27858 0.0217,-0.0223 c -0.0273,-1.60632 0.0636,-3.32001 -0.0837,-5.09495 -0.0392,-0.0174 -0.083,-0.0591 -0.15367,-0.12341 z"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -970,7 +973,7 @@
        d="m 195.29219,144.17527 c 0.13542,0.0185 -1.4859,-1.27818 0.42669,-2.85002 0.75622,-0.62148 0.73741,-9.48508 0.39177,-14.52326 0.53586,6.98469 0.92869,14.47367 0.0421,17.05216"
        id="path2977"
        sodipodi:nodetypes="cscc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -978,7 +981,7 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 192.20363,126.32915 c -0.0682,1.87174 -0.0506,13.02728 -0.45257,14.74702 0.21746,0.1409 0.31538,0.83527 0.58108,0.71327 -0.12324,-1.90509 -0.10292,-13.26225 -0.12851,-15.46029 z m 0.51453,16.27364 c -0.0301,0.003 -0.0561,0.0121 -0.0803,0.023 0.0763,0.0141 0.15267,0.0282 0.229,0.0423 -0.0384,-0.0333 -0.087,-0.0585 -0.14873,-0.0652 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -986,28 +989,28 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 189.40437,124.78328 c -0.005,0.10162 0.21888,-4.45162 -0.0127,0.30477 -0.81832,-3.71876 0.0221,-0.28182 0.0127,-0.30477 z m -0.0127,0.30477 c -0.11104,1.25719 -0.7273,12.10078 -0.62713,16.84017 l 0.9291,-0.7398 0.0118,0.009 c -0.72248,-3.36673 -0.46962,-12.57992 -0.31378,-16.10938 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path2983"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 189.70656,141.19807 c 0.20239,2.01592 0.52004,3.97521 0.98233,5.84765 l 0.0427,0.0436 0.004,-0.004 0.0228,-5.14046 c -0.0497,0.0178 -0.0915,-0.0165 -0.18865,-0.0904 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path2985"
        d="m 186.25188,122.42984 h 1.01012 v 21.60121"
        style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 199.18487,122.42984 h -1.01013 v 21.60121"
        id="path2987"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1015,7 +1018,7 @@
        id="path2989"
        d="m 188.18566,135.75161 c 0.68572,5.73532 0.70308,8.85183 0.58014,12.32142 l -4.99813,-4.33035 v -4.15178 z"
        style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.439549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1023,7 +1026,7 @@
        d="m 197.25109,135.75161 c -0.68572,5.73532 -0.70308,8.85183 -0.58014,12.32142 l 4.99813,-4.33035 v -4.15178 z"
        id="path2991"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1031,14 +1034,14 @@
        d="m 192.62732,97.141482 c -2.21678,4.936438 -2.18336,9.886668 -2.30291,13.933598 l -3.21314,2.81158 -0.66275,8.44872 -13.99702,12.57758 -0.0247,0.56982 14.7188,-12.66324 1.16992,-8.05121 2.19775,-1.86808 c 0.0951,2.07929 0.38418,4.19091 1.09887,6.37347 0.0814,-7.33458 -0.66917,-14.5305 1.01517,-22.132238 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path2993"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        d="m 192.65262,104.89005 v 8.8438 l 0.88619,-0.94735 c 0.25371,-2.14498 0.44144,-4.34069 -0.0925,-6.74263 z"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path2995"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1046,7 +1049,7 @@
        id="path2997"
        d="m 197.26794,135.80656 c -0.67961,5.68417 -0.69681,8.77288 -0.57497,12.21152 l 4.95356,-4.29173 v -4.11475 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.435628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1054,35 +1057,35 @@
        d="m 192.92777,97.621166 c 1.48499,7.273874 1.6148,14.520064 0.89692,21.574864 0.71469,-2.18256 1.00376,-4.29418 1.09887,-6.37348 l 2.19775,1.86809 1.16992,8.05119 14.71869,12.66324 -0.018,-0.41787 -11.07674,-9.93065 -2.98199,-2.63408 -0.003,-0.0421 -0.0663,-0.0594 -0.67048,-8.43429 -3.21807,-2.81158 c 0.16205,-4.67725 -0.31003,-9.69077 -2.04752,-13.453914 z"
        style="opacity:0.98901;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.439441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path2999"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        d="m 185.67734,122.90795 -13.47044,12.09556 v 1.01646 l 13.47044,-11.69143 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3001"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3003"
        style="opacity:0.992007;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 199.92411,122.90795 13.47044,12.09556 v 1.01646 l -13.47044,-11.69143 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3005"
        d="m 174.93902,137.70869 2.35638,0.65673 -0.0171,0.373 -2.32223,-0.62086 z"
        style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 210.55125,137.70869 -2.35638,0.65673 0.0171,0.373 2.32222,-0.62086 z"
        id="path3007"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1090,7 +1093,7 @@
        id="path3009"
        d="m 195.46906,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24146,8.70418 0.88804,-2.53403 0.76874,-5.70916 0.24146,-8.70418 z"
        style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1098,11 +1101,11 @@
        d="m 191.18342,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24145,8.70418 0.88804,-2.53403 0.76873,-5.70916 0.24145,-8.70418 z"
        id="path3011"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path3072"
        style="opacity:0.995004;fill:#ff0000;fill-opacity:0.956863;stroke:none;stroke-width:0.031505;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 232.47949,151.79109 c 0,0 0.24746,-0.75886 0.53561,-1.71678 0.24682,0.42147 0.42592,0.71353 0.42592,0.71353 -0.15966,-1.47532 0.4423,-3.1061 0.46304,-4.4078 0,-1.049 -0.28572,-2.29009 -1.52296,-2.29009 -1.23724,0 -1.66221,1.24109 -1.66221,2.29009 0.36724,1.50067 0.50396,2.80755 0.72046,4.45276 0,0 0.18145,-0.26047 0.42442,-0.63456 0.33584,0.89825 0.61572,1.59285 0.61572,1.59285 z"
@@ -1110,7 +1113,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccscccc"
        d="m 232.43408,150.56035 c 0,0 0.18059,-0.51632 0.39086,-1.16807 0.18012,0.28678 0.31082,0.48548 0.31082,0.48548 -0.11651,-1.00377 0.32276,-2.66049 0.3379,-3.54613 0,-0.71371 -0.2085,-1.55812 -1.11137,-1.55812 -0.90288,0 -1.213,0.84441 -1.213,1.55812 0.26799,1.02102 0.36777,2.45737 0.52575,3.57671 0,0 0.13241,-0.1772 0.30972,-0.43173 0.24508,0.61114 0.44932,1.08374 0.44932,1.08374 z"
        style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0221994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
@@ -1118,7 +1121,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path3076"
        style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0171635;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 232.40573,149.34336 c 0,0 0.13883,-0.40146 0.30049,-0.90824 0.13846,0.22299 0.23894,0.37749 0.23894,0.37749 -0.0896,-0.7805 0.24813,-1.64323 0.25977,-2.33187 0,-0.55494 -0.16029,-1.21152 -0.85439,-1.21152 -0.69411,0 -0.93251,0.65658 -0.93251,1.21152 0.20602,0.79391 0.28272,1.48529 0.40418,2.35564 0,0 0.10179,-0.13778 0.2381,-0.33569 0.18841,0.4752 0.34542,0.84267 0.34542,0.84267 z"
@@ -1126,7 +1129,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccscccc"
        d="m 236.29468,151.92103 c 0,0 0.24746,-0.75886 0.53561,-1.71678 0.24682,0.42148 0.42592,0.71353 0.42592,0.71353 -0.15966,-1.47531 0.4423,-3.1061 0.46304,-4.4078 0,-1.049 -0.28572,-2.29009 -1.52296,-2.29009 -1.23724,0 -1.66221,1.24109 -1.66221,2.29009 0.36724,1.50067 0.50396,2.80755 0.72046,4.45275 0,0 0.18145,-0.26046 0.42442,-0.63455 0.33584,0.89825 0.61572,1.59285 0.61572,1.59285 z"
        style="opacity:0.995004;fill:#ff0000;fill-opacity:0.956863;stroke:none;stroke-width:0.031505;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
@@ -1134,7 +1137,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="path3082"
        style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0221994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 236.24927,150.69029 c 0,0 0.18059,-0.51631 0.39086,-1.16805 0.18012,0.28676 0.31082,0.48546 0.31082,0.48546 -0.11651,-1.00377 0.32276,-2.66049 0.3379,-3.54613 0,-0.71371 -0.2085,-1.55812 -1.11137,-1.55812 -0.90288,0 -1.213,0.84441 -1.213,1.55812 0.26799,1.02102 0.36777,2.45738 0.52575,3.57671 0,0 0.13241,-0.1772 0.30972,-0.43173 0.24508,0.61114 0.44932,1.08374 0.44932,1.08374 z"
@@ -1142,7 +1145,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccscccc"
        d="m 236.22092,149.4733 c 0,0 0.13883,-0.40146 0.30049,-0.90824 0.13846,0.22299 0.23894,0.37749 0.23894,0.37749 -0.0896,-0.78049 0.24813,-1.64323 0.25977,-2.33187 0,-0.55495 -0.16029,-1.21152 -0.85439,-1.21152 -0.69411,0 -0.93251,0.65657 -0.93251,1.21152 0.20602,0.79391 0.28272,1.4853 0.40418,2.35566 0,0 0.10179,-0.1378 0.2381,-0.33571 0.18841,0.4752 0.34542,0.84267 0.34542,0.84267 z"
        style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0171635;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
@@ -1154,7 +1157,7 @@
        d="m 231.70343,111.07517 -3.21314,2.81157 -0.66941,8.4343 -14.12419,12.68256 v 3.09294 l 2.83368,2.43234 9.91434,3.0262 -0.78896,0.6312 -4.60712,4.10211 0.0947,3.53422 4.71401,1.51395 4.79748,-4.37339 0.0444,-3.67492 3.07943,-0.0446 v 3.7642 l 0.41358,0.29554 0.41443,-0.29554 v -3.7642 l 3.08394,0.0446 0.0446,3.67492 4.80479,4.37339 4.72129,-1.51395 0.0949,-3.53422 -4.6142,-4.10211 -0.79025,-0.6312 9.92958,-3.0262 2.83819,-2.43234 v -3.09294 l -14.14608,-12.68256 -0.67049,-8.4343 -3.21807,-2.81157 c 0.17512,-5.05426 -0.38922,-10.50244 -2.49178,-14.339741 -2.40631,5.070341 -2.36682,10.181801 -2.48964,14.339741 z"
        style="opacity:0.993506;fill:#a7bcc1;fill-opacity:1;stroke:#000000;stroke-width:0.439441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path3088"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1162,7 +1165,7 @@
        d="m 251.95743,138.66371 -0.018,1.81014 -3.8902,1.25045 -0.0457,-0.0618 -0.0375,-1.764 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3090"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1170,14 +1173,14 @@
        d="m 247.92579,138.004 0.0777,3.65849 0.0457,0.0618 -6.02414,1.77575 0.78896,0.6312 0.091,0.0811 -1.60238,-0.37881 -0.54944,-4.06583 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3092"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3094"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.11006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 229.62601,135.76092 -7.78956,6.38742 4.60819,1.40665 -0.78896,0.63121 -4.60712,4.10211 0.0947,3.53421 1.53649,0.49342 7.98509,-4.19439 0.0148,-1.21628 -1.29954,-1.29955 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1185,7 +1188,7 @@
        id="path3096"
        d="m 231.53633,130.24159 c 0.13116,0.18362 0.17159,0.42188 0.30275,0.6055 0.0622,0.0871 0.17919,0.13133 0.22706,0.22706 0.12062,0.24124 -0.14287,0.56383 -0.0757,0.83257 0.10526,0.42103 1.90442,0.73853 2.19493,0.30275 0.46168,-0.69251 0.60551,-1.9861 0.60551,-2.80044 0,-1.12308 0.24366,-2.29403 0.37844,-3.40595 0.0335,-0.27664 0.008,-0.56221 0.0757,-0.83256 0.0624,-0.24961 0.33565,-0.46397 0.45413,-0.68119 0.0762,-0.13973 0.34377,-0.79327 0.37843,-0.98394 0.10273,-0.56499 0.0439,-1.17061 0,-1.74081 -0.0293,-0.38098 -0.12109,-0.54496 -0.0757,-0.90825 0.0697,-0.55777 0.62801,-0.86633 0.90825,-1.28669 0.19265,-0.28897 0.34411,-1.03153 0.30275,-1.36238 -0.83902,-1.34753 0.35485,-0.79127 -0.52981,-2.95181 -0.59756,-1.32792 -1.65721,-2.2567 -3.10319,-2.4977 -0.0557,-0.009 -0.0252,0.12615 -0.0757,0.15138 -0.0714,0.0357 -0.1578,0.0361 -0.22706,0.0757 -0.79958,0.4569 -0.32019,1.60965 -0.45413,2.34631 -0.11981,0.65895 -1.29204,1.35082 -1.36238,2.19494 -0.0449,0.53876 0.17173,0.98623 0.45413,1.43807 0.21282,0.34051 0.25968,0.21785 0.30275,0.6055 0.11414,1.02726 -0.26628,1.99338 -0.15138,3.0275 0.0622,0.55995 0.53043,1.09126 0.75688,1.58944 0.16507,0.36315 0.26113,0.75405 0.37844,1.13532 0.19787,0.64306 0.16566,1.9393 -0.15138,2.57337 -0.11283,0.22566 -0.23778,0.4757 -0.45413,0.6055 -0.53892,0.32336 -1.25993,0.16443 -1.36237,0.98394 -0.0574,0.45903 -0.0454,0.49573 0.30275,0.75688 z"
        style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1193,53 +1196,53 @@
        d="m 233.07187,105.21722 c -0.71331,2.79873 -0.46235,5.35722 -0.12341,7.85653 l 1.18945,1.10918 1.18966,-1.10961 c 0.33894,-2.50029 0.58989,-5.05992 -0.12341,-7.85974 l -1.06454,-1.35042 z"
        style="opacity:0.999;fill:#c6dbe2;fill-opacity:1;stroke:#000000;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3098"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3100"
        d="m 229.3957,114.96562 v 0.52067 l 0.86779,0.78889 0.284,-0.22089 z"
        style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3102"
        d="m 231.19438,113.32472 -0.0316,0.89934 0.568,0.48911 0.0158,-0.94667 z"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 236.98835,113.32491 0.0316,0.89923 -0.56796,0.48905 -0.0158,-0.94655 z"
        id="path3104"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.110255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 238.80288,114.91661 v 0.52129 l -0.87255,0.78983 -0.28557,-0.22115 z"
        id="path3106"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3108"
        d="m 232.0746,116.89903 0.0446,1.69581 0.87021,-0.0446 -0.0223,-1.62887 z"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 236.16713,116.89898 -0.0446,1.69585 -0.87056,-0.0446 0.0223,-1.6289 z"
        id="path3110"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccccc"
        d="m 233.54018,125.6681 0.0335,1.47275 0.62821,0.639 0.64064,-0.639 0.0335,-1.47275 -0.67413,-0.568 z"
        style="opacity:0.990526;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1247,7 +1250,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        sodipodi:nodetypes="ccccccccccccccc"
        id="path3114"
        d="m 230.9111,125.48964 0.0335,1.95241 0.31238,0.32354 0.36817,-0.34585 0.3347,0.33469 0.37932,-0.34585 0.30123,0.34585 0.27892,-0.29007 0.0112,-1.95241 -0.2566,0.20082 -0.34585,-0.27892 -0.34586,0.29008 -0.37933,-0.32355 -0.32354,0.3347 z"
@@ -1255,7 +1258,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 237.50507,125.49833 -0.0335,1.9452 -0.31245,0.32234 -0.36825,-0.34457 -0.33476,0.33346 -0.37941,-0.34458 -0.30129,0.34458 -0.27899,-0.289 -0.0112,-1.9452 0.25666,0.20007 0.34593,-0.27788 0.34593,0.289 0.37941,-0.32235 0.32361,0.33347 z"
        id="path3116"
@@ -1266,14 +1269,14 @@
        id="path3120"
        d="m 216.53674,137.37018 v 0.3629 l 1.59357,0.50489 -0.0158,-0.37867 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 251.617,137.37189 v 0.36223 l -1.59355,0.50396 0.0158,-0.37798 z"
        id="path3122"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1281,7 +1284,7 @@
        id="path3124"
        d="m 222.55149,138.44871 c -0.10676,-0.008 -0.21727,0.026 -0.32111,0 -0.26834,-0.0671 -0.0724,-0.0275 -0.32112,-0.21408 -0.52669,-0.39502 -1.12368,-0.78142 -1.81965,-0.64223 -0.68604,0.13721 -0.90782,0.8193 -1.44502,1.17743 -0.46854,0.31236 -1.71054,0.13483 -2.19429,-0.10704 -0.61248,-0.30624 -0.66028,-0.60743 -0.80278,-1.17742 -0.0333,-0.1333 0.0269,-0.29363 0,-0.42816 -0.0397,-0.19841 -0.15407,-0.61466 -0.10704,-0.80279 0.66,-2.15315 3.35016,-2.1898 4.38858,-3.15763 0.22659,-0.22659 0.34321,-0.57938 0.48167,-0.85631 1.33572,-2.1171 3.20181,-4.11439 5.35192,-4.22802 0.12471,-0.008 0.49575,-0.10891 0.58871,-0.16055 0.0487,-0.027 0.66625,-0.60093 0.69575,-0.64223 0.86935,-1.21709 0.99009,-2.16742 1.23094,-3.63931 0.0815,-0.49796 0.17303,-0.99563 0.21408,-1.49854 1.69906,-1.90551 -0.0818,-3.41576 0.21407,-4.65617 0.20865,-0.37556 0.75497,-0.596 1.12391,-0.37463 0.19413,0.11647 0.25109,1.72395 0.2676,1.81965 0.0383,0.22237 0.14923,0.42609 0.21407,0.64223 0.18347,0.61157 0.30135,1.23185 0.2676,1.87317 -0.01,0.18357 -0.10704,0.95859 -0.10704,1.12391 0,0.66195 0.15131,1.31605 0.10704,1.98021 -0.0223,0.33507 -0.19637,0.46858 -0.32112,0.74926 -0.23979,0.53955 -0.4313,1.02002 -0.8563,1.44502 -0.45417,0.45417 -0.99337,0.83281 -1.44502,1.28447 -0.20226,0.20225 -0.26911,0.52205 -0.42816,0.74926 -0.18099,0.25857 -0.44237,0.45148 -0.64223,0.69575 -0.37857,0.4627 -0.93848,1.09707 -1.07038,1.71262 -0.15524,0.72443 0.21606,2.19825 0.53519,2.83652 0.15582,0.31163 0.53723,0.41041 0.69575,0.69575 0.3477,0.62586 0.13836,1.59644 -0.16056,2.19429 -0.48715,0.97429 -1.26856,0.28472 -1.71261,0.80278 -0.22043,0.25716 -0.24258,0.93833 -0.37464,1.07039 -0.54831,0.63016 -0.9695,-0.17318 -2.24781,-0.2676 z"
        style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1289,7 +1292,7 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 216.51227,138.71865 0.018,1.81014 3.89021,1.25045 0.0457,-0.0618 0.0376,-1.764 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1297,7 +1300,7 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 220.54391,138.05895 -0.0777,3.65848 -0.0457,0.0618 6.02414,1.77575 -0.78896,0.63121 -0.091,0.0811 1.60238,-0.37881 0.54944,-4.06584 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1305,7 +1308,7 @@
        id="path3130"
        d="m 237.37632,123.46333 c -0.38442,-0.99478 -0.16858,-2.11117 -0.21408,-3.15763 -0.0201,-0.46125 -0.28075,-1.41901 -0.16056,-1.81966 0.0176,-0.0587 0.34282,-0.30954 0.37464,-0.32111 0.11855,-0.0431 0.25225,-0.0229 0.37463,-0.0535 0.36476,-0.0912 0.83817,-0.25875 1.23095,-0.16056 0.24818,0.062 0.10703,1.35146 0.10703,1.60558 0,0.46341 0.3459,1.1639 0.5352,1.60558 0.16011,0.37361 0.4548,0.69403 0.48167,1.1239 0.0802,1.2833 -0.15719,2.64264 0.0535,3.9069 0.0664,0.39862 0.95078,1.55271 1.28446,1.81965 0.42097,0.33678 0.68314,0.19194 0.80279,0.90983 -8.3e-4,0.79393 -0.59692,1.44757 -0.69575,2.14077 -0.077,0.61623 0.21805,0.49359 0.37463,0.96335 0.0591,0.17733 -0.18777,1.1245 -0.26759,1.23094 -0.0239,0.0319 -0.0759,0.0286 -0.10704,0.0535 -0.44621,0.35696 -0.64223,0.41053 -0.64223,1.01686 0,0.4555 0.10704,0.87898 0.10704,1.33798 0,0.0888 0.0173,0.31247 0,0.32112 -0.0926,0.0463 -0.2743,-0.0251 -0.37464,0 -0.65822,0.16455 -1.32561,-0.48162 -1.55206,-1.07039 -0.21028,-0.54672 -0.17473,-1.5198 -0.48167,-1.98021 -0.54726,-0.82089 -1.6586,-1.11892 -1.76613,-2.19429 -0.0616,-0.61616 0.14723,-0.77629 0.26759,-1.33798 0.47848,-1.23971 1.13918,-2.28244 0.69575,-4.1745 -0.0555,-0.61068 -0.42815,-1.16016 -0.42815,-1.76613 z"
        style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1313,7 +1316,7 @@
        id="path3132"
        d="m 244.17326,129.93916 c -0.005,-0.0875 0.0111,-1.03907 0.0535,-1.12391 0.24176,-0.48351 1.42436,-0.55052 1.60557,0.0535 0.11334,0.3778 0.18125,0.89047 0.21408,1.28446 0.009,0.10667 -0.0191,0.21581 0,0.32112 0.10099,0.55545 0.48804,1.13775 0.85631,1.55206 0.86954,0.97822 2.52057,1.27286 3.58579,2.03373 0.0218,0.0156 1.20014,1.20541 1.28446,1.28446 0.3419,0.32053 0.79275,0.52516 1.1239,0.85631 0.14096,0.14095 0.15631,0.90217 0.10704,1.1239 -0.0572,0.25741 -0.204,0.55019 -0.37463,0.74927 -0.61025,0.71194 -1.29705,0.38289 -2.08725,0.48167 -0.33334,0.0417 -1.02664,0.46315 -1.33799,0.21408 -0.27912,-0.22331 -0.36005,-0.91117 -0.53519,-1.07039 -0.30523,-0.27748 -0.93529,-0.40816 -1.28446,-0.48167 -0.54761,-0.11529 -0.34898,0.48211 -0.74927,0.64223 -0.3982,0.15928 -1.19894,0.147 -1.60557,0.16056 -0.30311,0.0101 -0.60656,0 -0.90983,0 -0.0714,0 -0.14547,-0.0196 -0.21408,0 -0.31166,0.089 -0.33763,0.52836 -0.58871,0.69575 -0.40609,0.27072 -1.30547,-0.68427 -1.44502,-0.96335 -0.039,-0.0781 -0.17714,-1.0078 -0.16055,-1.1239 0.0126,-0.0883 0.11826,-0.13554 0.16055,-0.21408 0.48808,-0.94443 1.12135,-1.39367 1.01686,-2.40837 -0.0484,-0.43603 -0.54112,-1.07804 -0.21407,-1.49853 0.94645,-0.85514 1.54441,-1.73254 1.49854,-2.56892 z"
        style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1321,7 +1324,7 @@
        id="path3134"
        d="m 242.47319,146.13599 c 0.18608,-0.093 0.39954,-0.12196 0.6055,-0.15138 0.97767,-0.13966 1.03009,0.43486 1.05962,1.17316 0.006,0.13865 -0.0216,0.27922 0,0.41628 0.0515,0.32612 0.19559,0.39866 0.45413,0.6055 0.30566,0.24453 0.53071,0.40397 0.90825,0.52981 0.27009,0.09 1.14987,0.0815 1.09747,0.6055 -0.0499,0.49872 -0.75687,0.93574 -0.75687,1.32454 0,0.36861 0.87158,0.54727 0.49196,1.02178 -0.35106,0.43883 -2.00929,0.43128 -2.49769,0.30275 -1.27983,-1.61088 -3.33248,0.30838 -2.91397,-2.11925 0.91998,-0.43482 0.913,-3.02842 1.5516,-3.70869 z"
        style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1329,7 +1332,7 @@
        id="path3136"
        d="m 221.81047,150.6394 c 0.1198,-0.1198 0.39438,-0.37297 0.45413,-0.52982 0.11405,-0.29938 0.0757,-0.99805 0.0757,-1.24884 0,-0.12615 -0.0469,-0.26132 0,-0.37844 0.03,-0.075 0.0873,-0.13997 0.15137,-0.18922 0.2223,-0.171 0.68376,-0.44065 0.98394,-0.34059 0.13956,0.0465 0.26674,0.13132 0.37844,0.22706 0.0798,0.0684 0.24341,0.47734 0.41628,0.18922 0.16663,-0.27771 -0.0568,-0.62433 -0.0757,-0.90825 -0.008,-0.11328 0,-0.22706 0,-0.3406 0,-0.0505 -0.0159,-0.1035 0,-0.15137 0.2196,-0.65878 1.44088,-0.54201 1.89219,-0.52981 0.16442,0.004 0.33187,2.2e-4 0.49197,0.0378 0.0614,0.0145 0.11428,0.0625 0.15137,0.11353 0.0664,0.0913 0.12039,0.19427 0.15138,0.30275 0.0478,0.16738 -0.0372,0.33814 -0.0757,0.49197 -0.10872,0.43488 -0.21823,0.86481 -0.52981,1.211 -0.054,0.06 -0.15054,0.0805 -0.18922,0.15138 -0.0427,0.0783 -0.0477,0.17625 -0.0378,0.26491 0.0487,0.43804 0.2692,0.84436 0.41628,1.24884 0.13788,0.37918 0.12925,0.77503 0.15137,1.17316 0.0149,0.26824 -0.0378,0.68117 -0.2649,0.87041 -0.0909,0.0757 -0.30475,0.13898 -0.41629,0.15137 -0.76834,0.0854 -0.84771,-1.09143 -1.13531,-1.5516 -0.70061,-0.53918 -2.07017,1.74627 -2.83828,0.22707 -0.0935,-0.21048 -0.15138,-0.27157 -0.15138,-0.49197 z"
        style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1337,7 +1340,7 @@
        style="opacity:0.999;fill:#2c394c;fill-opacity:1;stroke:#000000;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 233.33995,106.04693 c -0.53395,2.401 -0.3461,4.59591 -0.0924,6.74003 l 0.89035,0.95156 0.89055,-0.95192 c 0.25371,-2.14498 0.44156,-4.34085 -0.0924,-6.74279 l -0.79686,-1.15851 z"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1345,7 +1348,7 @@
        d="m 237.00199,141.8556 c 0.99361,-2.15931 1.4951,-4.12177 1.7582,-5.98887 l 0.32966,8.51628 z"
        id="path3140"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1353,7 +1356,7 @@
        d="m 233.22646,141.06222 -0.84895,0.77287 c -0.1484,0.15853 -0.15597,0.14253 -0.31793,0.0194 l -0.87625,-0.66608 -1.0703,0.85206 c 0.0626,0.8593 0.0759,2.34204 0.0973,3.72351 h 0.71339 l 1.29752,1.3253 1.23244,-1.1991 h 0.48641 v -3.03715 c 0.0311,-0.0807 0.1026,-0.2322 0.2678,-0.25025 0.16534,0.018 0.23708,0.16956 0.26823,0.25025 v 3.03693 h 0.48641 l 1.23244,1.19911 1.2973,-1.32531 h 0.71362 c 0.0213,-1.38134 0.0346,-2.86407 0.0973,-3.72329 l -1.07031,-0.85184 -0.8412,0.63927 c -0.19141,0.17221 -0.19941,0.14698 -0.37749,-0.0151 l -0.82465,-0.75041 -0.76297,0.65047 c -0.26369,0.25991 -0.2824,0.20449 -0.54871,-0.0141 z"
        style="opacity:0.999;fill:#000001;fill-opacity:1;stroke:#000000;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3142"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1361,7 +1364,7 @@
        id="path3144"
        d="m 233.80001,133.6186 0.84293,-0.0134 -1e-5,-1.35136 -0.42342,0.34787 -0.44627,-0.32111 z"
        style="opacity:0.999;fill:#445052;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1369,7 +1372,7 @@
        d="m 235.1148,123.44429 c -0.20824,6.41019 -0.69809,14.2628 -0.66941,18.25249 l 0.7441,-0.63443 0.0217,0.0198 c -0.59072,-4.75807 -0.1956,-13.87148 -0.0964,-17.63781 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3146"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1377,7 +1380,7 @@
        d="m 235.30117,141.16395 c 0.20781,1.95912 0.47542,3.7974 0.83231,5.61092 l 0.0964,0.27858 0.0217,-0.0223 c -0.0273,-1.60632 0.0636,-3.32001 -0.0837,-5.09495 -0.0392,-0.0174 -0.083,-0.0591 -0.15368,-0.12341 z"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.198381;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3148"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1385,7 +1388,7 @@
        id="path3150"
        d="m 236.78191,144.17527 c 0.13542,0.0185 -1.4859,-1.27818 0.42669,-2.85002 0.75621,-0.62148 0.7374,-9.48508 0.39177,-14.52326 0.53586,6.98469 0.92869,14.47367 0.0421,17.05216"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1393,7 +1396,7 @@
        d="m 233.69334,126.32915 c -0.0682,1.87174 -0.0506,13.02728 -0.45256,14.74702 0.21746,0.1409 0.31538,0.83527 0.58107,0.71327 -0.12324,-1.90509 -0.10291,-13.26225 -0.12851,-15.46029 z m 0.51453,16.27364 c -0.0301,0.003 -0.0561,0.0121 -0.0803,0.023 0.0763,0.0141 0.15268,0.0282 0.22901,0.0423 -0.0384,-0.0333 -0.087,-0.0585 -0.14874,-0.0652 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3152"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1401,28 +1404,28 @@
        d="m 230.89408,124.78328 c -0.005,0.10162 0.21888,-4.45162 -0.0127,0.30477 -0.81832,-3.71876 0.0221,-0.28182 0.0127,-0.30477 z m -0.0127,0.30477 c -0.11104,1.25719 -0.72731,12.10078 -0.62714,16.84017 l 0.92911,-0.7398 0.0118,0.009 c -0.72247,-3.36673 -0.46961,-12.57992 -0.31377,-16.10938 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3154"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        d="m 231.19627,141.19807 c 0.20239,2.01592 0.52005,3.97521 0.98234,5.84765 l 0.0427,0.0436 0.004,-0.004 0.0228,-5.14046 c -0.0498,0.0178 -0.0915,-0.0165 -0.18866,-0.0904 z"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3156"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 227.74159,122.42984 h 1.01013 v 21.60121"
        id="path3158"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3160"
        d="m 240.67458,122.42984 h -1.01012 v 21.60121"
        style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1430,7 +1433,7 @@
        d="m 229.67538,135.75161 c 0.68572,5.73532 0.70307,8.85183 0.58014,12.32142 l -4.99813,-4.33035 v -4.15178 z"
        id="path3162"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1438,7 +1441,7 @@
        id="path3164"
        d="m 238.7408,135.75161 c -0.68572,5.73532 -0.70307,8.85183 -0.58014,12.32142 l 4.99813,-4.33035 v -4.15178 z"
        style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.439549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1446,14 +1449,14 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 234.11704,97.141482 c -2.21678,4.936438 -2.18337,9.886668 -2.30292,13.933598 l -3.21313,2.81158 -0.66276,8.44872 -13.99702,12.57758 -0.0247,0.56982 14.71881,-12.66324 1.16991,-8.05121 2.19775,-1.86808 c 0.0951,2.07929 0.38419,4.19091 1.09888,6.37347 0.0814,-7.33458 -0.66917,-14.5305 1.01517,-22.132238 z"
        sodipodi:nodetypes="cccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3168"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 234.14234,104.89005 v 8.8438 l 0.88619,-0.94735 c 0.2537,-2.14498 0.44143,-4.34069 -0.0925,-6.74263 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1461,7 +1464,7 @@
        d="m 238.75765,135.80656 c -0.6796,5.68417 -0.6968,8.77288 -0.57496,12.21152 l 4.95355,-4.29173 v -4.11475 z"
        id="path3170"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1469,35 +1472,35 @@
        style="opacity:0.98901;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.439441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 234.41749,97.621166 c 1.48499,7.273874 1.6148,14.520064 0.89691,21.574864 0.71469,-2.18256 1.00376,-4.29418 1.09888,-6.37348 l 2.19775,1.86809 1.16991,8.05119 14.7187,12.66324 -0.018,-0.41787 -11.07675,-9.93065 -2.98198,-2.63408 -0.003,-0.0421 -0.0663,-0.0594 -0.67049,-8.43429 -3.21807,-2.81158 c 0.16206,-4.67725 -0.31003,-9.69077 -2.04751,-13.453914 z"
        sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3174"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 227.16706,122.90795 -13.47044,12.09556 v 1.01646 l 13.47044,-11.69143 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        d="m 241.41382,122.90795 13.47044,12.09556 v 1.01646 l -13.47044,-11.69143 z"
        style="opacity:0.992007;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3176"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 216.42873,137.70869 2.35638,0.65673 -0.0171,0.373 -2.32222,-0.62086 z"
        id="path3178"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        id="path3180"
        d="m 252.04096,137.70869 -2.35638,0.65673 0.0171,0.373 2.32223,-0.62086 z"
        style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1505,7 +1508,7 @@
        d="m 236.95877,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24145,8.70418 0.88804,-2.53403 0.76873,-5.70916 0.24145,-8.70418 z"
        id="path3182"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1513,10 +1516,13 @@
        id="path3184"
        d="m 232.67314,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24146,8.70418 0.88804,-2.53403 0.76874,-5.70916 0.24146,-8.70418 z"
        style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="g466">
       <path
          inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png"
@@ -1935,6 +1941,9 @@
          inkscape:export-ydpi="150" />
     </g>
     <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        id="g686">
       <path
          inkscape:export-ydpi="150"
@@ -2359,7 +2368,7 @@
        d="m 25.030592,148.96793 c 0,0 0.24746,-0.48067 0.53561,-1.08739 0.24682,0.26696 0.42592,0.45193 0.42592,0.45193 -0.15966,-0.93445 0.4423,-1.96736 0.46305,-2.79185 0,-0.66442 -0.28572,-1.45052 -1.52297,-1.45052 -1.23725,0 -1.66222,0.7861 -1.66222,1.45052 0.36724,0.95051 0.50396,1.77828 0.72047,2.82033 0,0 0.18144,-0.16497 0.42441,-0.40192 0.33585,0.56895 0.61573,1.0089 0.61573,1.0089 z"
        style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0250735;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        id="path688"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2367,7 +2376,7 @@
        style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0176676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 24.985182,148.18839 c 0,0 0.18059,-0.32703 0.39086,-0.73984 0.18012,0.18163 0.31082,0.30749 0.31082,0.30749 -0.11651,-0.63577 0.32276,-1.68512 0.3379,-2.24609 0,-0.45204 -0.2085,-0.98689 -1.11138,-0.98689 -0.90288,0 -1.213,0.53485 -1.213,0.98689 0.26799,0.64672 0.36777,1.55648 0.52576,2.26546 0,0 0.13241,-0.11224 0.30972,-0.27345 0.24508,0.3871 0.44932,0.68643 0.44932,0.68643 z"
        sodipodi:nodetypes="ccccscccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2375,7 +2384,7 @@
        d="m 24.956832,147.41756 c 0,0 0.13883,-0.25428 0.30048,-0.57527 0.13847,0.14124 0.23894,0.2391 0.23894,0.2391 -0.0896,-0.49436 0.24814,-1.04081 0.25978,-1.47699 0,-0.3515 -0.16029,-0.76736 -0.85439,-0.76736 -0.69411,0 -0.93252,0.41586 -0.93252,0.76736 0.20602,0.50286 0.28272,0.94077 0.40419,1.49205 0,0 0.10179,-0.0873 0.2381,-0.21263 0.18841,0.30098 0.34542,0.53374 0.34542,0.53374 z"
        style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0136597;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        id="path692"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2383,7 +2392,7 @@
        style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0250735;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 28.845782,149.05023 c 0,0 0.24747,-0.48066 0.53561,-1.08739 0.24683,0.26696 0.42592,0.45194 0.42592,0.45194 -0.15965,-0.93445 0.44231,-1.96737 0.46305,-2.79186 0,-0.66442 -0.28572,-1.45052 -1.52297,-1.45052 -1.23724,0 -1.66222,0.7861 -1.66222,1.45052 0.36725,0.95051 0.50397,1.77829 0.72047,2.82033 0,0 0.18145,-0.16497 0.42442,-0.40192 0.33584,0.56895 0.61572,1.0089 0.61572,1.0089 z"
        sodipodi:nodetypes="ccccscccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2391,7 +2400,7 @@
        d="m 28.800382,148.27069 c 0,0 0.18058,-0.32702 0.39086,-0.73983 0.18011,0.18163 0.31081,0.30749 0.31081,0.30749 -0.11651,-0.63578 0.32277,-1.68513 0.33791,-2.24609 0,-0.45206 -0.20851,-0.98689 -1.11138,-0.98689 -0.90288,0 -1.213,0.53483 -1.213,0.98689 0.26799,0.64671 0.36776,1.55647 0.52575,2.26546 0,0 0.13241,-0.11225 0.30972,-0.27346 0.24509,0.3871 0.44933,0.68643 0.44933,0.68643 z"
        style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0176676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        id="path696"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2399,7 +2408,7 @@
        style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0136597;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
        d="m 28.772032,147.49987 c 0,0 0.13882,-0.25429 0.30048,-0.57527 0.13847,0.14123 0.23894,0.23909 0.23894,0.23909 -0.0896,-0.49436 0.24814,-1.0408 0.25977,-1.47698 0,-0.3515 -0.16029,-0.76737 -0.85439,-0.76737 -0.69411,0 -0.93252,0.41587 -0.93252,0.76737 0.20603,0.50285 0.28273,0.94077 0.40419,1.49204 0,0 0.10179,-0.0873 0.2381,-0.21262 0.18841,0.30098 0.34543,0.53374 0.34543,0.53374 z"
        sodipodi:nodetypes="ccccscccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2407,7 +2416,7 @@
        style="opacity:0.993506;fill:#a7bcc1;fill-opacity:1;stroke:#000000;stroke-width:0.439442;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 24.254522,111.07522 -3.21315,2.81158 -0.66942,8.43432 -14.124227,12.6826 v 3.09295 l 2.83369,2.43235 9.914367,3.02621 -0.78896,0.6312 -4.607127,4.10213 0.0947,3.53422 4.714017,1.51396 4.7975,-4.3734 0.0444,-3.67493 3.07943,-0.0446 v 3.76421 l 0.41358,0.29554 0.41444,-0.29554 v -3.76421 l 3.08395,0.0446 0.0446,3.67493 4.8048,4.3734 4.72131,-1.51396 0.0949,-3.53422 -4.61422,-4.10213 -0.79024,-0.6312 9.9296,-3.02621 2.8382,-2.43235 v -3.09295 l -14.14612,-12.6826 -0.6705,-8.43432 -3.21808,-2.81158 c 0.17512,-5.05428 -0.38921,-10.50247 -2.49179,-14.339791 -2.4063,5.070361 -2.36682,10.181841 -2.48964,14.339791 z"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2415,7 +2424,7 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 44.508582,138.66384 -0.018,1.81015 -3.89021,1.25045 -0.0457,-0.0618 -0.0375,-1.764 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2423,14 +2432,14 @@
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 40.476932,138.00414 0.0777,3.65849 0.0457,0.0618 -6.02416,1.77575 0.78896,0.63121 0.091,0.0811 -1.60238,-0.37881 -0.54944,-4.06585 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        d="m 22.177092,135.76105 -7.789587,6.38744 4.608207,1.40665 -0.78896,0.63121 -4.607127,4.10212 0.0947,3.53423 1.5365,0.49342 7.985097,-4.19441 0.0148,-1.21628 -1.29955,-1.29955 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.11006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path706"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2438,7 +2447,7 @@
        d="m 24.087422,130.2417 c 0.13116,0.18362 0.17159,0.42187 0.30275,0.6055 0.0622,0.0871 0.1792,0.13132 0.22707,0.22706 0.12061,0.24124 -0.14288,0.56384 -0.0757,0.83257 0.10526,0.42103 1.90442,0.73853 2.19494,0.30275 0.46168,-0.69251 0.60551,-1.9861 0.60551,-2.80045 0,-1.12308 0.24366,-2.29403 0.37844,-3.40595 0.0335,-0.27664 0.008,-0.56222 0.0757,-0.83257 0.0624,-0.24961 0.33565,-0.46397 0.45413,-0.68119 0.0762,-0.13973 0.34377,-0.79328 0.37844,-0.98394 0.10272,-0.56499 0.0439,-1.17062 0,-1.74082 -0.0293,-0.38098 -0.1211,-0.54496 -0.0757,-0.90826 0.0697,-0.55777 0.62801,-0.86632 0.90826,-1.28669 0.19264,-0.28897 0.3441,-1.03153 0.30275,-1.36238 -0.83903,-1.34754 0.35485,-0.79128 -0.52982,-2.95183 -0.59756,-1.32791 -1.65721,-2.2567 -3.1032,-2.49769 -0.0556,-0.009 -0.0252,0.12614 -0.0757,0.15137 -0.0714,0.0357 -0.15779,0.0361 -0.22706,0.0757 -0.79958,0.4569 -0.32019,1.60965 -0.45413,2.34632 -0.1198,0.65895 -1.29204,1.35082 -1.36238,2.19495 -0.0449,0.53875 0.17173,0.98623 0.45413,1.43807 0.21282,0.34052 0.25968,0.21785 0.30275,0.6055 0.11414,1.02727 -0.26628,1.99339 -0.15137,3.02751 0.0622,0.55996 0.53043,1.09127 0.75687,1.58945 0.16507,0.36315 0.26113,0.75405 0.37844,1.13532 0.19787,0.64307 0.16566,1.93931 -0.15137,2.57338 -0.11283,0.22566 -0.23779,0.4757 -0.45413,0.60551 -0.53893,0.32335 -1.25994,0.16442 -1.36238,0.98394 -0.0574,0.45903 -0.0454,0.49573 0.30275,0.75688 z"
        id="path708"
        sodipodi:nodetypes="cssssssssssssccsscssssssssssc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2446,49 +2455,49 @@
        style="opacity:0.999;fill:#c6dbe2;fill-opacity:1;stroke:#000000;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 25.622962,105.21725 c -0.7133,2.79874 -0.46235,5.35724 -0.12341,7.85655 l 1.18945,1.10918 1.18967,-1.10961 c 0.33894,-2.5003 0.58989,-5.05993 -0.12341,-7.85977 l -1.06454,-1.35042 z"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 21.946782,114.96567 v 0.52068 l 0.86779,0.78889 0.284,-0.22089 z"
        id="path712"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 23.745472,113.32477 -0.0316,0.89934 0.568,0.48912 0.0158,-0.94668 z"
        id="path714"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path716"
        d="m 29.539462,113.32497 0.0316,0.89923 -0.56796,0.48905 -0.0158,-0.94656 z"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path718"
        d="m 31.354002,114.91667 v 0.52129 l -0.87256,0.78984 -0.28557,-0.22116 z"
        style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.110255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.625692,116.89909 0.0446,1.69582 0.87022,-0.0446 -0.0223,-1.62887 z"
        id="path720"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path722"
        d="m 28.718232,116.89905 -0.0446,1.69585 -0.87056,-0.0446 0.0223,-1.62891 z"
        style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2496,7 +2505,7 @@
        style="opacity:0.990526;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 26.091282,125.66819 0.0335,1.47275 0.62821,0.63901 0.64064,-0.63901 0.0335,-1.47275 -0.67414,-0.568 z"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2504,7 +2513,7 @@
        d="m 23.462192,125.48973 0.0335,1.95242 0.31238,0.32354 0.36817,-0.34586 0.3347,0.3347 0.37933,-0.34585 0.30123,0.34585 0.27892,-0.29007 0.0112,-1.95242 -0.2566,0.20082 -0.34586,-0.27891 -0.34586,0.29007 -0.37933,-0.32354 -0.32354,0.3347 z"
        id="path726"
        sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2512,21 +2521,21 @@
        id="path728"
        d="m 30.056182,125.49842 -0.0335,1.9452 -0.31245,0.32235 -0.36825,-0.34458 -0.33477,0.33347 -0.37941,-0.34458 -0.30129,0.34458 -0.27898,-0.289 -0.0112,-1.94521 0.25666,0.20008 0.34593,-0.27789 0.34593,0.289 0.3794,-0.32235 0.32362,0.33347 z"
        style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 9.087795,137.37031 v 0.3629 l 1.59357,0.50489 -0.0158,-0.37867 z"
        id="path730"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path732"
        d="m 44.168152,137.37202 v 0.36223 l -1.59355,0.50396 0.0158,-0.37798 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2534,7 +2543,7 @@
        d="m 15.102565,138.44884 c -0.10677,-0.008 -0.21728,0.026 -0.32112,0 -0.26834,-0.0671 -0.0724,-0.0275 -0.32112,-0.21407 -0.52669,-0.39503 -1.12369,-0.78143 -1.81966,-0.64224 -0.68604,0.13721 -0.90782,0.8193 -1.44502,1.17743 -0.46854,0.31236 -1.71055,0.13484 -2.19429,-0.10704 -0.61249,-0.30624 -0.6603,-0.60743 -0.80279,-1.17742 -0.0333,-0.1333 0.0269,-0.29363 0,-0.42816 -0.0397,-0.19841 -0.15408,-0.61466 -0.10704,-0.80279 0.66,-2.15316 3.35017,-2.18981 4.38859,-3.15764 0.22659,-0.2266 0.34321,-0.57939 0.48167,-0.85631 1.33573,-2.11712 3.20183,-4.11441 5.351937,-4.22804 0.12471,-0.008 0.49575,-0.10891 0.58871,-0.16055 0.0487,-0.027 0.66625,-0.60093 0.69576,-0.64224 0.86934,-1.21708 0.99009,-2.16742 1.23094,-3.63931 0.0815,-0.49797 0.17302,-0.99563 0.21408,-1.49855 1.69906,-1.90552 -0.0818,-3.41577 0.21407,-4.65618 0.20865,-0.37556 0.75497,-0.59601 1.12391,-0.37464 0.19413,0.11648 0.2511,1.72396 0.2676,1.81966 0.0383,0.22238 0.14923,0.42609 0.21407,0.64223 0.18348,0.61157 0.30136,1.23185 0.26761,1.87318 -0.01,0.18357 -0.10705,0.95859 -0.10705,1.12391 0,0.66195 0.15132,1.31606 0.10705,1.98021 -0.0223,0.33508 -0.19637,0.46859 -0.32112,0.74928 -0.2398,0.53954 -0.43131,1.02001 -0.85631,1.44502 -0.45417,0.45417 -0.99337,0.83281 -1.44503,1.28447 -0.20225,0.20225 -0.2691,0.52205 -0.42815,0.74927 -0.181,0.25856 -0.44237,0.45147 -0.64223,0.69575 -0.37858,0.4627 -0.93849,1.09707 -1.07039,1.71262 -0.15524,0.72443 0.21606,2.19826 0.53519,2.83652 0.15582,0.31164 0.53723,0.41042 0.69576,0.69576 0.3477,0.62586 0.13836,1.59645 -0.16056,2.19429 -0.48716,0.9743 -1.26857,0.28473 -1.71262,0.80279 -0.22043,0.25716 -0.24258,0.93833 -0.37464,1.07039 -0.548317,0.63017 -0.969507,-0.17318 -2.247807,-0.2676 z"
        id="path734"
        sodipodi:nodetypes="cssssscsccccscsccssscsssssssssssscc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2542,7 +2551,7 @@
        d="m 9.063315,138.71878 0.018,1.81015 3.89021,1.25046 0.0457,-0.0618 0.0375,-1.764 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path736"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2550,7 +2559,7 @@
        d="m 13.094965,138.05908 -0.0777,3.65849 -0.0457,0.0618 6.024157,1.77575 -0.78896,0.63121 -0.091,0.0811 1.60238,-0.37881 0.54945,-4.06585 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path738"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2558,7 +2567,7 @@
        d="m 29.927432,123.46342 c -0.38442,-0.99478 -0.16858,-2.11119 -0.21408,-3.15765 -0.0201,-0.46124 -0.28075,-1.41901 -0.16056,-1.81966 0.0176,-0.0587 0.34282,-0.30954 0.37464,-0.32111 0.11855,-0.0431 0.25225,-0.0229 0.37463,-0.0535 0.36476,-0.0912 0.83817,-0.25876 1.23095,-0.16056 0.24818,0.062 0.10704,1.35146 0.10704,1.60558 0,0.46341 0.3459,1.1639 0.53519,1.60558 0.16012,0.37361 0.45481,0.69404 0.48168,1.12391 0.0802,1.2833 -0.1572,2.64265 0.0535,3.90692 0.0664,0.39862 0.95078,1.55271 1.28446,1.81965 0.42097,0.33678 0.68314,0.19194 0.80279,0.90983 -8.3e-4,0.79393 -0.59692,1.44757 -0.69575,2.14078 -0.077,0.61624 0.21805,0.4936 0.37463,0.96335 0.0591,0.17733 -0.18777,1.12451 -0.26759,1.23094 -0.0239,0.0319 -0.0759,0.0286 -0.10704,0.0535 -0.44621,0.35697 -0.64224,0.41054 -0.64224,1.01687 0,0.4555 0.10705,0.87899 0.10705,1.33799 0,0.0887 0.0173,0.31246 0,0.32111 -0.0926,0.0463 -0.2743,-0.0251 -0.37464,0 -0.65822,0.16456 -1.32561,-0.48162 -1.55206,-1.07039 -0.21028,-0.54672 -0.17474,-1.5198 -0.48168,-1.98021 -0.54726,-0.82089 -1.6586,-1.11892 -1.76614,-2.1943 -0.0616,-0.61616 0.14724,-0.77629 0.2676,-1.33798 0.47847,-1.23972 1.13918,-2.28245 0.69575,-4.17451 -0.0555,-0.61069 -0.42815,-1.16017 -0.42815,-1.76614 z"
        id="path740"
        sodipodi:nodetypes="cssssssssssccssssscssssccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2566,7 +2575,7 @@
        d="m 36.724392,129.93926 c -0.005,-0.0875 0.0111,-1.03907 0.0535,-1.1239 0.24176,-0.48352 1.42437,-0.55053 1.60558,0.0535 0.11334,0.37779 0.18125,0.89047 0.21408,1.28446 0.009,0.10667 -0.0192,0.2158 0,0.32112 0.10099,0.55545 0.48804,1.13775 0.85631,1.55206 0.86954,0.97823 2.52057,1.27286 3.5858,2.03374 0.0218,0.0156 1.20015,1.20542 1.28446,1.28446 0.3419,0.32053 0.79276,0.52516 1.12391,0.85631 0.14096,0.14096 0.15631,0.90218 0.10704,1.12391 -0.0572,0.25741 -0.204,0.55019 -0.37464,0.74927 -0.61024,0.71195 -1.29705,0.3829 -2.08725,0.48167 -0.33334,0.0417 -1.02664,0.46316 -1.33799,0.21408 -0.27913,-0.2233 -0.36005,-0.91117 -0.5352,-1.07039 -0.30523,-0.27748 -0.93528,-0.40816 -1.28446,-0.48167 -0.54761,-0.11529 -0.34898,0.48212 -0.74927,0.64223 -0.3982,0.15928 -1.19894,0.14701 -1.60558,0.16056 -0.30311,0.0101 -0.60656,0 -0.90983,0 -0.0714,0 -0.14547,-0.0196 -0.21408,0 -0.31166,0.089 -0.33763,0.52836 -0.58871,0.69575 -0.40609,0.27073 -1.30548,-0.68427 -1.44503,-0.96335 -0.039,-0.0781 -0.17714,-1.0078 -0.16055,-1.1239 0.0126,-0.0883 0.11826,-0.13555 0.16055,-0.21408 0.48808,-0.94444 1.12135,-1.39368 1.01687,-2.40838 -0.0485,-0.43604 -0.54112,-1.07805 -0.21407,-1.49854 0.94644,-0.85514 1.54441,-1.73254 1.49854,-2.56893 z"
        id="path742"
        sodipodi:nodetypes="ccsssssssssssssssssssscccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2574,7 +2583,7 @@
        d="m 35.024312,146.13614 c 0.18609,-0.093 0.39955,-0.12195 0.6055,-0.15137 0.97768,-0.13967 1.0301,0.43485 1.05963,1.17316 0.006,0.13865 -0.0216,0.27922 0,0.41628 0.0515,0.32612 0.19559,0.39867 0.45413,0.6055 0.30566,0.24453 0.53071,0.40397 0.90825,0.52982 0.2701,0.09 1.14988,0.0815 1.09748,0.6055 -0.0499,0.49872 -0.75688,0.93574 -0.75688,1.32454 0,0.36861 0.87158,0.54727 0.49197,1.02178 -0.35106,0.43884 -2.0093,0.43128 -2.4977,0.30276 -1.27983,-1.61089 -3.33249,0.30837 -2.91398,-2.11926 0.91998,-0.43482 0.913,-3.02843 1.5516,-3.70871 z"
        id="path744"
        sodipodi:nodetypes="cscssssssccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2582,7 +2591,7 @@
        d="m 14.361535,150.63957 c 0.1198,-0.1198 0.39438,-0.37297 0.45413,-0.52982 0.11405,-0.29938 0.0757,-0.99806 0.0757,-1.24884 0,-0.12615 -0.0469,-0.26132 0,-0.37844 0.03,-0.075 0.0873,-0.13997 0.15137,-0.18922 0.22231,-0.17101 0.68376,-0.44066 0.98394,-0.3406 0.13957,0.0465 0.26675,0.13133 0.37844,0.22706 0.0798,0.0684 0.24342,0.47734 0.41629,0.18922 0.16662,-0.27771 -0.0568,-0.62432 -0.0757,-0.90825 -0.008,-0.11328 0,-0.22706 0,-0.3406 0,-0.0505 -0.016,-0.1035 0,-0.15137 0.21959,-0.65879 1.440877,-0.54201 1.892187,-0.52982 0.16442,0.004 0.33187,2.2e-4 0.49198,0.0378 0.0614,0.0145 0.11427,0.0625 0.15137,0.11353 0.0664,0.0913 0.12038,0.19427 0.15138,0.30275 0.0478,0.16738 -0.0372,0.33814 -0.0757,0.49198 -0.10872,0.43487 -0.21824,0.8648 -0.52981,1.211 -0.054,0.06 -0.15055,0.0805 -0.18923,0.15138 -0.0427,0.0783 -0.0477,0.17625 -0.0378,0.2649 0.0487,0.43804 0.2692,0.84437 0.41628,1.24885 0.13788,0.37918 0.12926,0.77503 0.15138,1.17316 0.0149,0.26825 -0.0378,0.68118 -0.26491,0.87042 -0.0909,0.0757 -0.30475,0.13898 -0.41629,0.15137 -0.76835,0.0854 -0.84771,-1.09144 -1.13531,-1.5516 -0.700607,-0.53918 -2.070177,1.74627 -2.838287,0.22706 -0.0935,-0.21048 -0.15138,-0.27157 -0.15138,-0.49197 z"
        id="path746"
        sodipodi:nodetypes="cssssssssscscsscsscsssccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2590,7 +2599,7 @@
        d="m 25.891052,106.04696 c -0.53395,2.40101 -0.3461,4.59592 -0.0924,6.74005 l 0.89034,0.95156 0.89056,-0.95192 c 0.25371,-2.14498 0.44157,-4.34086 -0.0924,-6.74281 l -0.79686,-1.15851 z"
        style="opacity:0.999;fill:#2c394c;fill-opacity:1;stroke:#000000;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path748"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2598,7 +2607,7 @@
        id="path750"
        d="m 29.553102,141.85574 c 0.99361,-2.15931 1.4951,-4.12178 1.7582,-5.98889 l 0.32967,8.51631 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2606,7 +2615,7 @@
        style="opacity:0.999;fill:#000001;fill-opacity:1;stroke:#000000;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 25.777552,141.06236 -0.84895,0.77287 c -0.1484,0.15853 -0.15597,0.14254 -0.31793,0.0194 l -0.87625,-0.66609 -1.07031,0.85206 c 0.0626,0.85931 0.0759,2.34205 0.0973,3.72353 h 0.7134 l 1.29752,1.3253 1.23245,-1.19911 h 0.48641 v -3.03715 c 0.0311,-0.0807 0.1026,-0.23221 0.2678,-0.25025 0.16534,0.0179 0.23708,0.16955 0.26823,0.25025 v 3.03694 h 0.48641 l 1.23245,1.19911 1.2973,-1.32531 h 0.71362 c 0.0214,-1.38135 0.0346,-2.86408 0.0973,-3.72331 l -1.07031,-0.85184 -0.84121,0.63927 c -0.1914,0.17222 -0.19941,0.14699 -0.37749,-0.0151 l -0.82465,-0.75041 -0.76297,0.65047 c -0.26369,0.25991 -0.2824,0.20449 -0.54872,-0.0141 z"
        sodipodi:nodetypes="cccccccccccccccccccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2614,7 +2623,7 @@
        d="m 26.351112,133.61872 0.84292,-0.0134 v -1.35137 l -0.42343,0.34788 -0.44626,-0.32112 z"
        id="path754"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2622,7 +2631,7 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 27.665902,123.44438 c -0.20824,6.4102 -0.69809,14.26285 -0.66941,18.25254 l 0.7441,-0.63443 0.0217,0.0198 c -0.59072,-4.75808 -0.1956,-13.87152 -0.0964,-17.63786 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2630,7 +2639,7 @@
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.198381;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 27.852272,141.16409 c 0.20781,1.95912 0.47542,3.79742 0.83231,5.61093 l 0.0964,0.27859 0.0217,-0.0223 c -0.0273,-1.60632 0.0636,-3.32002 -0.0837,-5.09497 -0.0392,-0.0174 -0.083,-0.0591 -0.15367,-0.12341 z"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2638,7 +2647,7 @@
        d="m 29.333012,144.17542 c 0.13542,0.0185 -1.4859,-1.27818 0.4267,-2.85002 0.75621,-0.62149 0.7374,-9.48512 0.39177,-14.52331 0.53586,6.9847 0.92869,14.47372 0.0421,17.05221"
        id="path760"
        sodipodi:nodetypes="cscc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2646,7 +2655,7 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 26.244442,126.32924 c -0.0682,1.87175 -0.0506,13.02732 -0.45257,14.74707 0.21747,0.14091 0.31538,0.83527 0.58108,0.71327 -0.12324,-1.9051 -0.10292,-13.26229 -0.12851,-15.46034 z m 0.51453,16.2737 c -0.0301,0.003 -0.0561,0.0121 -0.0803,0.023 0.0763,0.0141 0.15267,0.0282 0.22901,0.0423 -0.0384,-0.0333 -0.087,-0.0585 -0.14874,-0.0652 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2654,28 +2663,28 @@
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 23.445172,124.78337 c -0.005,0.10162 0.21888,-4.45164 -0.0127,0.30477 -0.81832,-3.71877 0.0221,-0.28182 0.0127,-0.30477 z m -0.0127,0.30477 c -0.11103,1.2572 -0.7273,12.10081 -0.62713,16.84023 l 0.92911,-0.73981 0.0118,0.009 c -0.72248,-3.36674 -0.46962,-12.57996 -0.31378,-16.10943 z"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path766"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 23.747362,141.19822 c 0.20239,2.01592 0.52005,3.97522 0.98234,5.84766 l 0.0427,0.0436 0.004,-0.004 0.0228,-5.14048 c -0.0497,0.0178 -0.0915,-0.0165 -0.18866,-0.0904 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path768"
        d="m 20.292672,122.42992 h 1.01013 v 21.60128"
        style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 33.225702,122.42992 h -1.01013 v 21.60128"
        id="path770"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2683,7 +2692,7 @@
        id="path772"
        d="m 22.226462,135.75174 c 0.68572,5.73534 0.70308,8.85185 0.58015,12.32145 l -4.99815,-4.33036 v -4.15179 z"
        style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.43955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2691,7 +2700,7 @@
        d="m 31.291922,135.75174 c -0.68573,5.73534 -0.70308,8.85185 -0.58015,12.32145 l 4.99815,-4.33036 v -4.15179 z"
        id="path774"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2699,14 +2708,14 @@
        d="m 26.668132,97.141484 c -2.21678,4.936446 -2.18337,9.886696 -2.30292,13.933646 l -3.21314,2.81158 -0.66276,8.44875 -13.997057,12.57762 -0.0247,0.56982 14.718847,-12.66327 1.16992,-8.05124 2.19775,-1.86809 c 0.0951,2.0793 0.38419,4.19093 1.09888,6.37349 0.0814,-7.3346 -0.66917,-14.53054 1.01518,-22.132306 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path776"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        d="m 26.693442,104.89008 v 8.84382 l 0.88619,-0.94735 c 0.2537,-2.14498 0.44144,-4.3407 -0.0925,-6.74265 z"
        style="opacity:0.999;fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path778"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2714,7 +2723,7 @@
        id="path780"
        d="m 31.308772,135.80668 c -0.67961,5.68419 -0.69681,8.77292 -0.57497,12.21157 l 4.95357,-4.29175 v -4.11476 z"
        style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.435629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2722,35 +2731,35 @@
        d="m 26.968592,97.62117 c 1.48499,7.2739 1.6148,14.52011 0.89692,21.57493 0.71469,-2.18257 1.00376,-4.29419 1.09887,-6.37349 l 2.19776,1.86809 1.16992,8.05121 14.71874,12.66329 -0.018,-0.41788 -11.07678,-9.93068 -2.982,-2.63409 -0.003,-0.0421 -0.0663,-0.0595 -0.67048,-8.43432 -3.21808,-2.81158 c 0.16205,-4.67727 -0.31003,-9.69081 -2.04752,-13.45396 z"
        style="opacity:0.98901;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.439442;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path782"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        d="M 19.718132,122.90803 6.247655,135.00364 v 1.01646 l 13.470477,-11.69147 z"
        style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path784"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path786"
        style="opacity:0.992007;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 33.964942,122.90803 13.47049,12.09561 v 1.01646 l -13.47049,-11.69147 z"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        id="path788"
        d="m 8.979775,137.70882 2.35639,0.65673 -0.0171,0.373 -2.32223,-0.62086 z"
        style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 44.592122,137.70882 -2.35639,0.65673 0.0171,0.373 2.32223,-0.62086 z"
        id="path790"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2758,7 +2767,7 @@
        id="path792"
        d="m 29.509882,132.53035 c 0.20713,4.94061 -0.046,6.73871 -0.24146,8.70421 0.88805,-2.53404 0.76874,-5.70919 0.24146,-8.70421 z"
        style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -2766,6 +2775,6 @@
        d="m 25.224232,132.53035 c 0.20713,4.94061 -0.046,6.73871 -0.24146,8.70421 0.88805,-2.53404 0.76874,-5.70919 0.24146,-8.70421 z"
        id="path794"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/Users/kalu/Projects/aircombat/src/client/assets/images/fighter.png" />
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
   </g>
 </svg>

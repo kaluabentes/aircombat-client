@@ -1,8 +1,13 @@
 import Phaser from "phaser";
 
 import Jet from "../objects/Jet";
-import BattleField from "../objects/BattleField";
-import { WORLD_WIDTH, WORLD_HEIGHT } from "../config/game";
+import World from "../objects/World";
+import {
+  WORLD_WIDTH,
+  WORLD_HEIGHT,
+  JET_WIDTH,
+  JET_HEIGHT,
+} from "../config/objects";
 
 export default class BattleScene extends Phaser.Scene {
   constructor() {
@@ -12,7 +17,9 @@ export default class BattleScene extends Phaser.Scene {
   }
 
   create() {
-    this.battleField = new BattleField({
+    this.physics.world.setBounds(0, 0, WORLD_WIDTH, WORLD_HEIGHT);
+
+    this.world = new World({
       scene: this,
       x: 0,
       y: 0,
@@ -20,22 +27,14 @@ export default class BattleScene extends Phaser.Scene {
       height: WORLD_HEIGHT,
     });
 
-    this.physics.world.setBounds(
-      0,
-      0,
-      this.battleField.width,
-      this.battleField.height
-    );
-
     this.jet = new Jet({
       scene: this,
-      x: 0,
-      y: 0,
-      spawnRandomly: true,
+      x: Phaser.Math.Between(JET_WIDTH * 0.5, WORLD_WIDTH - JET_WIDTH * 0.5),
+      y: Phaser.Math.Between(JET_HEIGHT * 0.5, WORLD_HEIGHT - JET_HEIGHT * 0.5),
     });
 
-    // Add bounds mask to hide jet
-    this.battleField.addBoundsMask();
+    // Add bounds mask to hide jet when hit bounds
+    this.world.addBoundsMask();
   }
 
   update() {
