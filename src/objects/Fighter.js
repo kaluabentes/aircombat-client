@@ -13,8 +13,8 @@ export default class Fighter extends Phaser.Physics.Arcade.Sprite {
     this.width = 245;
     this.height = 350;
     this.rotationVelocity = 0.03;
-    this.minSpeed = 700;
-    this.maxSpeed = 1500;
+    this.minSpeed = 1000;
+    this.maxSpeed = 2000;
 
     // Make camera follow the fighter
     this.camera.startFollow(this);
@@ -23,10 +23,6 @@ export default class Fighter extends Phaser.Physics.Arcade.Sprite {
 
     this.setTexture("fighter");
     this.play("fighterNormalVelocity");
-  }
-
-  preUpdate(time, delta) {
-    super.preUpdate(time, delta);
   }
 
   update(input) {
@@ -41,26 +37,16 @@ export default class Fighter extends Phaser.Physics.Arcade.Sprite {
     }
 
     if (input.up.isDown) {
-      this.moveMaxSpeed();
+      this.accelerate(this.maxSpeed);
     } else {
-      this.moveMinSpeed();
+      this.accelerate(this.minSpeed);
     }
   }
 
-  moveMinSpeed() {
+  accelerate(speed) {
     const moved = this.scene.physics.velocityFromRotation(
       this.rotation,
-      this.minSpeed,
-      new Phaser.Math.Vector2(this.body.velocity.x, this.body.velocity.y)
-    );
-    this.setVelocityX(moved.y);
-    this.setVelocityY(-moved.x);
-  }
-
-  moveMaxSpeed() {
-    const moved = this.scene.physics.velocityFromRotation(
-      this.rotation,
-      this.maxSpeed,
+      speed,
       new Phaser.Math.Vector2(this.body.velocity.x, this.body.velocity.y)
     );
     this.setVelocityX(moved.y);
