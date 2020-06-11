@@ -1,12 +1,8 @@
 import Phaser from "phaser";
 
-import {
-  makeAnimations,
-  JET_MIN_SPEED,
-  JET_MAX_SPEED,
-} from "../helpers/animations";
-import jetMinSpeedSprite from "../assets/images/jet-min-speed.png";
-import jetMaxSpeedSprite from "../assets/images/jet-max-speed.png";
+import makeAnimations from "../helpers/makeAnimations";
+import jetSprite from "../assets/images/jet.png";
+import { JET_SPRITE } from "../config/textures";
 
 export default class BootScene extends Phaser.Scene {
   constructor() {
@@ -30,19 +26,14 @@ export default class BootScene extends Phaser.Scene {
     });
 
     this.load.on("complete", () => {
-      makeAnimations(this);
       progress.destroy();
+      makeAnimations(this);
       this.scene.start("BattleScene");
     });
 
-    this.load.spritesheet(JET_MIN_SPEED, jetMinSpeedSprite, {
+    this.load.spritesheet(JET_SPRITE, jetSprite, {
       frameWidth: 245,
       frameHeight: 350,
-    });
-
-    this.load.spritesheet(JET_MAX_SPEED, jetMaxSpeedSprite, {
-      frameWidth: 245,
-      frameHeight: 388,
     });
   }
 }

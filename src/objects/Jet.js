@@ -1,6 +1,7 @@
 import Phaser from "phaser";
 
-import { JET_MIN_SPEED, JET_MAX_SPEED } from "../helpers/animations";
+import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
+import { JET_SPRITE } from "../config/textures";
 
 export default class Jet extends Phaser.Physics.Arcade.Sprite {
   constructor({ scene, x, y, spawnRandomly }) {
@@ -8,8 +9,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     scene.add.existing(this);
     scene.physics.add.existing(this);
 
-    this.setTexture(JET_MIN_SPEED);
-    this.play(JET_MIN_SPEED);
+    this.setTexture(JET_SPRITE);
+    this.play(JET_MIN_SPEED_ANIM);
 
     // Dependencies
     this.camera = scene.cameras.main;
@@ -49,10 +50,10 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
     if (input.up.isDown) {
       this.accelerate(this.maxSpeed);
-      this.play(JET_MAX_SPEED, true);
+      this.play(JET_MAX_SPEED_ANIM, true);
     } else {
       this.accelerate(this.minSpeed);
-      this.play(JET_MIN_SPEED, true);
+      this.play(JET_MIN_SPEED_ANIM, true);
     }
   }
 
