@@ -20,6 +20,13 @@ export default class BattleScene extends Phaser.Scene {
       height: WORLD_HEIGHT,
     });
 
+    this.physics.world.setBounds(
+      0,
+      0,
+      this.battleField.width,
+      this.battleField.height
+    );
+
     this.jet = new Jet({
       scene: this,
       x: 0,
@@ -29,13 +36,6 @@ export default class BattleScene extends Phaser.Scene {
 
     // Add bounds mask to hide jet
     this.battleField.addBoundsMask();
-
-    this.physics.world.setBounds(
-      0,
-      0,
-      this.battleField.width,
-      this.battleField.height
-    );
   }
 
   update() {
