@@ -11,8 +11,16 @@ export default class BattleScene extends Phaser.Scene {
   }
 
   create() {
-    this.battleField = new BattleField({ scene: this, x: 0, y: 0 });
-    this.fighter = new Fighter({ scene: this, x: 0, y: 0 });
+    this.battleField = new BattleField({
+      scene: this,
+      x: 0,
+      y: 0,
+    });
+    this.fighter = new Fighter({
+      scene: this,
+      x: Phaser.Math.Between(0, this.battleField.width),
+      y: Phaser.Math.Between(0, this.battleField.height),
+    });
   }
 
   update() {
