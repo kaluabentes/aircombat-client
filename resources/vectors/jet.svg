@@ -14,9 +14,9 @@
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 248.93865 63.528024"
+   viewBox="0 0 165.95884 63.528024"
    height="240.10593"
-   width="940.87054">
+   width="627.24603">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -230,9 +230,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4999987"
-     inkscape:cx="867.32082"
-     inkscape:cy="182.76297"
+     inkscape:zoom="0.66209591"
+     inkscape:cx="24.430057"
+     inkscape:cy="33.90909"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -247,13 +247,13 @@
      inkscape:guide-bbox="true"
      inkscape:snap-global="false">
     <sodipodi:guide
-       position="205.3681,174.25832"
+       position="122.38828,174.25832"
        orientation="0,-1"
        id="guide1341" />
     <sodipodi:guide
        id="guide1528"
        orientation="0,-1"
-       position="38.76479,0.067518084" />
+       position="-44.215032,0.067518085" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -268,10 +268,41 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-6.028004,-96.515734)"
+     transform="translate(-89.00783,-96.515734)"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
+       transform="translate(-3.9526799)"
+       id="g2417">
+      <path
+         inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
+         sodipodi:nodetypes="ccscc"
+         d="m 194.83835,158.00493 c 1.19503,-5.27494 1.23607,-4.73364 1.22386,-9.59094 0,-1.8593 -0.24546,-4.05912 -1.30838,-4.05912 -1.06292,0 -1.42802,2.19982 -1.42802,4.05912 0.0277,6.03301 0.89803,6.41252 1.51254,9.59094 z"
+         style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.038877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="path2410"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
+         id="path2413"
+         style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0273939;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
+         d="m 194.79935,155.82348 c 0.59133,-1.75127 0.82851,-3.44923 0.89311,-7.49528 0,-1.26504 -0.17914,-2.76173 -0.95479,-2.76173 -0.77567,0 -1.0421,1.49669 -1.0421,2.76173 -0.0817,4.2901 0.67035,5.40518 1.10378,7.49528 z"
+         sodipodi:nodetypes="ccscc"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
+         sodipodi:nodetypes="ccscc"
+         d="m 194.77499,153.66641 c 0.41259,-1.38047 0.64037,-2.2074 0.68659,-5.07392 0,-0.98364 -0.13771,-2.14739 -0.73401,-2.14739 -0.59631,0 -0.80113,1.16375 -0.80113,2.14739 0.0182,3.20768 0.50345,3.39072 0.84855,5.07392 z"
+         style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0211795;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="path2415"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
     <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -334,54 +365,36 @@
            inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
       </g>
     </g>
-    <path
+    <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       id="path785"
-       style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.041944;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-       d="m 190.90923,158.00493 c 1.39102,-5.27494 1.43879,-4.73364 1.42458,-9.59094 0,-1.8593 -0.28572,-4.05912 -1.52297,-4.05912 -1.23724,0 -1.66222,2.19982 -1.66222,4.05912 0.0323,6.03301 1.04531,6.41252 1.76061,9.59094 z"
-       sodipodi:nodetypes="ccscc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-    <path
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       sodipodi:nodetypes="ccscc"
-       d="m 190.86383,155.82348 c 0.68831,-1.75127 0.96439,-3.44923 1.03958,-7.49528 0,-1.26504 -0.20851,-2.76173 -1.11138,-2.76173 -0.90288,0 -1.213,1.49669 -1.213,2.76173 -0.0951,4.2901 0.78029,5.40518 1.2848,7.49528 z"
-       style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.029555;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-       id="path787"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-    <path
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       id="path789"
-       style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0228504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-       d="m 190.83548,153.66641 c 0.48025,-1.38047 0.74539,-2.2074 0.79919,-5.07392 0,-0.98364 -0.16029,-2.14739 -0.85439,-2.14739 -0.69411,0 -0.93252,1.16375 -0.93252,2.14739 0.0212,3.20768 0.58602,3.39072 0.98772,5.07392 z"
-       sodipodi:nodetypes="ccscc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-    <path
        inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccscc"
-       d="m 194.86191,158.00493 c 1.39102,-5.27494 1.43879,-4.73364 1.42458,-9.59094 0,-1.8593 -0.28572,-4.05912 -1.52297,-4.05912 -1.23724,0 -1.66222,2.19982 -1.66222,4.05912 0.0323,6.03301 1.04531,6.41252 1.76061,9.59094 z"
-       style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.041944;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-       id="path793"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path795"
-       style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.029555;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-       d="m 194.81651,155.82348 c 0.68831,-1.75127 0.96439,-3.44923 1.03958,-7.49528 0,-1.26504 -0.20851,-2.76173 -1.11138,-2.76173 -0.90288,0 -1.213,1.49669 -1.213,2.76173 -0.0951,4.2901 0.78029,5.40518 1.2848,7.49528 z"
-       sodipodi:nodetypes="ccscc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccscc"
-       d="m 194.78816,153.66641 c 0.48025,-1.38047 0.74539,-2.2074 0.79919,-5.07392 0,-0.98364 -0.16029,-2.14739 -0.85439,-2.14739 -0.69411,0 -0.93252,1.16375 -0.93252,2.14739 0.0212,3.20768 0.58602,3.39072 0.98772,5.07392 z"
-       style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0228504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-       id="path797"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       id="g2408">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="path793"
+         style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.038877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
+         d="m 194.83835,158.00493 c 1.19503,-5.27494 1.23607,-4.73364 1.22386,-9.59094 0,-1.8593 -0.24546,-4.05912 -1.30838,-4.05912 -1.06292,0 -1.42802,2.19982 -1.42802,4.05912 0.0277,6.03301 0.89803,6.41252 1.51254,9.59094 z"
+         sodipodi:nodetypes="ccscc"
+         inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         sodipodi:nodetypes="ccscc"
+         d="m 194.79935,155.82348 c 0.59133,-1.75127 0.82851,-3.44923 0.89311,-7.49528 0,-1.26504 -0.17914,-2.76173 -0.95479,-2.76173 -0.77567,0 -1.0421,1.49669 -1.0421,2.76173 -0.0817,4.2901 0.67035,5.40518 1.10378,7.49528 z"
+         style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0273939;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="path795"
+         inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         id="path797"
+         style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0211795;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
+         d="m 194.77499,153.66641 c 0.41259,-1.38047 0.64037,-2.2074 0.68659,-5.07392 0,-0.98364 -0.13771,-2.14739 -0.73401,-2.14739 -0.59631,0 -0.80113,1.16375 -0.80113,2.14739 0.0182,3.20768 0.50345,3.39072 0.84855,5.07392 z"
+         sodipodi:nodetypes="ccscc"
+         inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
+    </g>
     <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -1545,926 +1558,6 @@
        d="m 232.67314,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24146,8.70418 0.88804,-2.53403 0.76874,-5.70916 0.24146,-8.70418 z"
        id="path3184"
        sodipodi:nodetypes="ccc" />
-    <g
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="g839"
-       transform="matrix(1,0,0,0.43045659,-41.432829,82.216365)">
-      <g
-         transform="translate(-3.9526784)"
-         id="g829">
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           id="path823"
-           style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0449675;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.31532,160.04376 c 1.39102,-6.06282 1.43879,-5.44068 1.42458,-11.02348 0,-2.13702 -0.28572,-4.66541 -1.52297,-4.66541 -1.23724,0 -1.66222,2.52839 -1.66222,4.66541 0.0323,6.93412 1.04531,7.37031 1.76061,11.02348 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.26992,157.53647 c 0.68831,-2.01284 0.96439,-3.96441 1.03958,-8.6148 0,-1.45399 -0.20851,-3.17422 -1.11138,-3.17422 -0.90288,0 -1.213,1.72023 -1.213,3.17422 -0.0951,4.93089 0.78029,6.21252 1.2848,8.6148 z"
-           style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0316854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path825"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           id="path827"
-           style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0244975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.24157,155.05722 c 0.48025,-1.58666 0.74539,-2.53711 0.79919,-5.83178 0,-1.13056 -0.16029,-2.46814 -0.85439,-2.46814 -0.69411,0 -0.93252,1.33758 -0.93252,2.46814 0.0212,3.68679 0.58602,3.89716 0.98772,5.83178 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-      </g>
-      <g
-         id="g837">
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.31532,160.04376 c 1.39102,-6.06282 1.43879,-5.44068 1.42458,-11.02348 0,-2.13702 -0.28572,-4.66541 -1.52297,-4.66541 -1.23724,0 -1.66222,2.52839 -1.66222,4.66541 0.0323,6.93412 1.04531,7.37031 1.76061,11.02348 z"
-           style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0449675;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path831"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           id="path833"
-           style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0316854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.26992,157.53647 c 0.68831,-2.01284 0.96439,-3.96441 1.03958,-8.6148 0,-1.45399 -0.20851,-3.17422 -1.11138,-3.17422 -0.90288,0 -1.213,1.72023 -1.213,3.17422 -0.0951,4.93089 0.78029,6.21252 1.2848,8.6148 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.24157,155.05722 c 0.48025,-1.58666 0.74539,-2.53711 0.79919,-5.83178 0,-1.13056 -0.16029,-2.46814 -0.85439,-2.46814 -0.69411,0 -0.93252,1.33758 -0.93252,2.46814 0.0212,3.68679 0.58602,3.89716 0.98772,5.83178 z"
-           style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0244975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path835"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-      </g>
-    </g>
-    <g
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       transform="matrix(1,0,0,0.47641077,-82.922549,75.582655)"
-       id="g857">
-      <g
-         id="g847"
-         transform="translate(-3.9526784)">
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.31532,160.04376 c 1.39102,-6.06282 1.43879,-5.44068 1.42458,-11.02348 0,-2.13702 -0.28572,-4.66541 -1.52297,-4.66541 -1.23724,0 -1.66222,2.52839 -1.66222,4.66541 0.0323,6.93412 1.04531,7.37031 1.76061,11.02348 z"
-           style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0449675;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path841"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           id="path843"
-           style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0316854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.26992,157.53647 c 0.68831,-2.01284 0.96439,-3.96441 1.03958,-8.6148 0,-1.45399 -0.20851,-3.17422 -1.11138,-3.17422 -0.90288,0 -1.213,1.72023 -1.213,3.17422 -0.0951,4.93089 0.78029,6.21252 1.2848,8.6148 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.24157,155.05722 c 0.48025,-1.58666 0.74539,-2.53711 0.79919,-5.83178 0,-1.13056 -0.16029,-2.46814 -0.85439,-2.46814 -0.69411,0 -0.93252,1.33758 -0.93252,2.46814 0.0212,3.68679 0.58602,3.89716 0.98772,5.83178 z"
-           style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0244975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path845"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-      </g>
-      <g
-         id="g855">
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           id="path849"
-           style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0449675;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.31532,160.04376 c 1.39102,-6.06282 1.43879,-5.44068 1.42458,-11.02348 0,-2.13702 -0.28572,-4.66541 -1.52297,-4.66541 -1.23724,0 -1.66222,2.52839 -1.66222,4.66541 0.0323,6.93412 1.04531,7.37031 1.76061,11.02348 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.26992,157.53647 c 0.68831,-2.01284 0.96439,-3.96441 1.03958,-8.6148 0,-1.45399 -0.20851,-3.17422 -1.11138,-3.17422 -0.90288,0 -1.213,1.72023 -1.213,3.17422 -0.0951,4.93089 0.78029,6.21252 1.2848,8.6148 z"
-           style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0316854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path851"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           id="path853"
-           style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0244975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.24157,155.05722 c 0.48025,-1.58666 0.74539,-2.53711 0.79919,-5.83178 0,-1.13056 -0.16029,-2.46814 -0.85439,-2.46814 -0.69411,0 -0.93252,1.33758 -0.93252,2.46814 0.0212,3.68679 0.58602,3.89716 0.98772,5.83178 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-      </g>
-    </g>
-    <g
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="g875"
-       transform="matrix(1,0,0,0.5297097,-124.41219,67.888695)">
-      <g
-         transform="translate(-3.9526784)"
-         id="g865">
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           id="path859"
-           style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0449675;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.31532,160.04376 c 1.39102,-6.06282 1.43879,-5.44068 1.42458,-11.02348 0,-2.13702 -0.28572,-4.66541 -1.52297,-4.66541 -1.23724,0 -1.66222,2.52839 -1.66222,4.66541 0.0323,6.93412 1.04531,7.37031 1.76061,11.02348 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.26992,157.53647 c 0.68831,-2.01284 0.96439,-3.96441 1.03958,-8.6148 0,-1.45399 -0.20851,-3.17422 -1.11138,-3.17422 -0.90288,0 -1.213,1.72023 -1.213,3.17422 -0.0951,4.93089 0.78029,6.21252 1.2848,8.6148 z"
-           style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0316854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path861"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-        <path
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           id="path863"
-           style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0244975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.24157,155.05722 c 0.48025,-1.58666 0.74539,-2.53711 0.79919,-5.83178 0,-1.13056 -0.16029,-2.46814 -0.85439,-2.46814 -0.69411,0 -0.93252,1.33758 -0.93252,2.46814 0.0212,3.68679 0.58602,3.89716 0.98772,5.83178 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png" />
-      </g>
-      <g
-         id="g873">
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.31532,160.04376 c 1.39102,-6.06282 1.43879,-5.44068 1.42458,-11.02348 0,-2.13702 -0.28572,-4.66541 -1.52297,-4.66541 -1.23724,0 -1.66222,2.52839 -1.66222,4.66541 0.0323,6.93412 1.04531,7.37031 1.76061,11.02348 z"
-           style="opacity:0.995004;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0449675;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path867"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           id="path869"
-           style="opacity:0.995004;fill:#ffc104;fill-opacity:1;stroke:none;stroke-width:0.0316854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           d="m 153.26992,157.53647 c 0.68831,-2.01284 0.96439,-3.96441 1.03958,-8.6148 0,-1.45399 -0.20851,-3.17422 -1.11138,-3.17422 -0.90288,0 -1.213,1.72023 -1.213,3.17422 -0.0951,4.93089 0.78029,6.21252 1.2848,8.6148 z"
-           sodipodi:nodetypes="ccscc"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-        <path
-           inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-           sodipodi:nodetypes="ccscc"
-           d="m 153.24157,155.05722 c 0.48025,-1.58666 0.74539,-2.53711 0.79919,-5.83178 0,-1.13056 -0.16029,-2.46814 -0.85439,-2.46814 -0.69411,0 -0.93252,1.33758 -0.93252,2.46814 0.0212,3.68679 0.58602,3.89716 0.98772,5.83178 z"
-           style="opacity:0.995004;fill:#feef06;fill-opacity:1;stroke:none;stroke-width:0.0244975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-           id="path871"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150" />
-      </g>
-    </g>
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
-       d="m 24.25492,111.07522 -3.21315,2.81158 -0.66942,8.43432 -14.12423,12.6826 v 3.09295 l 2.83369,2.43235 9.91437,3.02621 -0.78896,0.6312 -4.60713,4.10213 0.0947,3.53422 4.71402,1.51396 4.7975,-4.3734 0.0444,-3.67493 3.07943,-0.0446 v 3.76421 l 0.41358,0.29554 0.41444,-0.29554 v -3.76421 l 3.08395,0.0446 0.0446,3.67493 4.8048,4.3734 4.72131,-1.51396 0.0949,-3.53422 -4.61422,-4.10213 -0.79024,-0.6312 9.9296,-3.02621 2.8382,-2.43235 v -3.09295 l -14.14612,-12.6826 -0.6705,-8.43432 -3.21808,-2.81158 c 0.17512,-5.05428 -0.38921,-10.50247 -2.49179,-14.339791 -2.4063,5.070361 -2.36682,10.181841 -2.48964,14.339791 z"
-       style="opacity:0.993506;fill:#a7bcc1;fill-opacity:1;stroke:#000000;stroke-width:0.439442;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path877"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cccccc"
-       d="m 44.50898,138.66384 -0.018,1.81015 -3.89021,1.25045 -0.0457,-0.0618 -0.0375,-1.764 z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path879"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccccc"
-       d="m 40.47733,138.00414 0.0777,3.65849 0.0457,0.0618 -6.02416,1.77575 0.78896,0.63121 0.091,0.0811 -1.60238,-0.37881 -0.54944,-4.06585 z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path881"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path883"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.11006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 22.17749,135.76105 -7.78959,6.38744 4.60821,1.40665 -0.78896,0.63121 -4.60713,4.10212 0.0947,3.53423 1.5365,0.49342 7.9851,-4.19441 0.0148,-1.21628 -1.29955,-1.29955 z"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cssssssssssssccsscssssssssssc"
-       id="path885"
-       d="m 24.08782,130.2417 c 0.13116,0.18362 0.17159,0.42187 0.30275,0.6055 0.0622,0.0871 0.1792,0.13132 0.22707,0.22706 0.12061,0.24124 -0.14288,0.56384 -0.0757,0.83257 0.10526,0.42103 1.90442,0.73853 2.19494,0.30275 0.46168,-0.69251 0.60551,-1.9861 0.60551,-2.80045 0,-1.12308 0.24366,-2.29403 0.37844,-3.40595 0.0335,-0.27664 0.008,-0.56222 0.0757,-0.83257 0.0624,-0.24961 0.33565,-0.46397 0.45413,-0.68119 0.0762,-0.13973 0.34377,-0.79328 0.37844,-0.98394 0.10272,-0.56499 0.0439,-1.17062 0,-1.74082 -0.0293,-0.38098 -0.1211,-0.54496 -0.0757,-0.90826 0.0697,-0.55777 0.62801,-0.86632 0.90826,-1.28669 0.19264,-0.28897 0.3441,-1.03153 0.30275,-1.36238 -0.83903,-1.34754 0.35485,-0.79128 -0.52982,-2.95183 -0.59756,-1.32791 -1.65721,-2.2567 -3.1032,-2.49769 -0.0556,-0.009 -0.0252,0.12614 -0.0757,0.15137 -0.0714,0.0357 -0.15779,0.0361 -0.22706,0.0757 -0.79958,0.4569 -0.32019,1.60965 -0.45413,2.34632 -0.1198,0.65895 -1.29204,1.35082 -1.36238,2.19495 -0.0449,0.53875 0.17173,0.98623 0.45413,1.43807 0.21282,0.34052 0.25968,0.21785 0.30275,0.6055 0.11414,1.02727 -0.26628,1.99339 -0.15137,3.02751 0.0622,0.55996 0.53043,1.09127 0.75687,1.58945 0.16507,0.36315 0.26113,0.75405 0.37844,1.13532 0.19787,0.64307 0.16566,1.93931 -0.15137,2.57338 -0.11283,0.22566 -0.23779,0.4757 -0.45413,0.60551 -0.53893,0.32335 -1.25994,0.16442 -1.36238,0.98394 -0.0574,0.45903 -0.0454,0.49573 0.30275,0.75688 z"
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccc"
-       d="m 25.62336,105.21725 c -0.7133,2.79874 -0.46235,5.35724 -0.12341,7.85655 l 1.18945,1.10918 1.18967,-1.10961 c 0.33894,-2.5003 0.58989,-5.05993 -0.12341,-7.85977 l -1.06454,-1.35042 z"
-       style="opacity:0.999;fill:#c6dbe2;fill-opacity:1;stroke:#000000;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path887"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path889"
-       d="m 21.94718,114.96567 v 0.52068 l 0.86779,0.78889 0.284,-0.22089 z"
-       style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path891"
-       d="m 23.74587,113.32477 -0.0316,0.89934 0.568,0.48912 0.0158,-0.94668 z"
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.53986,113.32497 0.0316,0.89923 -0.56796,0.48905 -0.0158,-0.94656 z"
-       id="path893"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.110255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 31.3544,114.91667 v 0.52129 l -0.87256,0.78984 -0.28557,-0.22116 z"
-       id="path895"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path897"
-       d="m 24.62609,116.89909 0.0446,1.69582 0.87022,-0.0446 -0.0223,-1.62887 z"
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 28.71863,116.89905 -0.0446,1.69585 -0.87056,-0.0446 0.0223,-1.62891 z"
-       id="path899"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccc"
-       d="m 26.09168,125.66819 0.0335,1.47275 0.62821,0.63901 0.64064,-0.63901 0.0335,-1.47275 -0.67414,-0.568 z"
-       style="opacity:0.990526;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path901"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccccccccccc"
-       id="path903"
-       d="m 23.46259,125.48973 0.0335,1.95242 0.31238,0.32354 0.36817,-0.34586 0.3347,0.3347 0.37933,-0.34585 0.30123,0.34585 0.27892,-0.29007 0.0112,-1.95242 -0.2566,0.20082 -0.34586,-0.27891 -0.34586,0.29007 -0.37933,-0.32354 -0.32354,0.3347 z"
-       style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.05658,125.49842 -0.0335,1.9452 -0.31245,0.32235 -0.36825,-0.34458 -0.33477,0.33347 -0.37941,-0.34458 -0.30129,0.34458 -0.27898,-0.289 -0.0112,-1.94521 0.25666,0.20008 0.34593,-0.27789 0.34593,0.289 0.3794,-0.32235 0.32362,0.33347 z"
-       id="path905"
-       sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path907"
-       d="m 9.08819,137.37031 v 0.3629 l 1.59357,0.50489 -0.0158,-0.37867 z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 44.16855,137.37202 v 0.36223 l -1.59355,0.50396 0.0158,-0.37798 z"
-       id="path910"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cssssscsccccscsccssscsssssssssssscc"
-       id="path912"
-       d="m 15.10296,138.44884 c -0.10677,-0.008 -0.21728,0.026 -0.32112,0 -0.26834,-0.0671 -0.0724,-0.0275 -0.32112,-0.21407 -0.52669,-0.39503 -1.12369,-0.78143 -1.81966,-0.64224 -0.68604,0.13721 -0.90782,0.8193 -1.44502,1.17743 -0.46854,0.31236 -1.71055,0.13484 -2.19429,-0.10704 -0.61249,-0.30624 -0.6603,-0.60743 -0.80279,-1.17742 -0.0333,-0.1333 0.0269,-0.29363 0,-0.42816 -0.0397,-0.19841 -0.15408,-0.61466 -0.10704,-0.80279 0.66,-2.15316 3.35017,-2.18981 4.38859,-3.15764 0.22659,-0.2266 0.34321,-0.57939 0.48167,-0.85631 1.33573,-2.11712 3.20183,-4.11441 5.35194,-4.22804 0.12471,-0.008 0.49575,-0.10891 0.58871,-0.16055 0.0487,-0.027 0.66625,-0.60093 0.69576,-0.64224 0.86934,-1.21708 0.99009,-2.16742 1.23094,-3.63931 0.0815,-0.49797 0.17302,-0.99563 0.21408,-1.49855 1.69906,-1.90552 -0.0818,-3.41577 0.21407,-4.65618 0.20865,-0.37556 0.75497,-0.59601 1.12391,-0.37464 0.19413,0.11648 0.2511,1.72396 0.2676,1.81966 0.0383,0.22238 0.14923,0.42609 0.21407,0.64223 0.18348,0.61157 0.30136,1.23185 0.26761,1.87318 -0.01,0.18357 -0.10705,0.95859 -0.10705,1.12391 0,0.66195 0.15132,1.31606 0.10705,1.98021 -0.0223,0.33508 -0.19637,0.46859 -0.32112,0.74928 -0.2398,0.53954 -0.43131,1.02001 -0.85631,1.44502 -0.45417,0.45417 -0.99337,0.83281 -1.44503,1.28447 -0.20225,0.20225 -0.2691,0.52205 -0.42815,0.74927 -0.181,0.25856 -0.44237,0.45147 -0.64223,0.69575 -0.37858,0.4627 -0.93849,1.09707 -1.07039,1.71262 -0.15524,0.72443 0.21606,2.19826 0.53519,2.83652 0.15582,0.31164 0.53723,0.41042 0.69576,0.69576 0.3477,0.62586 0.13836,1.59645 -0.16056,2.19429 -0.48716,0.9743 -1.26857,0.28473 -1.71262,0.80279 -0.22043,0.25716 -0.24258,0.93833 -0.37464,1.07039 -0.54832,0.63017 -0.96951,-0.17318 -2.24781,-0.2676 z"
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path914"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 9.06371,138.71878 0.018,1.81015 3.89021,1.25046 0.0457,-0.0618 0.0375,-1.764 z"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path917"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 13.09536,138.05908 -0.0777,3.65849 -0.0457,0.0618 6.02416,1.77575 -0.78896,0.63121 -0.091,0.0811 1.60238,-0.37881 0.54945,-4.06585 z"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cssssssssssccssssscssssccc"
-       id="path919"
-       d="m 29.92783,123.46342 c -0.38442,-0.99478 -0.16858,-2.11119 -0.21408,-3.15765 -0.0201,-0.46124 -0.28075,-1.41901 -0.16056,-1.81966 0.0176,-0.0587 0.34282,-0.30954 0.37464,-0.32111 0.11855,-0.0431 0.25225,-0.0229 0.37463,-0.0535 0.36476,-0.0912 0.83817,-0.25876 1.23095,-0.16056 0.24818,0.062 0.10704,1.35146 0.10704,1.60558 0,0.46341 0.3459,1.1639 0.53519,1.60558 0.16012,0.37361 0.45481,0.69404 0.48168,1.12391 0.0802,1.2833 -0.1572,2.64265 0.0535,3.90692 0.0664,0.39862 0.95078,1.55271 1.28446,1.81965 0.42097,0.33678 0.68314,0.19194 0.80279,0.90983 -8.3e-4,0.79393 -0.59692,1.44757 -0.69575,2.14078 -0.077,0.61624 0.21805,0.4936 0.37463,0.96335 0.0591,0.17733 -0.18777,1.12451 -0.26759,1.23094 -0.0239,0.0319 -0.0759,0.0286 -0.10704,0.0535 -0.44621,0.35697 -0.64224,0.41054 -0.64224,1.01687 0,0.4555 0.10705,0.87899 0.10705,1.33799 0,0.0887 0.0173,0.31246 0,0.32111 -0.0926,0.0463 -0.2743,-0.0251 -0.37464,0 -0.65822,0.16456 -1.32561,-0.48162 -1.55206,-1.07039 -0.21028,-0.54672 -0.17474,-1.5198 -0.48168,-1.98021 -0.54726,-0.82089 -1.6586,-1.11892 -1.76614,-2.1943 -0.0616,-0.61616 0.14724,-0.77629 0.2676,-1.33798 0.47847,-1.23972 1.13918,-2.28245 0.69575,-4.17451 -0.0555,-0.61069 -0.42815,-1.16017 -0.42815,-1.76614 z"
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccsssssssssssssssssssscccc"
-       id="path922"
-       d="m 36.72479,129.93926 c -0.005,-0.0875 0.0111,-1.03907 0.0535,-1.1239 0.24176,-0.48352 1.42437,-0.55053 1.60558,0.0535 0.11334,0.37779 0.18125,0.89047 0.21408,1.28446 0.009,0.10667 -0.0192,0.2158 0,0.32112 0.10099,0.55545 0.48804,1.13775 0.85631,1.55206 0.86954,0.97823 2.52057,1.27286 3.5858,2.03374 0.0218,0.0156 1.20015,1.20542 1.28446,1.28446 0.3419,0.32053 0.79276,0.52516 1.12391,0.85631 0.14096,0.14096 0.15631,0.90218 0.10704,1.12391 -0.0572,0.25741 -0.204,0.55019 -0.37464,0.74927 -0.61024,0.71195 -1.29705,0.3829 -2.08725,0.48167 -0.33334,0.0417 -1.02664,0.46316 -1.33799,0.21408 -0.27913,-0.2233 -0.36005,-0.91117 -0.5352,-1.07039 -0.30523,-0.27748 -0.93528,-0.40816 -1.28446,-0.48167 -0.54761,-0.11529 -0.34898,0.48212 -0.74927,0.64223 -0.3982,0.15928 -1.19894,0.14701 -1.60558,0.16056 -0.30311,0.0101 -0.60656,0 -0.90983,0 -0.0714,0 -0.14547,-0.0196 -0.21408,0 -0.31166,0.089 -0.33763,0.52836 -0.58871,0.69575 -0.40609,0.27073 -1.30548,-0.68427 -1.44503,-0.96335 -0.039,-0.0781 -0.17714,-1.0078 -0.16055,-1.1239 0.0126,-0.0883 0.11826,-0.13555 0.16055,-0.21408 0.48808,-0.94444 1.12135,-1.39368 1.01687,-2.40838 -0.0485,-0.43604 -0.54112,-1.07805 -0.21407,-1.49854 0.94644,-0.85514 1.54441,-1.73254 1.49854,-2.56893 z"
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cscssssssccc"
-       id="path924"
-       d="m 35.02471,146.13614 c 0.18609,-0.093 0.39955,-0.12195 0.6055,-0.15137 0.97768,-0.13967 1.0301,0.43485 1.05963,1.17316 0.006,0.13865 -0.0216,0.27922 0,0.41628 0.0515,0.32612 0.19559,0.39867 0.45413,0.6055 0.30566,0.24453 0.53071,0.40397 0.90825,0.52982 0.2701,0.09 1.14988,0.0815 1.09748,0.6055 -0.0499,0.49872 -0.75688,0.93574 -0.75688,1.32454 0,0.36861 0.87158,0.54727 0.49197,1.02178 -0.35106,0.43884 -2.0093,0.43128 -2.4977,0.30276 -1.27983,-1.61089 -3.33249,0.30837 -2.91398,-2.11926 0.91998,-0.43482 0.913,-3.02843 1.5516,-3.70871 z"
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cssssssssscscsscsscsssccccc"
-       id="path926"
-       d="m 14.36193,150.63957 c 0.1198,-0.1198 0.39438,-0.37297 0.45413,-0.52982 0.11405,-0.29938 0.0757,-0.99806 0.0757,-1.24884 0,-0.12615 -0.0469,-0.26132 0,-0.37844 0.03,-0.075 0.0873,-0.13997 0.15137,-0.18922 0.22231,-0.17101 0.68376,-0.44066 0.98394,-0.3406 0.13957,0.0465 0.26675,0.13133 0.37844,0.22706 0.0798,0.0684 0.24342,0.47734 0.41629,0.18922 0.16662,-0.27771 -0.0568,-0.62432 -0.0757,-0.90825 -0.008,-0.11328 0,-0.22706 0,-0.3406 0,-0.0505 -0.016,-0.1035 0,-0.15137 0.21959,-0.65879 1.44088,-0.54201 1.89219,-0.52982 0.16442,0.004 0.33187,2.2e-4 0.49198,0.0378 0.0614,0.0145 0.11427,0.0625 0.15137,0.11353 0.0664,0.0913 0.12038,0.19427 0.15138,0.30275 0.0478,0.16738 -0.0372,0.33814 -0.0757,0.49198 -0.10872,0.43487 -0.21824,0.8648 -0.52981,1.211 -0.054,0.06 -0.15055,0.0805 -0.18923,0.15138 -0.0427,0.0783 -0.0477,0.17625 -0.0378,0.2649 0.0487,0.43804 0.2692,0.84437 0.41628,1.24885 0.13788,0.37918 0.12926,0.77503 0.15138,1.17316 0.0149,0.26825 -0.0378,0.68118 -0.26491,0.87042 -0.0909,0.0757 -0.30475,0.13898 -0.41629,0.15137 -0.76835,0.0854 -0.84771,-1.09144 -1.13531,-1.5516 -0.70061,-0.53918 -2.07018,1.74627 -2.83829,0.22706 -0.0935,-0.21048 -0.15138,-0.27157 -0.15138,-0.49197 z"
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path928"
-       style="opacity:0.999;fill:#2c394c;fill-opacity:1;stroke:#000000;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 25.89145,106.04696 c -0.53395,2.40101 -0.3461,4.59592 -0.0924,6.74005 l 0.89034,0.95156 0.89056,-0.95192 c 0.25371,-2.14498 0.44157,-4.34086 -0.0924,-6.74281 l -0.79686,-1.15851 z"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 29.5535,141.85574 c 0.99361,-2.15931 1.4951,-4.12178 1.7582,-5.98889 l 0.32967,8.51631 z"
-       id="path930"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc"
-       d="m 25.77795,141.06236 -0.84895,0.77287 c -0.1484,0.15853 -0.15597,0.14254 -0.31793,0.0194 l -0.87625,-0.66609 -1.07031,0.85206 c 0.0626,0.85931 0.0759,2.34205 0.0973,3.72353 h 0.7134 l 1.29752,1.3253 1.23245,-1.19911 h 0.48641 v -3.03715 c 0.0311,-0.0807 0.1026,-0.23221 0.2678,-0.25025 0.16534,0.0179 0.23708,0.16955 0.26823,0.25025 v 3.03694 h 0.48641 l 1.23245,1.19911 1.2973,-1.32531 h 0.71362 c 0.0214,-1.38135 0.0346,-2.86408 0.0973,-3.72331 l -1.07031,-0.85184 -0.84121,0.63927 c -0.1914,0.17222 -0.19941,0.14699 -0.37749,-0.0151 l -0.82465,-0.75041 -0.76297,0.65047 c -0.26369,0.25991 -0.2824,0.20449 -0.54872,-0.0141 z"
-       style="opacity:0.999;fill:#000001;fill-opacity:1;stroke:#000000;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path933"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cccccc"
-       id="path937"
-       d="m 26.35151,133.61872 0.84292,-0.0134 v -1.35137 l -0.42343,0.34788 -0.44626,-0.32112 z"
-       style="opacity:0.999;fill:#445052;fill-opacity:1;stroke:none;stroke-width:0.219776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cccccc"
-       d="m 27.6663,123.44438 c -0.20824,6.4102 -0.69809,14.26285 -0.66941,18.25254 l 0.7441,-0.63443 0.0217,0.0198 c -0.59072,-4.75808 -0.1956,-13.87152 -0.0964,-17.63786 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path940"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccc"
-       d="m 27.85267,141.16409 c 0.20781,1.95912 0.47542,3.79742 0.83231,5.61093 l 0.0964,0.27859 0.0217,-0.0223 c -0.0273,-1.60632 0.0636,-3.32002 -0.0837,-5.09497 -0.0392,-0.0174 -0.083,-0.0591 -0.15367,-0.12341 z"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:0.198381;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path942"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="cscc"
-       id="path944"
-       d="m 29.33341,144.17542 c 0.13542,0.0185 -1.4859,-1.27818 0.4267,-2.85002 0.75621,-0.62149 0.7374,-9.48512 0.39177,-14.52331 0.53586,6.9847 0.92869,14.47372 0.0421,17.05221"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccccc"
-       d="m 26.24484,126.32924 c -0.0682,1.87175 -0.0506,13.02732 -0.45257,14.74707 0.21747,0.14091 0.31538,0.83527 0.58108,0.71327 -0.12324,-1.9051 -0.10292,-13.26229 -0.12851,-15.46034 z m 0.51453,16.2737 c -0.0301,0.003 -0.0561,0.0121 -0.0803,0.023 0.0763,0.0141 0.15267,0.0282 0.22901,0.0423 -0.0384,-0.0333 -0.087,-0.0585 -0.14874,-0.0652 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path946"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccccc"
-       d="m 23.44557,124.78337 c -0.005,0.10162 0.21888,-4.45164 -0.0127,0.30477 -0.81832,-3.71877 0.0221,-0.28182 0.0127,-0.30477 z m -0.0127,0.30477 c -0.11103,1.2572 -0.7273,12.10081 -0.62713,16.84023 l 0.92911,-0.73981 0.0118,0.009 c -0.72248,-3.36674 -0.46962,-12.57996 -0.31378,-16.10943 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path949"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       d="m 23.74776,141.19822 c 0.20239,2.01592 0.52005,3.97522 0.98234,5.84766 l 0.0427,0.0436 0.004,-0.004 0.0228,-5.14048 c -0.0497,0.0178 -0.0915,-0.0165 -0.18866,-0.0904 z"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path953"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 20.29307,122.42992 H 21.3032 V 144.0312"
-       id="path959"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path961"
-       d="M 33.2261,122.42992 H 32.21597 V 144.0312"
-       style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.43955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 22.22686,135.75174 c 0.68572,5.73534 0.70308,8.85185 0.58015,12.32145 l -4.99815,-4.33036 v -4.15179 z"
-       id="path965"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccc"
-       id="path967"
-       d="m 31.29232,135.75174 c -0.68573,5.73534 -0.70308,8.85185 -0.58015,12.32145 l 4.99815,-4.33036 v -4.15179 z"
-       style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.43955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path969"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.66853,97.141484 c -2.21678,4.936446 -2.18337,9.886696 -2.30292,13.933646 l -3.21314,2.81158 -0.66276,8.44875 -13.99706,12.57762 -0.0247,0.56982 14.71885,-12.66327 1.16992,-8.05124 2.19775,-1.86809 c 0.0951,2.0793 0.38419,4.19093 1.09888,6.37349 0.0814,-7.3346 -0.66917,-14.53054 1.01518,-22.132306 z"
-       sodipodi:nodetypes="cccccccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path972"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:0.109888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.69384,104.89008 v 8.84382 l 0.88619,-0.94735 c 0.2537,-2.14498 0.44144,-4.3407 -0.0925,-6.74265 z"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.435629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 31.30917,135.80668 c -0.67961,5.68419 -0.69681,8.77292 -0.57497,12.21157 l 4.95357,-4.29175 v -4.11476 z"
-       id="path974"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path976"
-       style="opacity:0.98901;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.439442;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 26.96899,97.62117 c 1.48499,7.2739 1.6148,14.52011 0.89692,21.57493 0.71469,-2.18257 1.00376,-4.29419 1.09887,-6.37349 l 2.19776,1.86809 1.16992,8.05121 14.71874,12.66329 -0.018,-0.41788 -11.07678,-9.93068 -2.982,-2.63409 -0.003,-0.0421 -0.0663,-0.0595 -0.67048,-8.43432 -3.21808,-2.81158 c 0.16205,-4.67727 -0.31003,-9.69081 -2.04752,-13.45396 z"
-       sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path978"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 19.71853,122.90803 6.24805,135.00364 v 1.01646 l 13.47048,-11.69147 z"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       d="m 33.96534,122.90803 13.47049,12.09561 v 1.01646 L 33.96534,124.32863 Z"
-       style="opacity:0.992007;fill:none;stroke:#000000;stroke-width:0.164832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path980"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 8.98017,137.70882 2.35639,0.65673 -0.0171,0.373 -2.32223,-0.62086 z"
-       id="path982"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path984"
-       d="m 44.59252,137.70882 -2.35639,0.65673 0.0171,0.373 2.32223,-0.62086 z"
-       style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 29.51028,132.53035 c 0.20713,4.94061 -0.046,6.73871 -0.24146,8.70421 0.88805,-2.53404 0.76874,-5.70919 0.24146,-8.70421 z"
-       id="path986"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccc"
-       id="path988"
-       d="m 25.22463,132.53035 c 0.20713,4.94061 -0.046,6.73871 -0.24146,8.70421 0.88805,-2.53404 0.76874,-5.70919 0.24146,-8.70421 z"
-       style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path990"
-       style="opacity:0.993506;fill:#a7bcc1;fill-opacity:1;stroke:#000000;stroke-width:0.439441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 65.74457,111.07517 -3.21314,2.81157 -0.66941,8.4343 -14.12419,12.68256 v 3.09294 l 2.83368,2.43234 9.91434,3.0262 -0.78895,0.6312 -4.60712,4.10211 0.0947,3.53422 4.714,1.51395 4.79749,-4.37339 0.0444,-3.67492 3.07942,-0.0446 v 3.7642 l 0.41358,0.29554 0.41444,-0.29554 v -3.7642 l 3.08393,0.0446 0.0446,3.67492 4.80478,4.37339 4.7213,-1.51395 0.0949,-3.53422 -4.6142,-4.10211 -0.79024,-0.6312 9.92957,-3.0262 2.83819,-2.43234 v -3.09294 l -14.14608,-12.68256 -0.67049,-8.4343 -3.21807,-2.81157 c 0.17512,-5.05426 -0.38921,-10.50244 -2.49178,-14.339741 -2.4063,5.070341 -2.36681,10.181801 -2.48964,14.339741 z"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path992"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 85.99857,138.66371 -0.018,1.81014 -3.8902,1.25045 -0.0457,-0.0618 -0.0375,-1.764 z"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path994"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 81.96693,138.004 0.0777,3.65849 0.0457,0.0618 -6.02414,1.77575 0.78896,0.6312 0.091,0.0811 -1.60238,-0.37881 -0.54944,-4.06583 z"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       d="m 63.66715,135.76092 -7.78956,6.38742 4.60819,1.40665 -0.78896,0.63121 -4.60711,4.10211 0.0946,3.53421 1.5365,0.49342 7.98508,-4.19439 0.0148,-1.21628 -1.29955,-1.29955 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.11006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path996"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 65.57747,130.24159 c 0.13116,0.18362 0.17159,0.42188 0.30275,0.6055 0.0622,0.0871 0.1792,0.13133 0.22707,0.22706 0.12062,0.24124 -0.14287,0.56383 -0.0757,0.83257 0.10526,0.42103 1.90442,0.73853 2.19494,0.30275 0.46167,-0.69251 0.6055,-1.9861 0.6055,-2.80044 0,-1.12308 0.24366,-2.29403 0.37844,-3.40595 0.0335,-0.27664 0.008,-0.56221 0.0757,-0.83256 0.0624,-0.24961 0.33565,-0.46397 0.45413,-0.68119 0.0762,-0.13973 0.34377,-0.79327 0.37844,-0.98394 0.10273,-0.56499 0.0439,-1.17061 0,-1.74081 -0.0293,-0.38098 -0.1211,-0.54496 -0.0757,-0.90825 0.0697,-0.55777 0.62801,-0.86633 0.90825,-1.28669 0.19265,-0.28897 0.34411,-1.03153 0.30275,-1.36238 -0.83902,-1.34753 0.35486,-0.79127 -0.52981,-2.95181 -0.59756,-1.32792 -1.65721,-2.2567 -3.10319,-2.4977 -0.0557,-0.009 -0.0252,0.12615 -0.0757,0.15138 -0.0714,0.0357 -0.15779,0.0361 -0.22706,0.0757 -0.79958,0.4569 -0.32019,1.60965 -0.45413,2.34631 -0.1198,0.65895 -1.29203,1.35082 -1.36237,2.19494 -0.0449,0.53876 0.17172,0.98623 0.45412,1.43807 0.21283,0.34051 0.25968,0.21785 0.30275,0.6055 0.11414,1.02726 -0.26627,1.99338 -0.15137,3.0275 0.0622,0.55995 0.53043,1.09126 0.75687,1.58944 0.16507,0.36315 0.26113,0.75405 0.37844,1.13532 0.19787,0.64306 0.16566,1.9393 -0.15137,2.57337 -0.11283,0.22566 -0.23779,0.4757 -0.45413,0.6055 -0.53892,0.32336 -1.25994,0.16443 -1.36238,0.98394 -0.0574,0.45903 -0.0454,0.49573 0.30275,0.75688 z"
-       id="path998"
-       sodipodi:nodetypes="cssssssssssssccsscssssssssssc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1000"
-       style="opacity:0.999;fill:#c6dbe2;fill-opacity:1;stroke:#000000;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 67.11301,105.21722 c -0.7133,2.79873 -0.46235,5.35722 -0.12341,7.85653 l 1.18945,1.10918 1.18966,-1.10961 c 0.33894,-2.50029 0.58989,-5.05992 -0.12341,-7.85974 l -1.06453,-1.35042 z"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 63.43685,114.96562 v 0.52067 l 0.86778,0.78889 0.284,-0.22089 z"
-       id="path1002"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 65.23552,113.32472 -0.0316,0.89934 0.568,0.48911 0.0158,-0.94667 z"
-       id="path1004"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1006"
-       d="m 71.0295,113.32491 0.0316,0.89923 -0.56795,0.48905 -0.0158,-0.94655 z"
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1008"
-       d="m 72.84403,114.91661 v 0.52129 l -0.87256,0.78983 -0.28557,-0.22115 z"
-       style="opacity:0.999;fill:#1e2223;fill-opacity:1;stroke:none;stroke-width:0.110255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 66.11574,116.89903 0.0446,1.69581 0.87022,-0.0446 -0.0223,-1.62887 z"
-       id="path1010"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1012"
-       d="m 70.20827,116.89898 -0.0446,1.69585 -0.87055,-0.0446 0.0223,-1.6289 z"
-       style="opacity:0.999;fill:#617175;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path1014"
-       style="opacity:0.990526;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 67.58133,125.6681 0.0335,1.47275 0.62821,0.639 0.64064,-0.639 0.0335,-1.47275 -0.67413,-0.568 z"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 64.95225,125.48964 0.0335,1.95241 0.31238,0.32354 0.36817,-0.34585 0.3347,0.33469 0.37932,-0.34585 0.30123,0.34585 0.27892,-0.29007 0.0112,-1.95241 -0.2566,0.20082 -0.34585,-0.27892 -0.34586,0.29008 -0.37933,-0.32355 -0.32354,0.3347 z"
-       id="path1016"
-       sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       sodipodi:nodetypes="ccccccccccccccc"
-       id="path1018"
-       d="m 71.54622,125.49833 -0.0335,1.9452 -0.31245,0.32234 -0.36825,-0.34457 -0.33476,0.33346 -0.37941,-0.34458 -0.30129,0.34458 -0.27899,-0.289 -0.0112,-1.9452 0.25666,0.20007 0.34593,-0.27788 0.34593,0.289 0.37941,-0.32235 0.32361,0.33347 z"
-       style="opacity:0.993506;fill:#778486;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 50.57789,137.37018 v 0.3629 l 1.59356,0.50489 -0.0158,-0.37867 z"
-       id="path1020"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1022"
-       d="m 85.65814,137.37189 v 0.36223 l -1.59355,0.50396 0.0158,-0.37798 z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.109786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 56.59264,138.44871 c -0.10677,-0.008 -0.21727,0.026 -0.32112,0 -0.26833,-0.0671 -0.0724,-0.0275 -0.32111,-0.21408 -0.5267,-0.39502 -1.12369,-0.78142 -1.81965,-0.64223 -0.68605,0.13721 -0.90783,0.8193 -1.44502,1.17743 -0.46854,0.31236 -1.71055,0.13483 -2.19429,-0.10704 -0.61248,-0.30624 -0.66029,-0.60743 -0.80279,-1.17742 -0.0333,-0.1333 0.0269,-0.29363 0,-0.42816 -0.0397,-0.19841 -0.15407,-0.61466 -0.10704,-0.80279 0.66,-2.15315 3.35017,-2.1898 4.38858,-3.15763 0.22659,-0.22659 0.34321,-0.57938 0.48167,-0.85631 1.33573,-2.1171 3.20182,-4.11439 5.35192,-4.22802 0.12472,-0.008 0.49575,-0.10891 0.58872,-0.16055 0.0487,-0.027 0.66624,-0.60093 0.69574,-0.64223 0.86935,-1.21709 0.99009,-2.16742 1.23095,-3.63931 0.0815,-0.49796 0.17302,-0.99563 0.21407,-1.49854 1.69906,-1.90551 -0.0817,-3.41576 0.21408,-4.65617 0.20864,-0.37556 0.75496,-0.596 1.1239,-0.37463 0.19413,0.11647 0.2511,1.72395 0.2676,1.81965 0.0383,0.22237 0.14923,0.42609 0.21407,0.64223 0.18348,0.61157 0.30136,1.23185 0.2676,1.87317 -0.01,0.18357 -0.10704,0.95859 -0.10704,1.12391 0,0.66195 0.15132,1.31605 0.10704,1.98021 -0.0223,0.33507 -0.19636,0.46858 -0.32111,0.74926 -0.2398,0.53955 -0.4313,1.02002 -0.85631,1.44502 -0.45416,0.45417 -0.99336,0.83281 -1.44502,1.28447 -0.20226,0.20225 -0.26911,0.52205 -0.42816,0.74926 -0.18099,0.25857 -0.44236,0.45148 -0.64222,0.69575 -0.37858,0.4627 -0.93849,1.09707 -1.07039,1.71262 -0.15523,0.72443 0.21606,2.19825 0.5352,2.83652 0.15581,0.31163 0.53722,0.41041 0.69574,0.69575 0.3477,0.62586 0.13837,1.59644 -0.16055,2.19429 -0.48715,0.97429 -1.26856,0.28472 -1.71262,0.80278 -0.22042,0.25716 -0.24258,0.93833 -0.37463,1.07039 -0.54832,0.63016 -0.96951,-0.17318 -2.24781,-0.2676 z"
-       id="path1024"
-       sodipodi:nodetypes="cssssscsccccscsccssscsssssssssssscc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="cccccc"
-       d="m 50.55341,138.71865 0.018,1.81014 3.8902,1.25045 0.0457,-0.0618 0.0375,-1.764 z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1026"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="ccccccccc"
-       d="m 54.58505,138.05895 -0.0777,3.65848 -0.0457,0.0618 6.02414,1.77575 -0.78896,0.63121 -0.091,0.0811 1.60238,-0.37881 0.54944,-4.06584 z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1028"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 71.41746,123.46333 c -0.38441,-0.99478 -0.16858,-2.11117 -0.21407,-3.15763 -0.0201,-0.46125 -0.28075,-1.41901 -0.16056,-1.81966 0.0176,-0.0587 0.34281,-0.30954 0.37463,-0.32111 0.11855,-0.0431 0.25226,-0.0229 0.37464,-0.0535 0.36475,-0.0912 0.83816,-0.25875 1.23094,-0.16056 0.24818,0.062 0.10704,1.35146 0.10704,1.60558 0,0.46341 0.3459,1.1639 0.53519,1.60558 0.16012,0.37361 0.45481,0.69403 0.48167,1.1239 0.0802,1.2833 -0.15719,2.64264 0.0535,3.9069 0.0664,0.39862 0.95079,1.55271 1.28446,1.81965 0.42097,0.33678 0.68314,0.19194 0.80279,0.90983 -8.3e-4,0.79393 -0.59692,1.44757 -0.69575,2.14077 -0.077,0.61623 0.21805,0.49359 0.37463,0.96335 0.0591,0.17733 -0.18776,1.1245 -0.26759,1.23094 -0.0239,0.0319 -0.0759,0.0286 -0.10704,0.0535 -0.44621,0.35696 -0.64223,0.41053 -0.64223,1.01686 0,0.4555 0.10704,0.87898 0.10704,1.33798 0,0.0888 0.0173,0.31247 0,0.32112 -0.0926,0.0463 -0.2743,-0.0251 -0.37464,0 -0.65822,0.16455 -1.3256,-0.48162 -1.55205,-1.07039 -0.21028,-0.54672 -0.17474,-1.5198 -0.48167,-1.98021 -0.54726,-0.82089 -1.6586,-1.11892 -1.76614,-2.19429 -0.0616,-0.61616 0.14723,-0.77629 0.2676,-1.33798 0.47847,-1.23971 1.13918,-2.28244 0.69575,-4.1745 -0.0555,-0.61068 -0.42816,-1.16016 -0.42816,-1.76613 z"
-       id="path1030"
-       sodipodi:nodetypes="cssssssssssccssssscssssccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 78.2144,129.93916 c -0.005,-0.0875 0.0111,-1.03907 0.0535,-1.12391 0.24176,-0.48351 1.42437,-0.55052 1.60558,0.0535 0.11333,0.3778 0.18124,0.89047 0.21408,1.28446 0.009,0.10667 -0.0192,0.21581 0,0.32112 0.10099,0.55545 0.48803,1.13775 0.8563,1.55206 0.86954,0.97822 2.52057,1.27286 3.58579,2.03373 0.0218,0.0156 1.20015,1.20541 1.28446,1.28446 0.3419,0.32053 0.79276,0.52516 1.1239,0.85631 0.14096,0.14095 0.15631,0.90217 0.10704,1.1239 -0.0572,0.25741 -0.20399,0.55019 -0.37463,0.74927 -0.61024,0.71194 -1.29705,0.38289 -2.08725,0.48167 -0.33334,0.0417 -1.02664,0.46315 -1.33798,0.21408 -0.27913,-0.22331 -0.36005,-0.91117 -0.5352,-1.07039 -0.30522,-0.27748 -0.93528,-0.40816 -1.28446,-0.48167 -0.54761,-0.11529 -0.34897,0.48211 -0.74926,0.64223 -0.39821,0.15928 -1.19894,0.147 -1.60558,0.16056 -0.3031,0.0101 -0.60655,0 -0.90982,0 -0.0714,0 -0.14547,-0.0196 -0.21408,0 -0.31167,0.089 -0.33764,0.52836 -0.58871,0.69575 -0.40609,0.27072 -1.30548,-0.68427 -1.44502,-0.96335 -0.039,-0.0781 -0.17715,-1.0078 -0.16056,-1.1239 0.0126,-0.0883 0.11827,-0.13554 0.16056,-0.21408 0.48807,-0.94443 1.12134,-1.39367 1.01686,-2.40837 -0.0485,-0.43603 -0.54112,-1.07804 -0.21407,-1.49853 0.94644,-0.85514 1.54441,-1.73254 1.49853,-2.56892 z"
-       id="path1032"
-       sodipodi:nodetypes="ccsssssssssssssssssssscccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 76.51433,146.13599 c 0.18609,-0.093 0.39955,-0.12196 0.6055,-0.15138 0.97767,-0.13966 1.0301,0.43486 1.05963,1.17316 0.006,0.13865 -0.0216,0.27922 0,0.41628 0.0515,0.32612 0.19558,0.39866 0.45412,0.6055 0.30567,0.24453 0.53071,0.40397 0.90825,0.52981 0.2701,0.09 1.14987,0.0815 1.09748,0.6055 -0.0499,0.49872 -0.75688,0.93574 -0.75688,1.32454 0,0.36861 0.87158,0.54727 0.49197,1.02178 -0.35106,0.43883 -2.0093,0.43128 -2.49769,0.30275 -1.27983,-1.61088 -3.33248,0.30838 -2.91397,-2.11925 0.91997,-0.43482 0.91299,-3.02842 1.55159,-3.70869 z"
-       id="path1034"
-       sodipodi:nodetypes="cscssssssccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#829ba2;fill-opacity:1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 55.85162,150.6394 c 0.1198,-0.1198 0.39437,-0.37297 0.45412,-0.52982 0.11405,-0.29938 0.0757,-0.99805 0.0757,-1.24884 0,-0.12615 -0.0469,-0.26132 0,-0.37844 0.03,-0.075 0.0873,-0.13997 0.15137,-0.18922 0.22231,-0.171 0.68377,-0.44065 0.98394,-0.34059 0.13957,0.0465 0.26675,0.13132 0.37844,0.22706 0.0798,0.0684 0.24341,0.47734 0.41628,0.18922 0.16663,-0.27771 -0.0567,-0.62433 -0.0757,-0.90825 -0.008,-0.11328 0,-0.22706 0,-0.3406 0,-0.0505 -0.0159,-0.1035 0,-0.15137 0.21959,-0.65878 1.44087,-0.54201 1.89219,-0.52981 0.16441,0.004 0.33186,2.2e-4 0.49197,0.0378 0.0614,0.0145 0.11427,0.0625 0.15137,0.11353 0.0664,0.0913 0.12038,0.19427 0.15138,0.30275 0.0478,0.16738 -0.0372,0.33814 -0.0757,0.49197 -0.10872,0.43488 -0.21824,0.86481 -0.52981,1.211 -0.054,0.06 -0.15055,0.0805 -0.18922,0.15138 -0.0427,0.0783 -0.0477,0.17625 -0.0378,0.26491 0.0487,0.43804 0.2692,0.84436 0.41628,1.24884 0.13789,0.37918 0.12926,0.77503 0.15138,1.17316 0.0149,0.26824 -0.0378,0.68117 -0.26491,0.87041 -0.0908,0.0757 -0.30475,0.13898 -0.41628,0.15137 -0.76835,0.0854 -0.84771,-1.09143 -1.13531,-1.5516 -0.70061,-0.53918 -2.07018,1.74627 -2.83829,0.22707 -0.0935,-0.21048 -0.15138,-0.27157 -0.15138,-0.49197 z"
-       id="path1036"
-       sodipodi:nodetypes="cssssssssscscsscsscsssccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       d="m 67.3811,106.04693 c -0.53395,2.401 -0.3461,4.59591 -0.0924,6.74003 l 0.89034,0.95156 0.89056,-0.95192 c 0.25371,-2.14498 0.44156,-4.34085 -0.0924,-6.74279 l -0.79687,-1.15851 z"
-       style="opacity:0.999;fill:#2c394c;fill-opacity:1;stroke:#000000;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1038"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="cccc"
-       id="path1040"
-       d="m 71.04314,141.8556 c 0.99361,-2.15931 1.4951,-4.12177 1.75819,-5.98887 l 0.32967,8.51628 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1042"
-       style="opacity:0.999;fill:#000001;fill-opacity:1;stroke:#000000;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 67.2676,141.06222 -0.84895,0.77287 c -0.14839,0.15853 -0.15596,0.14253 -0.31793,0.0194 l -0.87624,-0.66608 -1.07031,0.85206 c 0.0626,0.8593 0.0759,2.34204 0.0973,3.72351 h 0.71339 l 1.29752,1.3253 1.23245,-1.1991 h 0.4864 v -3.03715 c 0.0312,-0.0807 0.10261,-0.2322 0.2678,-0.25025 0.16535,0.018 0.23708,0.16956 0.26824,0.25025 v 3.03693 h 0.4864 l 1.23245,1.19911 1.2973,-1.32531 h 0.71361 c 0.0214,-1.38134 0.0346,-2.86407 0.0973,-3.72329 l -1.07031,-0.85184 -0.8412,0.63927 c -0.1914,0.17221 -0.19941,0.14698 -0.37749,-0.0151 l -0.82465,-0.75041 -0.76297,0.65047 c -0.26369,0.25991 -0.28239,0.20449 -0.54871,-0.0141 z"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#445052;fill-opacity:1;stroke:none;stroke-width:0.219775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 67.84115,133.6186 0.84293,-0.0134 v -1.35136 l -0.42343,0.34787 -0.44626,-0.32111 z"
-       id="path1044"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1046"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 69.15594,123.44429 c -0.20823,6.41019 -0.69808,14.2628 -0.6694,18.25249 l 0.7441,-0.63443 0.0217,0.0198 c -0.59073,-4.75807 -0.1956,-13.87148 -0.0964,-17.63781 z"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1048"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:0.198381;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 69.34231,141.16395 c 0.20781,1.95912 0.47542,3.7974 0.83231,5.61092 l 0.0964,0.27858 0.0217,-0.0223 c -0.0273,-1.60632 0.0636,-3.32001 -0.0837,-5.09495 -0.0392,-0.0174 -0.083,-0.0591 -0.15367,-0.12341 z"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 70.82305,144.17527 c 0.13542,0.0185 -1.4859,-1.27818 0.42669,-2.85002 0.75622,-0.62148 0.73741,-9.48508 0.39177,-14.52326 0.53586,6.98469 0.92869,14.47367 0.0421,17.05216"
-       id="path1050"
-       sodipodi:nodetypes="cscc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1052"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 67.73449,126.32915 c -0.0682,1.87174 -0.0506,13.02728 -0.45257,14.74702 0.21746,0.1409 0.31538,0.83527 0.58108,0.71327 -0.12324,-1.90509 -0.10292,-13.26225 -0.12851,-15.46029 z m 0.51453,16.27364 c -0.0301,0.003 -0.0561,0.0121 -0.0803,0.023 0.0763,0.0141 0.15267,0.0282 0.229,0.0423 -0.0384,-0.0333 -0.087,-0.0585 -0.14873,-0.0652 z"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1054"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 64.93523,124.78328 c -0.005,0.10162 0.21888,-4.45162 -0.0127,0.30477 -0.81832,-3.71876 0.0221,-0.28182 0.0127,-0.30477 z m -0.0127,0.30477 c -0.11104,1.25719 -0.7273,12.10078 -0.62713,16.84017 l 0.9291,-0.7398 0.0118,0.009 c -0.72248,-3.36673 -0.46962,-12.57992 -0.31378,-16.10938 z"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1056"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.111405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 65.23742,141.19807 c 0.20239,2.01592 0.52004,3.97521 0.98233,5.84765 l 0.0427,0.0436 0.004,-0.004 0.0228,-5.14046 c -0.0497,0.0178 -0.0915,-0.0165 -0.18865,-0.0904 z"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1058"
-       d="m 61.78274,122.42984 h 1.01012 v 21.60121"
-       style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:none;stroke:#333333;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 74.71573,122.42984 H 73.7056 v 21.60121"
-       id="path1060"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       id="path1062"
-       d="m 63.71652,135.75161 c 0.68572,5.73532 0.70308,8.85183 0.58014,12.32142 l -4.99813,-4.33035 v -4.15178 z"
-       style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.439549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#a7bcc1;fill-opacity:0.992157;stroke:#000000;stroke-width:0.439549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.78195,135.75161 c -0.68572,5.73532 -0.70308,8.85183 -0.58014,12.32142 l 4.99813,-4.33035 v -4.15178 z"
-       id="path1064"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="cccccccccccc"
-       d="m 68.15818,97.141482 c -2.21678,4.936438 -2.18336,9.886668 -2.30291,13.933598 l -3.21314,2.81158 -0.66275,8.44872 -13.99702,12.57758 -0.0247,0.56982 14.7188,-12.66324 1.16992,-8.05121 2.19775,-1.86808 c 0.0951,2.07929 0.38418,4.19091 1.09887,6.37347 0.0814,-7.33458 -0.66917,-14.5305 1.01517,-22.132238 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path1066"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       d="m 68.18348,104.89005 v 8.8438 l 0.88619,-0.94735 c 0.25371,-2.14498 0.44144,-4.34069 -0.0925,-6.74263 z"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:0.109887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path1068"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       id="path1070"
-       d="m 72.7988,135.80656 c -0.67961,5.68417 -0.69681,8.77288 -0.57497,12.21152 l 4.95356,-4.29173 v -4.11475 z"
-       style="opacity:0.999;fill:#000000;fill-opacity:0.3;stroke:none;stroke-width:0.435628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="ccccccccccccccc"
-       d="m 68.45863,97.621166 c 1.48499,7.273874 1.6148,14.520064 0.89692,21.574864 0.71469,-2.18256 1.00376,-4.29418 1.09887,-6.37348 l 2.19775,1.86809 1.16992,8.05119 14.71869,12.66324 -0.018,-0.41787 -11.07674,-9.93065 -2.98199,-2.63408 -0.003,-0.0421 -0.0663,-0.0594 -0.67048,-8.43429 -3.21807,-2.81158 c 0.16205,-4.67725 -0.31003,-9.69077 -2.04752,-13.453914 z"
-       style="opacity:0.98901;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.439441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path1072"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       d="m 61.2082,122.90795 -13.47044,12.09556 v 1.01646 L 61.2082,124.32854 Z"
-       style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1074"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1076"
-       style="opacity:0.992007;fill:none;stroke:#000000;stroke-width:0.164831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 75.45497,122.90795 13.47044,12.09556 v 1.01646 L 75.45497,124.32854 Z"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       id="path1078"
-       d="m 50.46988,137.70869 2.35638,0.65673 -0.0171,0.373 -2.32223,-0.62086 z"
-       style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.999;fill:#00ff00;stroke:none;stroke-width:0.103346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 86.08211,137.70869 -2.35638,0.65673 0.0171,0.373 2.32222,-0.62086 z"
-       id="path1080"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="ccc"
-       id="path1082"
-       d="m 70.99992,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24146,8.70418 0.88804,-2.53403 0.76874,-5.70916 0.24146,-8.70418 z"
-       style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="opacity:0.996003;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.12552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 66.71428,132.53023 c 0.20713,4.9406 -0.046,6.73869 -0.24145,8.70418 0.88804,-2.53403 0.76873,-5.70916 0.24145,-8.70418 z"
-       id="path1084"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
     <path
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
        d="m 107.23429,111.07517 -3.21314,2.81157 -0.66941,8.4343 -14.12419,12.68256 v 3.09294 l 2.83368,2.43234 9.91434,3.0262 -0.78896,0.6312 -4.60712,4.10211 0.0947,3.53422 4.71401,1.51395 4.79748,-4.37339 0.0444,-3.67492 3.07943,-0.0446 v 3.7642 l 0.41358,0.29554 0.41443,-0.29554 v -3.7642 l 3.08394,0.0446 0.0446,3.67492 4.80479,4.37339 4.72129,-1.51395 0.0949,-3.53422 -4.6142,-4.10211 -0.79025,-0.6312 9.92958,-3.0262 2.83819,-2.43234 v -3.09294 l -14.14608,-12.68256 -0.67049,-8.4343 -3.21807,-2.81157 c 0.17512,-5.05426 -0.38922,-10.50244 -2.49178,-14.339741 -2.40631,5.070341 -2.36682,10.181801 -2.48964,14.339741 z"
@@ -2832,21 +1925,6 @@
        inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       transform="matrix(0.26458333,0,0,0.26458333,6.028004,96.515734)"
-       d="M 45.941406 188.62891 C 43.884672 188.60205 41.132225 188.82006 40.509766 190.6875 C 40.449293 190.86843 40.509766 191.0689 40.509766 191.25977 C 40.509766 191.68889 40.479529 192.11873 40.509766 192.54688 C 40.581199 193.62 41.424667 194.93086 40.794922 195.98047 C 40.141555 197.06943 39.524263 195.52414 39.222656 195.26562 C 38.800521 194.90381 38.318524 194.58395 37.791016 194.4082 C 36.656477 194.03002 34.912492 195.04898 34.072266 195.69531 C 33.830111 195.88145 33.613386 196.12669 33.5 196.41016 C 33.32274 196.85281 33.5 197.36306 33.5 197.83984 C 33.5 198.78767 33.645899 201.42903 33.214844 202.56055 C 32.989017 203.15337 31.950834 204.10971 31.498047 204.5625 C 31.498047 205.39551 31.716927 205.62636 32.070312 206.42188 C 34.973405 212.16377 40.150853 203.52661 42.798828 205.56445 C 42.954658 205.81378 43.093092 206.12622 43.226562 206.46484 L 49.152344 203.35156 C 49.128805 203.27902 49.118063 203.20505 49.091797 203.13281 C 48.535904 201.60407 47.701641 200.06769 47.517578 198.41211 C 47.480161 198.07705 47.49877 197.70609 47.660156 197.41016 C 47.806348 197.14226 48.172859 197.06466 48.376953 196.83789 C 49.554541 195.52942 49.967996 193.90532 50.378906 192.26172 C 50.524418 191.68028 50.844724 191.03496 50.664062 190.40234 C 50.546897 189.99234 50.342758 189.60288 50.091797 189.25781 C 49.951576 189.06494 49.751594 188.88293 49.519531 188.82812 C 48.914391 188.68609 48.281586 188.70066 47.660156 188.68555 C 47.233722 188.67403 46.626984 188.63786 45.941406 188.62891 z "
-       style="opacity:0.999;fill:#566c73;fill-opacity:1;stroke:none;stroke-width:0.415975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1564" />
-    <path
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/kaluabentes/Projects/aircombat-client/src/assets/images/jet.png"
-       id="path2394"
-       style="opacity:0.999;fill:#566c73;fill-opacity:1;stroke:none;stroke-width:0.11006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 59.673092,146.4238 c -0.544178,-0.007 -1.272429,0.0506 -1.437121,0.54467 -0.016,0.0479 0,0.10091 0,0.15141 0,0.11354 -0.008,0.22727 0,0.34055 0.0189,0.28393 0.242067,0.63076 0.07545,0.90847 -0.17287,0.28812 -0.336195,-0.12074 -0.415995,-0.18914 -0.11169,-0.0957 -0.239218,-0.18036 -0.378788,-0.22686 -0.30018,-0.10006 -0.76161,0.16954 -0.98392,0.34055 -0.06407,0.0493 -0.121412,0.11414 -0.151412,0.18914 -0.0469,0.11712 0,0.25212 0,0.37827 0,0.25078 0.0386,0.94964 -0.07545,1.24902 -0.05975,0.15685 -0.334436,0.40988 -0.454236,0.52968 0,0.2204 0.05791,0.28148 0.151412,0.49196 0.76811,1.51921 2.137976,-0.76604 2.838586,-0.22686 0.04123,0.066 0.07786,0.14864 0.113172,0.23823 l 1.567863,-0.82372 c -0.0062,-0.0192 -0.0091,-0.0388 -0.01602,-0.0579 -0.14708,-0.40448 -0.367812,-0.81098 -0.416512,-1.24902 -0.0099,-0.0887 -0.005,-0.1868 0.03772,-0.2651 0.03868,-0.0709 0.135652,-0.0914 0.189652,-0.15141 0.31157,-0.3462 0.420964,-0.77591 0.529684,-1.21078 0.0385,-0.15384 0.123247,-0.32458 0.07545,-0.49196 -0.031,-0.10848 -0.08501,-0.21152 -0.151412,-0.30282 -0.0371,-0.051 -0.09001,-0.0992 -0.151412,-0.11369 -0.16011,-0.0376 -0.327539,-0.0337 -0.491959,-0.0377 -0.112828,-0.003 -0.27336,-0.0126 -0.454753,-0.015 z" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"

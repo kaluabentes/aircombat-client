@@ -11,18 +11,13 @@ export default function createAnimations(scene) {
     repeat: -1,
     frameRate: 60,
     frames: scene.anims.generateFrameNumbers(JET_SPRITE, {
-      start: 3,
-      end: 5,
+      start: 1,
+      end: 3,
     }),
   });
 
   scene.anims.create({
     key: JET_MIN_SPEED_ANIM,
-    repeat: -1,
-    frameRate: 60,
-    frames: scene.anims.generateFrameNumbers(JET_SPRITE, {
-      start: 0,
-      end: 2,
-    }),
+    frames: [{ key: JET_SPRITE, frame: 0 }],
   });
 }
