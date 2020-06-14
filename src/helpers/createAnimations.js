@@ -1,5 +1,5 @@
 import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
-import { JET_SPRITE } from "../config/textures";
+import { JET_KEY } from "../config/keys";
 
 /**
  * Create all the sprite animations.
@@ -10,7 +10,7 @@ export default function createAnimations(scene) {
     key: JET_MAX_SPEED_ANIM,
     repeat: -1,
     frameRate: 60,
-    frames: scene.anims.generateFrameNumbers(JET_SPRITE, {
+    frames: scene.anims.generateFrameNumbers(JET_KEY, {
       start: 1,
       end: 3,
     }),
@@ -18,6 +18,6 @@ export default function createAnimations(scene) {
 
   scene.anims.create({
     key: JET_MIN_SPEED_ANIM,
-    frames: [{ key: JET_SPRITE, frame: 0 }],
+    frames: [{ key: JET_KEY, frame: 0 }],
   });
 }

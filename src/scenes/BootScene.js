@@ -3,8 +3,9 @@ import Phaser from "phaser";
 import createAnimations from "../helpers/createAnimations";
 import jetSprite from "../assets/images/jet.png";
 import cloudImage from "../assets/images/cloud.png";
-import { JET_SPRITE, CLOUD_IMAGE } from "../config/textures";
-import { JET_HEIGHT, JET_WIDTH } from "../config/objects";
+import bulletImage from "../assets/images/bullet.png";
+import { JET_KEY, CLOUD_KEY, BULLET_KEY } from "../config/keys";
+import { JET_HEIGHT, JET_WIDTH } from "../config/game";
 
 export default class BootScene extends Phaser.Scene {
   constructor() {
@@ -33,11 +34,12 @@ export default class BootScene extends Phaser.Scene {
       this.scene.start("BattleScene");
     });
 
-    this.load.spritesheet(JET_SPRITE, jetSprite, {
+    this.load.spritesheet(JET_KEY, jetSprite, {
       frameWidth: JET_WIDTH,
       frameHeight: JET_HEIGHT,
     });
 
-    this.load.image(CLOUD_IMAGE, cloudImage);
+    this.load.image(CLOUD_KEY, cloudImage);
+    this.load.image(BULLET_KEY, bulletImage);
   }
 }

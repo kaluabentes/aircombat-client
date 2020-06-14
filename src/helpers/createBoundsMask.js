@@ -1,6 +1,6 @@
 import Phaser from "phaser";
 
-import { WORLD_HEIGHT, WORLD_WIDTH } from "../config/objects";
+import { WORLD_HEIGHT, WORLD_WIDTH } from "../config/game";
 import { OUTSIDE_COLOR } from "../config/game";
 
 /**
@@ -9,30 +9,42 @@ import { OUTSIDE_COLOR } from "../config/game";
  */
 export default function createBoundsMask(scene) {
   scene.add
-    .rectangle(-500, 0, 500, WORLD_HEIGHT, OUTSIDE_COLOR)
-    .setOrigin(0, 0);
+    .rectangle(-1500, 0, 1500, WORLD_HEIGHT, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
 
   scene.add
-    .rectangle(WORLD_WIDTH, 0, 500, WORLD_HEIGHT, OUTSIDE_COLOR)
-    .setOrigin(0, 0);
-
-  scene.add.rectangle(0, -500, WORLD_WIDTH, 500, OUTSIDE_COLOR).setOrigin(0, 0);
-
-  scene.add
-    .rectangle(0, WORLD_HEIGHT, WORLD_WIDTH, 500, OUTSIDE_COLOR)
-    .setOrigin(0, 0);
-
-  scene.add.rectangle(-500, -500, 500, 500, OUTSIDE_COLOR).setOrigin(0, 0);
+    .rectangle(WORLD_WIDTH, 0, 1500, WORLD_HEIGHT, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
 
   scene.add
-    .rectangle(WORLD_WIDTH, -500, 500, 500, OUTSIDE_COLOR)
-    .setOrigin(0, 0);
+    .rectangle(0, -1500, WORLD_WIDTH, 1500, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
 
   scene.add
-    .rectangle(-500, WORLD_HEIGHT, 500, 500, OUTSIDE_COLOR)
-    .setOrigin(0, 0);
+    .rectangle(0, WORLD_HEIGHT, WORLD_WIDTH, 1500, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
 
   scene.add
-    .rectangle(WORLD_WIDTH, WORLD_HEIGHT, 500, 500, OUTSIDE_COLOR)
-    .setOrigin(0, 0);
+    .rectangle(-1500, -1500, 1500, 1500, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
+
+  scene.add
+    .rectangle(WORLD_WIDTH, -1500, 1500, 1500, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
+
+  scene.add
+    .rectangle(-1500, WORLD_HEIGHT, 1500, 1500, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
+
+  scene.add
+    .rectangle(WORLD_WIDTH, WORLD_HEIGHT, 1500, 1500, OUTSIDE_COLOR)
+    .setOrigin(0, 0)
+    .setDepth(2);
 }
