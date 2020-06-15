@@ -1,6 +1,7 @@
 import Phaser from "phaser";
 
 import Cannon from "./Cannon";
+import HealthBar from "./HealthBar";
 import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
 import { JET_KEY } from "../config/keys";
 
@@ -13,17 +14,18 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.setDepth(2);
     this.play(JET_MIN_SPEED_ANIM);
 
-    // Dependencies
+    // Components
     this.camera = scene.cameras.main;
     this.leftCannon = new Cannon(scene);
     this.rightCannon = new Cannon(scene);
     this.cannonsAxis = this.scene.add.rectangle(
       this.x,
-      this.y - 90,
+      this.y,
       80,
       50,
       0xff0000
     );
+    this.scene.physics.add.existing(this.cannonsAxis);
     this.cannonsAxis.setVisible(false);
 
     this.isPlayer = isPlayer;
@@ -32,6 +34,10 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.maxSpeed = 1400;
     this.hp = 500;
 
+    if (!isPlayer) {
+      this.healthBar = new HealthBar(scene, this.x, this.y, this.hp);
+    }
+
     // Make camera follow the jet
     if (isPlayer) {
       this.pinCamera();
@@ -39,8 +45,13 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
   }
 
   update() {
+    if (this.healthBar) {
+      this.healthBar.update(this);
+    }
+
     // Teleports the jet when reachs the bounds.
     this.scene.physics.world.wrap(this, 0);
+    this.scene.physics.world.wrap(this.cannonsAxis, 0);
   }
 
   pinCamera() {
@@ -86,8 +97,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
     this.setVelocityX(rotatedVelocity.y);
     this.setVelocityY(-rotatedVelocity.x);
-    this.cannonsAxis.x = this.x;
-    this.cannonsAxis.y = this.y;
+    this.cannonsAxis.body.setVelocityX(rotatedVelocity.y);
+    this.cannonsAxis.body.setVelocityY(-rotatedVelocity.x);
   }
 
   fireCannons() {
@@ -106,5 +117,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
   destroy() {
     this.setActive(false);
     this.setVisible(false);
+    this.healthBar.setActive(false);
+    this.healthBar.setVisible(false);
   }
 }

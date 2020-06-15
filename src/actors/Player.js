@@ -20,6 +20,7 @@ export default class Player {
       this.jet.accelerateMaxSpeed();
     } else {
       this.jet.accelerateMinSpeed();
+      // this.jet.accelerate(0);
     }
 
     if (spaceKey.isDown) {

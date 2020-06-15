@@ -15,8 +15,9 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
   preUpdate(time, delta) {
     super.preUpdate(time, delta);
 
-    const { enemies, player } = this.scene;
+    const { enemies } = this.scene;
 
+    // Detects collision
     const hitsAnyJet = enemies.some((enemy) => {
       const { jet } = enemy;
 
