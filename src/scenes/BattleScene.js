@@ -12,6 +12,7 @@ import {
   JET_HEIGHT,
 } from "../config/game";
 import createBoundsMask from "../helpers/createBoundsMask";
+import createRandomJet from "../helpers/createRandomJet";
 
 export default class BattleScene extends Phaser.Scene {
   constructor() {
@@ -34,30 +35,10 @@ export default class BattleScene extends Phaser.Scene {
       cloud.setAngle(Phaser.Math.Between(0, 360));
     }
 
-    this.player = new Player(
-      this,
-      new Jet(
-        this,
-        Phaser.Math.Between(JET_WIDTH * 0.5, WORLD_WIDTH - JET_WIDTH * 0.5),
-        Phaser.Math.Between(JET_HEIGHT * 0.5, WORLD_HEIGHT - JET_HEIGHT * 0.5),
-        true
-      )
-    );
+    this.player = new Player(this, createRandomJet(this, true));
 
     for (let i = 0; i < 20; i++) {
-      this.enemies.push(
-        new Enemy(
-          this,
-          new Jet(
-            this,
-            Phaser.Math.Between(JET_WIDTH * 0.5, WORLD_WIDTH - JET_WIDTH * 0.5),
-            Phaser.Math.Between(
-              JET_HEIGHT * 0.5,
-              WORLD_HEIGHT - JET_HEIGHT * 0.5
-            )
-          )
-        )
-      );
+      this.enemies.push(new Enemy(this, createRandomJet(this)));
     }
 
     // Add bounds mask to hide jet when hit bounds
