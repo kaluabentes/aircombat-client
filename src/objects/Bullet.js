@@ -9,12 +9,32 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
 
     this.speed = 8000;
     this.range = 1500;
+    this.damage = 15;
   }
 
   preUpdate(time, delta) {
     super.preUpdate(time, delta);
 
-    if (Math.abs(this.startY - this.y) > this.range) {
+    const { enemies, player } = this.scene;
+
+    const hitsAnyJet = enemies.some((enemy) => {
+      const { jet } = enemy;
+
+      if (this.scene.physics.overlap(this, jet)) {
+        jet.hp -= this.damage;
+
+        if (jet.hp <= 0) {
+          jet.destroy();
+          return false;
+        }
+
+        return true;
+      }
+
+      return false;
+    });
+
+    if (Math.abs(this.startY - this.y) > this.range || hitsAnyJet) {
       this.setActive(false);
       this.setVisible(false);
     }

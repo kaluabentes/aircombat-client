@@ -1,9 +1,10 @@
 import Phaser from "phaser";
 
+import Player from "../actors/Player";
+import Enemy from "../actors/Enemy";
 import Jet from "../objects/Jet";
 import Ground from "../objects/Ground";
 import Cloud from "../objects/Cloud";
-import Bullet from "../objects/Bullet";
 import {
   WORLD_WIDTH,
   WORLD_HEIGHT,
@@ -17,6 +18,8 @@ export default class BattleScene extends Phaser.Scene {
     super({
       key: "BattleScene",
     });
+
+    this.enemies = [];
   }
 
   create() {
@@ -31,20 +34,41 @@ export default class BattleScene extends Phaser.Scene {
       cloud.setAngle(Phaser.Math.Between(0, 360));
     }
 
-    this.jet = new Jet(
+    this.player = new Player(
       this,
-      Phaser.Math.Between(JET_WIDTH * 0.5, WORLD_WIDTH - JET_WIDTH * 0.5),
-      Phaser.Math.Between(JET_HEIGHT * 0.5, WORLD_HEIGHT - JET_HEIGHT * 0.5)
+      new Jet(
+        this,
+        Phaser.Math.Between(JET_WIDTH * 0.5, WORLD_WIDTH - JET_WIDTH * 0.5),
+        Phaser.Math.Between(JET_HEIGHT * 0.5, WORLD_HEIGHT - JET_HEIGHT * 0.5),
+        true
+      )
     );
+
+    for (let i = 0; i < 20; i++) {
+      this.enemies.push(
+        new Enemy(
+          this,
+          new Jet(
+            this,
+            Phaser.Math.Between(JET_WIDTH * 0.5, WORLD_WIDTH - JET_WIDTH * 0.5),
+            Phaser.Math.Between(
+              JET_HEIGHT * 0.5,
+              WORLD_HEIGHT - JET_HEIGHT * 0.5
+            )
+          )
+        )
+      );
+    }
 
     // Add bounds mask to hide jet when hit bounds
     createBoundsMask(this);
   }
 
   update() {
-    this.jet.update();
+    this.player.update();
 
-    // Teleports the jet when reachs the bounds.
-    this.physics.world.wrap(this.jet, 0);
+    this.enemies.forEach((enemy) => {
+      enemy.update();
+    });
   }
 }
