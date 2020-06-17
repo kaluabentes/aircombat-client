@@ -5,7 +5,7 @@ import jetSprite from "../assets/images/jet.png";
 import cloudImage from "../assets/images/cloud.png";
 import bulletImage from "../assets/images/bullet.png";
 import { JET_KEY, CLOUD_KEY, BULLET_KEY } from "../config/keys";
-import { JET_HEIGHT, JET_WIDTH } from "../config/game";
+import { JET_HEIGHT, JET_WIDTH } from "../objects/Jet";
 
 export default class BootScene extends Phaser.Scene {
   constructor() {

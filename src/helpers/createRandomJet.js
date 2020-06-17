@@ -1,12 +1,7 @@
 import Phaser, { Scene } from "phaser";
 
-import Jet from "../objects/Jet";
-import {
-  JET_WIDTH,
-  JET_HEIGHT,
-  WORLD_HEIGHT,
-  WORLD_WIDTH,
-} from "../config/game";
+import Jet, { JET_WIDTH, JET_HEIGHT } from "../objects/Jet";
+import { WORLD_HEIGHT, WORLD_WIDTH } from "../config/game";
 
 export default function createRandomJet(scene, isPlayer = false) {
   return new Jet(

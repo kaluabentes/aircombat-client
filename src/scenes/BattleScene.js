@@ -2,15 +2,9 @@ import Phaser from "phaser";
 
 import Player from "../actors/Player";
 import Enemy from "../actors/Enemy";
-import Jet from "../objects/Jet";
 import Ground from "../objects/Ground";
 import Cloud from "../objects/Cloud";
-import {
-  WORLD_WIDTH,
-  WORLD_HEIGHT,
-  JET_WIDTH,
-  JET_HEIGHT,
-} from "../config/game";
+import { WORLD_WIDTH, WORLD_HEIGHT } from "../config/game";
 import createBoundsMask from "../helpers/createBoundsMask";
 import createRandomJet from "../helpers/createRandomJet";
 
@@ -37,7 +31,7 @@ export default class BattleScene extends Phaser.Scene {
 
     this.player = new Player(this, createRandomJet(this, true));
 
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 10; i++) {
       this.enemies.push(new Enemy(this, createRandomJet(this)));
     }
 
