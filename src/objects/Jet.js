@@ -24,7 +24,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.cannonsAxis = this.scene.add.rectangle(
       this.x,
       this.y,
-      60,
+      70,
       50,
       0xff0000
     );
