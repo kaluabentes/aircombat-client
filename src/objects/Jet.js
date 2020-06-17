@@ -43,7 +43,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
     // Make camera follow the jet
     if (isPlayer) {
-      this.pinCamera();
+      this.bindCamera();
     }
   }
 
@@ -57,7 +57,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.scene.physics.world.wrap(this.cannonsAxis, 0);
   }
 
-  pinCamera() {
+  bindCamera() {
     this.camera.startFollow(this);
     this.camera.setFollowOffset(0, 0.85);
     this.camera.setOrigin(0.5, 0.85);
