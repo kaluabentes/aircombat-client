@@ -59,8 +59,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
   pinCamera() {
     this.camera.startFollow(this);
-    this.camera.setFollowOffset(0, 0.8);
-    this.camera.setOrigin(0.5, 0.8);
+    this.camera.setFollowOffset(0, 0.85);
+    this.camera.setOrigin(0.5, 0.85);
   }
 
   turnRight() {
