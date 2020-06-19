@@ -1,7 +1,6 @@
 import Phaser from "phaser";
 
 import { BULLET_KEY } from "../config/keys";
-import { WORLD_HEIGHT } from "../config/game";
 
 export default class Bullet extends Phaser.Physics.Arcade.Sprite {
   constructor(scene, x, y) {
@@ -18,7 +17,7 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
     const { enemies } = this.scene;
 
     // Detects collision
-    const hitsAnyJet = enemies.some((enemy) => {
+    const hitsSomeJet = enemies.some((enemy) => {
       const { jet } = enemy;
 
       if (this.scene.physics.overlap(this, jet)) {
@@ -35,7 +34,7 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
       return false;
     });
 
-    if (Math.abs(this.startY - this.y) > this.range || hitsAnyJet) {
+    if (Math.abs(this.startY - this.y) > this.range || hitsSomeJet) {
       this.setActive(false);
       this.setVisible(false);
     }
