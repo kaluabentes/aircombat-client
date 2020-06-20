@@ -1,6 +1,7 @@
 import Phaser from "phaser";
 
 import { BULLET_KEY } from "../config/keys";
+import { BULLET_DEPTH } from "../config/depths";
 
 export default class Bullet extends Phaser.Physics.Arcade.Sprite {
   constructor(scene, x, y) {
@@ -9,6 +10,8 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
     this.speed = 8000;
     this.range = 1500;
     this.damage = 15;
+
+    this.setDepth(BULLET_DEPTH);
   }
 
   preUpdate(time, delta) {

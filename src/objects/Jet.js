@@ -5,6 +5,7 @@ import HealthBar from "./HealthBar";
 import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
 import { JET_KEY } from "../config/keys";
 import { BOUND_WRAP_PADDING } from "../config/game";
+import { JET_DEPTH } from "../config/depths";
 
 export const JET_WIDTH = 172;
 export const JET_HEIGHT = 264;
@@ -14,9 +15,6 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     super(scene, x, y, JET_KEY);
     scene.add.existing(this);
     scene.physics.add.existing(this);
-
-    this.setDepth(2);
-    this.play(JET_MIN_SPEED_ANIM);
 
     // Components
     this.camera = scene.cameras.main;
@@ -46,6 +44,9 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     if (isPlayer) {
       this.bindCamera();
     }
+
+    this.setDepth(JET_DEPTH);
+    this.play(JET_MIN_SPEED_ANIM);
   }
 
   update() {

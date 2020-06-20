@@ -4,9 +4,9 @@ import Player from "../actors/Player";
 import Enemy from "../actors/Enemy";
 import Ground from "../objects/Ground";
 import { WORLD_WIDTH, WORLD_HEIGHT } from "../config/game";
-import createBoundsMask from "../helpers/createBoundsMask";
 import createRandomJet from "../helpers/createRandomJet";
 import createClouds from "../helpers/createClouds";
+import createBoundsMask from "../helpers/createBoundsMask";
 
 export default class BattleScene extends Phaser.Scene {
   constructor() {
@@ -30,7 +30,6 @@ export default class BattleScene extends Phaser.Scene {
       this.enemies.push(new Enemy(this, createRandomJet(this)));
     }
 
-    // Add bounds mask to hide jet when hit bounds
     createBoundsMask(this);
   }
 

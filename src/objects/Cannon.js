@@ -25,7 +25,6 @@ export default class Cannon extends Phaser.Physics.Arcade.Group {
 
     if (canFire) {
       const bullet = this.getFirstDead(false);
-      bullet.setDepth(1);
       bullet.accelerate(x, y, angle);
 
       this.fireInterval = this.scene.game.getTime() + this.fireRate;
