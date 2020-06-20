@@ -5,8 +5,8 @@ import HealthBar from "./HealthBar";
 import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
 import { JET_KEY } from "../config/keys";
 
-export const JET_WIDTH = 199;
-export const JET_HEIGHT = 305;
+export const JET_WIDTH = 172;
+export const JET_HEIGHT = 264;
 
 export default class Jet extends Phaser.Physics.Arcade.Sprite {
   constructor(scene, x, y, isPlayer) {
@@ -59,8 +59,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
   bindCamera() {
     this.camera.startFollow(this);
-    this.camera.setFollowOffset(0, 0.85);
-    this.camera.setOrigin(0.5, 0.85);
+    // this.camera.setFollowOffset(0, 0.85);
+    // this.camera.setOrigin(0.5, 0.85);
   }
 
   turnRight() {
@@ -68,7 +68,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.cannonsAxis.rotation += this.rotationVelocity;
 
     if (this.isPlayer) {
-      this.camera.rotation -= this.rotationVelocity;
+      // this.camera.rotation -= this.rotationVelocity;
     }
   }
 
@@ -77,7 +77,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.cannonsAxis.rotation -= this.rotationVelocity;
 
     if (this.isPlayer) {
-      this.camera.rotation += this.rotationVelocity;
+      // this.camera.rotation += this.rotationVelocity;
     }
   }
 

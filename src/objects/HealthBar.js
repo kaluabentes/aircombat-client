@@ -34,7 +34,7 @@ export default class HealthBar extends Phaser.GameObjects.Container {
     const { player } = this.scene;
     this.body.setVelocityX(jet.body.velocity.x);
     this.body.setVelocityY(jet.body.velocity.y);
-    this.rotation = player.jet.rotation;
+    // this.rotation = player.jet.rotation;
     this.scene.physics.world.wrap(this, 0);
     this.hp = jet.hp;
     this.innerRectangle.width = this.getPercentage() - this.strokeSize;

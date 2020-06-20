@@ -3,10 +3,10 @@ import Phaser from "phaser";
 import Player from "../actors/Player";
 import Enemy from "../actors/Enemy";
 import Ground from "../objects/Ground";
-import Cloud from "../objects/Cloud";
 import { WORLD_WIDTH, WORLD_HEIGHT } from "../config/game";
 import createBoundsMask from "../helpers/createBoundsMask";
 import createRandomJet from "../helpers/createRandomJet";
+import createClouds from "../helpers/createClouds";
 
 export default class BattleScene extends Phaser.Scene {
   constructor() {
@@ -22,12 +22,7 @@ export default class BattleScene extends Phaser.Scene {
 
     this.ground = new Ground(this, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
 
-    for (let i = 0; i < 300; i++) {
-      let cloud = new Cloud(this, 0, 0);
-      cloud.setX(Phaser.Math.Between(0, WORLD_WIDTH - cloud.width));
-      cloud.setY(Phaser.Math.Between(0, WORLD_HEIGHT - cloud.height));
-      cloud.setAngle(Phaser.Math.Between(0, 360));
-    }
+    createClouds(this, 400);
 
     this.player = new Player(this, createRandomJet(this, true));
 
