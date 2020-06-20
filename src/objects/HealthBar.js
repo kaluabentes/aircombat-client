@@ -1,4 +1,5 @@
 import Phaser from "phaser";
+import { BOUND_WRAP_PADDING } from "../config/game";
 
 export default class HealthBar extends Phaser.GameObjects.Container {
   constructor(scene, x, y, hp) {
@@ -35,7 +36,7 @@ export default class HealthBar extends Phaser.GameObjects.Container {
     this.body.setVelocityX(jet.body.velocity.x);
     this.body.setVelocityY(jet.body.velocity.y);
     // this.rotation = player.jet.rotation;
-    this.scene.physics.world.wrap(this, 0);
+    this.scene.physics.world.wrap(this, BOUND_WRAP_PADDING);
     this.hp = jet.hp;
     this.innerRectangle.width = this.getPercentage() - this.strokeSize;
   }

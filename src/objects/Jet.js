@@ -4,6 +4,7 @@ import Cannon from "./Cannon";
 import HealthBar from "./HealthBar";
 import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
 import { JET_KEY } from "../config/keys";
+import { BOUND_WRAP_PADDING } from "../config/game";
 
 export const JET_WIDTH = 172;
 export const JET_HEIGHT = 264;
@@ -53,8 +54,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     }
 
     // Teleports the jet when reachs the bounds.
-    this.scene.physics.world.wrap(this, 0);
-    this.scene.physics.world.wrap(this.cannonsAxis, 0);
+    this.scene.physics.world.wrap(this, BOUND_WRAP_PADDING);
+    this.scene.physics.world.wrap(this.cannonsAxis, BOUND_WRAP_PADDING);
   }
 
   bindCamera() {

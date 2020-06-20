@@ -5,3 +5,5 @@ export const WORLD_HEIGHT = 15000;
 export const WORLD_WIDTH = 15000;
 
 export const GROUND_COLOR = 0x89c0fb;
+
+export const BOUND_WRAP_PADDING = -1300;
