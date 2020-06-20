@@ -26,7 +26,7 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
       if (this.scene.physics.overlap(this, jet)) {
         jet.hp -= this.damage;
 
-        if (jet.hp <= 0) {
+        if (jet.hp <= 0 && jet.active) {
           jet.destroy();
           return false;
         }

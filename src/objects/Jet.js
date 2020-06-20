@@ -2,9 +2,13 @@ import Phaser from "phaser";
 
 import Cannon from "./Cannon";
 import HealthBar from "./HealthBar";
-import { JET_MAX_SPEED_ANIM, JET_MIN_SPEED_ANIM } from "../config/animations";
-import { JET_KEY } from "../config/keys";
-import { BOUND_WRAP_PADDING } from "../config/game";
+import {
+  JET_MAX_SPEED_ANIM,
+  JET_MIN_SPEED_ANIM,
+  EXPLOSION_ANIM,
+} from "../config/animations";
+import { JET_KEY, EXPLOSION_KEY } from "../config/keys";
+import { BOUND_WRAP_PADDING, MAX_HP } from "../config/game";
 import { JET_DEPTH } from "../config/depths";
 
 export const JET_WIDTH = 172;
@@ -20,21 +24,20 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.camera = scene.cameras.main;
     this.leftCannon = new Cannon(scene);
     this.rightCannon = new Cannon(scene);
-    this.cannonsAxis = this.scene.add.rectangle(
-      this.x,
-      this.y,
-      70,
-      50,
-      0xff0000
-    );
+    this.cannonsAxis = scene.add.rectangle(this.x, this.y, 70, 50, 0xff0000);
     this.scene.physics.add.existing(this.cannonsAxis);
     this.cannonsAxis.setVisible(false);
+    this.explosion = scene.add
+      .sprite(this.x, this.y, EXPLOSION_KEY)
+      .setScale(6)
+      .setVisible(false)
+      .on("animationcomplete", this.handleExplosionComplete, this);
 
     this.isPlayer = isPlayer;
     this.rotationVelocity = 0.03;
     this.minSpeed = 600;
     this.maxSpeed = 1400;
-    this.hp = 500;
+    this.hp = MAX_HP;
 
     if (!isPlayer) {
       this.healthBar = new HealthBar(scene, this.x, this.y, this.hp);
@@ -122,7 +125,14 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
   destroy() {
     this.setActive(false);
     this.setVisible(false);
+    this.disableBody();
     this.healthBar.setActive(false);
     this.healthBar.setVisible(false);
+    this.explosion.setVisible(true).play(EXPLOSION_ANIM);
+  }
+
+  handleExplosionComplete(animation, frame) {
+    this.explosion.setActive(false);
+    this.explosion.setVisible(false);
   }
 }
