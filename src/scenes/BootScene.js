@@ -32,7 +32,7 @@ export default class BootScene extends Phaser.Scene {
     this.load.on("complete", () => {
       progress.destroy();
       createAnimations(this);
-      this.scene.start("HudScene");
+      this.scene.start("GameScene");
     });
 
     this.load.spritesheet(JET_KEY, jetSprite, {

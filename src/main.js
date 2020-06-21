@@ -1,8 +1,8 @@
 import Phaser from "phaser";
 
 import BootScene from "./scenes/BootScene";
+import GameScene from "./scenes/GameScene";
 import HudScene from "./scenes/HudScene";
-import BattleScene from "./scenes/BattleScene";
 import { OUTSIDE_COLOR, MAX_VIEWPORT_WIDTH } from "./config/game";
 
 function main() {
@@ -14,7 +14,7 @@ function main() {
     type: Phaser.CANVAS,
     width: width * devicePixelRatio,
     height: innerHeight * devicePixelRatio,
-    scene: [BootScene, HudScene, BattleScene],
+    scene: [BootScene, HudScene, GameScene],
     backgroundColor: OUTSIDE_COLOR,
     physics: {
       default: "arcade",

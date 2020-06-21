@@ -5,10 +5,12 @@ export default class Enemy {
   }
 
   update() {
-    // Fake AI
-    // this.jet.accelerateMinSpeed();
-    // this.jet.turnLeft();
-    // this.jet.fireCannons();
-    this.jet.update();
+    if (this.jet.active) {
+      // Fake AI
+      // this.jet.accelerateMinSpeed();
+      // this.jet.turnLeft();
+      this.jet.fireCannons();
+      this.jet.update();
+    }
   }
 }

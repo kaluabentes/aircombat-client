@@ -1,7 +1,7 @@
 import Phaser from "phaser";
 
 import Cannon from "./Cannon";
-import HealthBar from "./HealthBar";
+import EnemyHpBar from "./EnemyHpBar";
 import {
   JET_MAX_SPEED_ANIM,
   JET_MIN_SPEED_ANIM,
@@ -15,12 +15,13 @@ export const JET_WIDTH = 172;
 export const JET_HEIGHT = 264;
 
 export default class Jet extends Phaser.Physics.Arcade.Sprite {
-  constructor(scene, x, y, isPlayer) {
+  constructor(scene, x, y, isPlayer, id) {
     super(scene, x, y, JET_KEY);
     scene.add.existing(this);
     scene.physics.add.existing(this);
 
     // Components
+    this.id = id;
     this.camera = scene.cameras.main;
     this.leftCannon = new Cannon(scene);
     this.rightCannon = new Cannon(scene);
@@ -40,7 +41,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.hp = MAX_HP;
 
     if (!isPlayer) {
-      this.healthBar = new HealthBar(scene, this.x, this.y, this.hp);
+      this.hpBar = new EnemyHpBar(scene, this.x, this.y, this.hp);
     }
 
     // Make camera follow the jet
@@ -53,8 +54,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
   }
 
   update() {
-    if (this.healthBar) {
-      this.healthBar.update(this);
+    if (this.hpBar) {
+      this.hpBar.update(this);
     }
 
     // Teleports the jet when reachs the bounds.
@@ -64,26 +65,16 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
   bindCamera() {
     this.camera.startFollow(this);
-    // this.camera.setFollowOffset(0, 0.85);
-    // this.camera.setOrigin(0.5, 0.85);
   }
 
   turnRight() {
     this.rotation += this.rotationVelocity;
     this.cannonsAxis.rotation += this.rotationVelocity;
-
-    if (this.isPlayer) {
-      // this.camera.rotation -= this.rotationVelocity;
-    }
   }
 
   turnLeft() {
     this.rotation -= this.rotationVelocity;
     this.cannonsAxis.rotation -= this.rotationVelocity;
-
-    if (this.isPlayer) {
-      // this.camera.rotation += this.rotationVelocity;
-    }
   }
 
   accelerateMaxSpeed() {
@@ -113,25 +104,41 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.leftCannon.fire(
       this.cannonsAxis.getLeftCenter().x,
       this.cannonsAxis.getLeftCenter().y,
-      this.cannonsAxis.rotation
+      this.cannonsAxis.rotation,
+      this.id
     );
     this.rightCannon.fire(
       this.cannonsAxis.getRightCenter().x,
       this.cannonsAxis.getRightCenter().y,
-      this.cannonsAxis.rotation
+      this.cannonsAxis.rotation,
+      this.id
     );
+  }
+
+  takeDamage(damage) {
+    this.hp -= damage;
+
+    if (this.isPlayer) {
+      // emit event;
+    }
   }
 
   destroy() {
     this.setActive(false);
     this.setVisible(false);
     this.disableBody();
-    this.healthBar.setActive(false);
-    this.healthBar.setVisible(false);
+
+    if (!this.isPlayer) {
+      this.hpBar.setActive(false);
+      this.hpBar.setVisible(false);
+    }
+
+    this.explosion.x = this.x;
+    this.explosion.y = this.y;
     this.explosion.setVisible(true).play(EXPLOSION_ANIM);
   }
 
-  handleExplosionComplete(animation, frame) {
+  handleExplosionComplete() {
     this.explosion.setActive(false);
     this.explosion.setVisible(false);
   }

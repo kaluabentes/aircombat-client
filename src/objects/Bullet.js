@@ -17,14 +17,14 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
   preUpdate(time, delta) {
     super.preUpdate(time, delta);
 
-    const { enemies } = this.scene;
+    const { enemies, player } = this.scene;
 
     // Detects collision
-    const hitsSomeJet = enemies.some((enemy) => {
+    const hitsSomeJet = [...enemies, player].some((enemy) => {
       const { jet } = enemy;
 
-      if (this.scene.physics.overlap(this, jet)) {
-        jet.hp -= this.damage;
+      if (jet.id !== this.jetId && this.scene.physics.overlap(this, jet)) {
+        jet.takeDamage(this.damage);
 
         if (jet.hp <= 0 && jet.active) {
           jet.destroy();
@@ -41,6 +41,10 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
       this.setActive(false);
       this.setVisible(false);
     }
+  }
+
+  setJetId(id) {
+    this.jetId = id;
   }
 
   accelerate(x, y, angle) {

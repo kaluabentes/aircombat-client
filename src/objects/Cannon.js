@@ -18,13 +18,14 @@ export default class Cannon extends Phaser.Physics.Arcade.Group {
     });
   }
 
-  fire(x, y, angle) {
+  fire(x, y, angle, jetId) {
     const canFire =
       this.scene.game.getTime() > this.fireInterval &&
       this.countActive(false) > 0;
 
     if (canFire) {
       const bullet = this.getFirstDead(false);
+      bullet.setJetId(jetId);
       bullet.accelerate(x, y, angle);
 
       this.fireInterval = this.scene.game.getTime() + this.fireRate;

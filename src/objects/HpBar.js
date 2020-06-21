@@ -1,16 +1,16 @@
 import Phaser from "phaser";
-import { BOUND_WRAP_PADDING } from "../config/game";
+
 import { ENEMY_HEALTH_BAR_DEPTH } from "../config/depths";
 
-export default class HealthBar extends Phaser.GameObjects.Container {
-  constructor(scene, x, y, hp, isPlayer) {
+export default class HpBar extends Phaser.GameObjects.Container {
+  constructor(scene, x, y, hp, strokeSize) {
     super(scene, x, y);
     scene.add.existing(this);
     scene.physics.add.existing(this);
 
     this.width = 100;
     this.height = 20;
-    this.strokeSize = 4;
+    this.strokeSize = strokeSize;
     this.maxHp = hp;
     this.hp = hp;
 
@@ -19,21 +19,13 @@ export default class HealthBar extends Phaser.GameObjects.Container {
   }
 
   update(jet) {
-    const { player } = this.scene;
+    const nextPercentage = this.percentage - this.strokeSize;
 
-    if (!jet.body) {
-      return;
-    }
-
-    this.body.setVelocityX(jet.body.velocity.x);
-    this.body.setVelocityY(jet.body.velocity.y);
-    // this.rotation = player.jet.rotation;
-    this.scene.physics.world.wrap(this, BOUND_WRAP_PADDING);
     this.hp = jet.hp;
-    this.innerRectangle.width = this.getPercentage() - this.strokeSize;
+    this.innerRectangle.width = nextPercentage < 0 ? 0 : nextPercentage;
   }
 
-  getPercentage() {
+  get percentage() {
     return (this.hp / this.maxHp) * 100;
   }
 
@@ -45,7 +37,7 @@ export default class HealthBar extends Phaser.GameObjects.Container {
     this.innerRectangle = this.scene.add.rectangle(
       0,
       0,
-      this.getPercentage() - this.strokeSize,
+      this.percentage - this.strokeSize,
       this.height - this.strokeSize,
       0xffff00
     );
