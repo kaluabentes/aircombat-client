@@ -9,7 +9,7 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
 
     this.speed = 8000;
     this.range = 1500;
-    this.damage = 15;
+    this.damage = 5;
 
     this.setDepth(BULLET_DEPTH);
   }

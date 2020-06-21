@@ -1,7 +1,6 @@
 import Phaser from "phaser";
 
-import { OUTSIDE_COLOR, GROUND_COLOR } from "../config/game";
-import { CLOUD_KEY } from "../config/keys";
+import { GROUND_COLOR } from "../config/game";
 
 export default class Ground extends Phaser.GameObjects.Rectangle {
   constructor(scene, x, y, height, width) {
