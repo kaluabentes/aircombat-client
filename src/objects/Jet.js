@@ -58,6 +58,21 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
       this.hpBar.update(this);
     }
 
+    const hitsSomeEnemy = this.scene.enemies.some((enemy) => {
+      const { jet } = enemy;
+
+      if (this.scene.physics.overlap(this, jet)) {
+        jet.destroy();
+        return true;
+      }
+
+      return false;
+    });
+
+    if (hitsSomeEnemy) {
+      this.destroy();
+    }
+
     // Teleports the jet when reachs the bounds.
     this.scene.physics.world.wrap(this, BOUND_WRAP_PADDING);
     this.scene.physics.world.wrap(this.cannonsAxis, BOUND_WRAP_PADDING);
@@ -124,6 +139,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
   }
 
   destroy() {
+    this.hp = 0;
     this.setActive(false);
     this.setVisible(false);
     this.disableBody();

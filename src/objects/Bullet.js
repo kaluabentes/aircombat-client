@@ -28,7 +28,6 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
 
         if (jet.hp <= 0 && jet.active) {
           jet.destroy();
-          return false;
         }
 
         return true;
