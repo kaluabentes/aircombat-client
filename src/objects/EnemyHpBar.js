@@ -4,7 +4,7 @@ import { BOUND_WRAP_PADDING } from "../config/game";
 
 export default class EnemyHpBar extends HpBar {
   constructor(scene, x, y, hp) {
-    super(scene, x, y, hp, 4);
+    super(scene, x, y, 100, 20, hp, 4);
   }
 
   update(jet) {

@@ -7,8 +7,8 @@ export default class Enemy {
   update() {
     if (this.jet.active) {
       // Fake AI
-      this.jet.accelerateMaxSpeed();
-      this.jet.turnLeft();
+      // this.jet.accelerateMaxSpeed();
+      // this.jet.turnLeft();
       this.jet.fireCannons();
       this.jet.update();
     }

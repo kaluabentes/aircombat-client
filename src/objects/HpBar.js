@@ -3,13 +3,13 @@ import Phaser from "phaser";
 import { ENEMY_HEALTH_BAR_DEPTH } from "../config/depths";
 
 export default class HpBar extends Phaser.GameObjects.Container {
-  constructor(scene, x, y, hp, strokeSize) {
+  constructor(scene, x, y, width, height, hp, strokeSize) {
     super(scene, x, y);
     scene.add.existing(this);
     scene.physics.add.existing(this);
 
-    this.width = 100;
-    this.height = 20;
+    this.width = width;
+    this.height = height;
     this.strokeSize = strokeSize;
     this.maxHp = hp;
     this.hp = hp;
@@ -19,14 +19,17 @@ export default class HpBar extends Phaser.GameObjects.Container {
   }
 
   update(jet) {
-    const nextPercentage = this.percentage - this.strokeSize;
-
     this.hp = jet.hp;
-    this.innerRectangle.width = nextPercentage < 0 ? 0 : nextPercentage;
+    this.innerRectangle.width =
+      this.nextInnerWidth < 0 ? 0 : this.nextInnerWidth;
   }
 
-  get percentage() {
-    return (this.hp / this.maxHp) * 100;
+  get nextInnerWidth() {
+    return this.width * this.hpPercentage - this.strokeSize;
+  }
+
+  get hpPercentage() {
+    return (this.hp / this.maxHp) * 1;
   }
 
   draw() {
@@ -37,7 +40,7 @@ export default class HpBar extends Phaser.GameObjects.Container {
     this.innerRectangle = this.scene.add.rectangle(
       0,
       0,
-      this.percentage - this.strokeSize,
+      this.nextInnerWidth,
       this.height - this.strokeSize,
       0xffff00
     );
