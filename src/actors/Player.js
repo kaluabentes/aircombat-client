@@ -1,7 +1,8 @@
 export default class Player {
-  constructor(scene, jet) {
+  constructor(scene, jet, name) {
     this.scene = scene;
     this.jet = jet;
+    this.name = name;
   }
 
   update() {

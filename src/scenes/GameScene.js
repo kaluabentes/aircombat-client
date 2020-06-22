@@ -25,10 +25,16 @@ export default class GameScene extends Phaser.Scene {
 
     createClouds(this, 400);
 
-    this.player = new Player(this, createRandomJet(this, true, uuid()));
+    this.player = new Player(
+      this,
+      createRandomJet(this, true, uuid()),
+      "K4lux45"
+    );
 
     for (let i = 0; i < 10; i++) {
-      this.enemies.push(new Enemy(this, createRandomJet(this, false, uuid())));
+      this.enemies.push(
+        new Enemy(this, createRandomJet(this, false, uuid(), "K4lux45"))
+      );
     }
 
     createBoundsMask(this);

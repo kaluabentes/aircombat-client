@@ -15,7 +15,7 @@ export const JET_WIDTH = 172;
 export const JET_HEIGHT = 264;
 
 export default class Jet extends Phaser.Physics.Arcade.Sprite {
-  constructor(scene, x, y, isPlayer, id) {
+  constructor(scene, x, y, isPlayer, id, enemyName) {
     super(scene, x, y, JET_KEY);
     scene.add.existing(this);
     scene.physics.add.existing(this);
@@ -41,7 +41,7 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.hp = MAX_HP;
 
     if (!isPlayer) {
-      this.hpBar = new EnemyHpBar(scene, this.x, this.y, this.hp);
+      this.hpBar = new EnemyHpBar(scene, this.x, this.y, this.hp, enemyName);
     }
 
     // Make camera follow the jet

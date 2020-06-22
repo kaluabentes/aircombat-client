@@ -16,7 +16,7 @@ export default class HudScene extends Phaser.Scene {
     this.jet = jet;
 
     this.scene.sendToBack("GameScene");
-    this.playerHpBar = new PlayerHpBar(this, 180, 50, jet.hp);
+    this.playerHpBar = new PlayerHpBar(this, 180, 90, jet.hp, player.name);
   }
 
   update() {
