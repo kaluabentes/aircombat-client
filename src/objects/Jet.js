@@ -132,10 +132,6 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
 
   takeDamage(damage) {
     this.hp -= damage;
-
-    if (this.isPlayer) {
-      // emit event;
-    }
   }
 
   destroy() {
@@ -154,6 +150,10 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.explosion.setVisible(true).play(EXPLOSION_ANIM);
 
     this.camera.shake(200);
+
+    if (this.isPlayer) {
+      this.scene.scene.launch("RetryScene", { player: this.scene.player });
+    }
   }
 
   handleExplosionComplete() {
