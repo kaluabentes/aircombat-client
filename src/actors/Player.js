@@ -1,3 +1,7 @@
+import { v4 as uuid } from "uuid";
+
+import createRandomJet from "../helpers/createRandomJet";
+
 export default class Player {
   constructor(scene, jet, name) {
     this.scene = scene;
@@ -35,4 +39,8 @@ export default class Player {
 
   // TODO
   score() {}
+
+  createJet() {
+    this.jet = createRandomJet(this.scene, true, uuid(), this.name);
+  }
 }
