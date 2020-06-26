@@ -152,6 +152,8 @@ export default class Jet extends Phaser.Physics.Arcade.Sprite {
     this.explosion.x = this.x;
     this.explosion.y = this.y;
     this.explosion.setVisible(true).play(EXPLOSION_ANIM);
+
+    this.camera.shake(200);
   }
 
   handleExplosionComplete() {
