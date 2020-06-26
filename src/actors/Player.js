@@ -32,4 +32,7 @@ export default class Player {
       this.jet.update();
     }
   }
+
+  // TODO
+  score() {}
 }

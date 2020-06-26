@@ -9,7 +9,7 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
 
     this.speed = 8000;
     this.range = 1500;
-    this.damage = 5;
+    this.damage = 20;
 
     this.setDepth(BULLET_DEPTH);
   }
@@ -18,6 +18,7 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
     super.preUpdate(time, delta);
 
     const { enemies, player } = this.scene;
+    const playerJetId = player.jet.id;
 
     // Detects collision
     const hitsSomeJet = [...enemies, player].some((enemy) => {
@@ -27,6 +28,10 @@ export default class Bullet extends Phaser.Physics.Arcade.Sprite {
         jet.takeDamage(this.damage);
 
         if (jet.hp <= 0 && jet.active) {
+          if (playerJetId === this.jetId) {
+            player.score();
+          }
+
           jet.destroy();
         }
 
